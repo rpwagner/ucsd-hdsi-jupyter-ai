@@ -1,0 +1,8 @@
+scope,evidence_kind,evidence_period,statement,limitation,source
+Project Jupyter,discussion,April 2026,"Seeks recommendations for subprojects rather than one mandatory policy","Not an enacted universal policy; discussion scope does not establish all project rules",https://github.com/jupyter/governance/issues/337
+Project Jupyter,source-collection,January 2026 onward,"Collects policies and discussions","Does not enact a policy",https://github.com/jupyter/governance/issues/326
+JupyterHub,adopted-policy,September 2026 snapshot,"Human responsibility and disclosure; quality and copyright standards; human communication except translation; no autonomous agent-written-and-submitted PRs; no supporting agent instruction files","Not a ban on all AI assistance; individuals need not share one opinion",https://compass.hub.jupyter.org/contribute/llm/
+JupyterHub,individual-views,May 2026,"Discussion includes disagreement about commercial tools and policy wording","Discussion and opinions are not amendments to adopted policy",https://github.com/jupyterhub/team-compass/issues/905
+JupyterLab,repository-practice,January 2026 change,"Coding-agent guidance added","Not a universal Jupyter contribution policy",https://github.com/jupyterlab/jupyterlab/pull/18322
+JupyterLab,repository-practice,February 2026 change,"PR template asks for disclosure and human review and execution","Evidence of contribution workflow; not unanimous enthusiasm for AI",https://github.com/jupyterlab/jupyterlab/pull/18413
+JupyterLab Frontends,dated-experiment,February 2026,"Copilot review evaluated as opt-in","Does not establish the September setting or a permanent rule",https://github.com/jupyterlab/frontends-team-compass/issues/301#issuecomment-3999212671

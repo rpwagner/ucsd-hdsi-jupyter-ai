@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="365" viewBox="0 0 1100 365" role="img" aria-labelledby="title desc">
+<title id="title">Two AI questions</title>
+<desc id="desc">Jupyter AI adds AI capabilities to Jupyter. AI in Jupyter, as used in this episode, means decisions about AI-assisted development of Jupyter itself.</desc>
+<rect x="0" y="0" width="1100" height="365" rx="0" fill="#FFFFFF"/>
+<text x="45" y="60" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#17243C">Two questions, one ecosystem</text>
+<rect x="45" y="104" width="490" height="184" rx="22" fill="#EAF2FF"/>
+<rect x="565" y="104" width="490" height="184" rx="22" fill="#F2EDFF"/>
+<text x="70" y="154" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" fill="#17243C">Jupyter AI</text>
+<text x="70" y="205" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#17243C">Software that adds AI capabilities</text>
+<text x="70" y="243" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#17243C">to Jupyter</text>
+<text x="590" y="154" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" fill="#17243C">AI in Jupyter</text>
+<text x="590" y="205" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#17243C">Rules for using AI to develop</text>
+<text x="590" y="243" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#17243C">Jupyter itself</text>
+<text x="45" y="332" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#17243C">These definitions frame this episode; they are not interchangeable.</text>
+</svg>
