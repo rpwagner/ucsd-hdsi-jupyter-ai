@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="470" viewBox="0 0 1100 470" role="img" aria-labelledby="title desc">
+<title id="title">PR activity is concentrated</title>
+<desc id="desc">September 30 exploratory aggregation. Cumulative top 5 accounts: 472 of 700 PRs, 67.4%; top 10: 571, 81.6%; top 20: 645, 92.1%. Accounts not identified as bots, not proven human authorship.</desc>
+<rect x="0" y="0" width="1100" height="470" rx="0" fill="#FFFFFF"/>
+<text x="45" y="58" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#17243C">PR activity is concentrated</text>
+<text x="45" y="96" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#17243C">September 30 snapshot | 700 recorded PRs | 63 recorded accounts</text>
+<text x="45" y="180" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#17243C">Top 5 accounts</text>
+<rect x="270" y="150" width="610" height="45" rx="8" fill="#EBEEF4"/>
+<rect x="270" y="150" width="411.31" height="45" rx="8" fill="#2667DA"/>
+<text x="905" y="180" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#17243C">67.4%</text>
+<text x="905" y="206" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#17243C">472 PRs</text>
+<text x="45" y="262" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#17243C">Top 10 accounts</text>
+<rect x="270" y="232" width="610" height="45" rx="8" fill="#EBEEF4"/>
+<rect x="270" y="232" width="497.59" height="45" rx="8" fill="#6953BD"/>
+<text x="905" y="262" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#17243C">81.6%</text>
+<text x="905" y="288" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#17243C">571 PRs</text>
+<text x="45" y="344" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#17243C">Top 20 accounts</text>
+<rect x="270" y="314" width="610" height="45" rx="8" fill="#EBEEF4"/>
+<rect x="270" y="314" width="562.07" height="45" rx="8" fill="#D77117"/>
+<text x="905" y="344" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#17243C">92.1%</text>
+<text x="905" y="370" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#17243C">645 PRs</text>
+<text x="45" y="411" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#17243C">Cumulative groups; do not add the bars. PR counts measure activity, not effort.</text>
+<text x="45" y="444" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" fill="#17243C">Bot-account filter only. Raw PR export incomplete; see research.md and data/README.md.</text>
+</svg>

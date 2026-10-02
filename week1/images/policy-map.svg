@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="760" viewBox="0 0 1100 760" role="img" aria-labelledby="title desc">
+<title id="title">AI tools, different ground rules</title>
+<desc id="desc">Project-wide April discussion seeks recommendations, not a single mandatory policy. JupyterHub adopted human responsibility, disclosure and communication rules and bars autonomous agent-submitted contributions. JupyterLab added agent guidance and disclosure. February opt-in review was an experiment, not a verified September setting.</desc>
+<rect x="0" y="0" width="1100" height="760" rx="0" fill="#FFFFFF"/>
+<text x="45" y="58" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#17243C">AI tools, different ground rules</text>
+<text x="45" y="97" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#17243C">September 30 snapshot | Policy, practice and experiments are different evidence</text>
+<rect x="45" y="127" width="1010" height="145" rx="22" fill="#F1F4F9"/>
+<text x="70" y="169" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#17243C">Project Jupyter | April discussion</text>
+<text x="70" y="207" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#17243C">The Executive Council seeks recommendations for subprojects,</text>
+<text x="70" y="241" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#17243C">not a single mandatory policy through this discussion.</text>
+<rect x="45" y="299" width="490" height="322" rx="22" fill="#EAF2FF"/>
+<rect x="565" y="299" width="490" height="322" rx="22" fill="#F2EDFF"/>
+<text x="70" y="341" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#174896">JupyterHub</text>
+<text x="70" y="377" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#17243C">Adopted contribution policy</text>
+<text x="70" y="421" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#17243C">Human responsibility and disclosure</text>
+<text x="70" y="459" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#17243C">No AI speaking for you, except translation</text>
+<text x="70" y="497" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#17243C">No autonomous agent-written-and-</text>
+<text x="70" y="524" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#17243C">submitted PRs; no supporting agent files</text>
+<text x="70" y="567" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#17243C">Quality and copyright rules still apply</text>
+<text x="590" y="341" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#57419E">JupyterLab</text>
+<text x="590" y="377" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#17243C">Documented repository practices</text>
+<text x="590" y="421" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#17243C">Guidance for coding agents</text>
+<text x="590" y="459" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#17243C">PR template asks about AI use</text>
+<text x="590" y="497" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#17243C">Human author reviews and runs code</text>
+<text x="590" y="543" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#17243C">Practice is not a claim of unanimous</text>
+<text x="590" y="570" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#17243C">personal support for AI</text>
+<rect x="45" y="645" width="1010" height="75" rx="14" fill="#FFF4E5"/>
+<text x="70" y="677" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#17243C">Dated experiment: February frontend notes favored opt-in AI review.</text>
+<text x="70" y="706" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#17243C">Those notes do not establish the September setting. See research.md for sources.</text>
+</svg>

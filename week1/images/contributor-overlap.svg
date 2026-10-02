@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="480" viewBox="0 0 1100 480" role="img" aria-labelledby="title desc">
+<title id="title">Provisional overlap, not a census</title>
+<desc id="desc">The original manual classification flags 10 of the top 20 accounts. Their 522 PRs are 74.6 percent of the recorded total of 700. The remainder is not established as non-overlap. Classification evidence is incomplete.</desc>
+<rect x="0" y="0" width="1100" height="480" rx="0" fill="#FFFFFF"/>
+<text x="45" y="58" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#17243C">Provisional overlap, not a census</text>
+<text x="45" y="99" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#17243C">Original manual classification | September 30 reporting snapshot</text>
+<rect x="45" y="136" width="1010" height="115" rx="22" fill="#F1EEFA"/>
+<text x="70" y="184" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" fill="#17243C">10 of the top 20 accounts</text>
+<text x="70" y="224" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#17243C">were flagged for other official-Jupyter history in the original pass.</text>
+<rect x="45" y="283" width="1010" height="55" rx="0" fill="#E9EDF3"/>
+<rect x="45" y="283" width="753.17" height="55" rx="0" fill="#6953BD"/>
+<text x="63" y="320" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#FFFFFF">522 PRs in flagged set: 74.6%</text>
+<text x="820" y="319" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#17243C">178 other PRs</text>
+<text x="45" y="386" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#17243C">Not a percentage of community membership or a measure of policy views.</text>
+<text x="45" y="424" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#17243C">Other / unclassified is not proof of no Jupyter history. Evidence remains incomplete.</text>
+<text x="45" y="457" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" fill="#17243C">Source: retained overlap table and recorded total of 700; see data/README.md.</text>
+</svg>

@@ -1,0 +1,15 @@
+metric,value
+human_prs,700
+unique_human_authors,63
+top5_prs,472
+top5_share_percent,67.4
+top10_prs,571
+top10_share_percent,81.6
+top20_prs,645
+top20_share_percent,92.1
+conservative_overlap_top20_authors,10
+conservative_overlap_prs,522
+conservative_overlap_share_percent,74.6
+author_rows_preserved,60
+author_rows_preserved_prs,697
+omitted_one_pr_authors,3
