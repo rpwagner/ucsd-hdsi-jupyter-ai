@@ -1,0 +1,282 @@
+[
+  {
+    "login": "3coins",
+    "name": "Piyush Jain",
+    "roles": [
+      {
+        "team": "jupyter_foundation",
+        "role": "Governing Board Member",
+        "organization": "AWS",
+        "term": "2026-"
+      }
+    ],
+    "source_url": "https://jupyter.org/governance/overview/"
+  },
+  {
+    "login": "afshin",
+    "name": "Afshin Darian",
+    "roles": [
+      {
+        "team": "jupyter_foundation",
+        "role": "Governing Board Member",
+        "organization": "Executive Council"
+      }
+    ],
+    "source_url": "https://jupyter.org/governance/overview/"
+  },
+  {
+    "login": "agoose77",
+    "name": "Angus Hollands",
+    "roles": [
+      {
+        "team": "software_steering_council",
+        "subproject": "Jupyter Book"
+      }
+    ],
+    "source_url": "https://jupyter.org/governance/overview/"
+  },
+  {
+    "login": "bigsur0",
+    "name": "Rus Pandey",
+    "roles": [
+      {
+        "team": "jupyter_foundation",
+        "role": "Governing Board Chair",
+        "organization": "Apple"
+      }
+    ],
+    "source_url": "https://jupyter.org/governance/overview/"
+  },
+  {
+    "login": "celestehorgan",
+    "name": "Celeste Horgan",
+    "roles": [
+      {
+        "team": "jupyter_foundation",
+        "role": "Governing Board Member",
+        "organization": "Snowflake"
+      }
+    ],
+    "source_url": "https://jupyter.org/governance/overview/"
+  },
+  {
+    "login": "choldgraf",
+    "name": "Chris Holdgraf",
+    "roles": [
+      {
+        "team": "jupyter_foundation",
+        "role": "Governing Board Member",
+        "organization": "Executive Council"
+      }
+    ],
+    "source_url": "https://jupyter.org/governance/overview/"
+  },
+  {
+    "login": "gabalafou",
+    "name": "Gabriel Fouasnon",
+    "roles": [
+      {
+        "team": "software_steering_council",
+        "subproject": "Jupyter Accessibility"
+      }
+    ],
+    "source_url": "https://jupyter.org/governance/overview/"
+  },
+  {
+    "login": "ivanov",
+    "name": "Paul Ivanov",
+    "roles": [
+      {
+        "team": "software_steering_council",
+        "subproject": "Jupyter Foundations and Standards"
+      }
+    ],
+    "source_url": "https://jupyter.org/governance/overview/"
+  },
+  {
+    "login": "jake-stack",
+    "name": "Jacob Diamond-Reivich",
+    "roles": [
+      {
+        "team": "jupyter_foundation",
+        "role": "Governing Board Member",
+        "organization": "Executive Council"
+      }
+    ],
+    "source_url": "https://jupyter.org/governance/overview/"
+  },
+  {
+    "login": "johanmabille",
+    "name": "Johan Mabille",
+    "roles": [
+      {
+        "team": "software_steering_council",
+        "subproject": "Jupyter Kernels"
+      }
+    ],
+    "source_url": "https://jupyter.org/governance/overview/"
+  },
+  {
+    "login": "jtpio",
+    "name": "Jeremy Tuloup",
+    "roles": [
+      {
+        "team": "software_steering_council",
+        "subproject": "Jupyter Frontends"
+      }
+    ],
+    "source_url": "https://jupyter.org/governance/overview/"
+  },
+  {
+    "login": "krassowski",
+    "name": "Michał Krassowski",
+    "roles": [
+      {
+        "team": "jupyter_foundation",
+        "role": "Governing Board Member",
+        "organization": "General Members"
+      }
+    ],
+    "source_url": "https://jupyter.org/governance/overview/"
+  },
+  {
+    "login": "marthacryan",
+    "name": "Martha Cryan",
+    "roles": [
+      {
+        "team": "software_steering_council",
+        "subproject": "DEI Standing Committee"
+      }
+    ],
+    "source_url": "https://jupyter.org/governance/overview/"
+  },
+  {
+    "login": "martinRenou",
+    "name": "Martin Renou",
+    "roles": [
+      {
+        "team": "software_steering_council",
+        "subproject": "Voilà"
+      }
+    ],
+    "source_url": "https://jupyter.org/governance/overview/"
+  },
+  {
+    "login": "metrizable",
+    "name": "Eric Johnson",
+    "roles": [
+      {
+        "team": "jupyter_foundation",
+        "role": "Governing Board Member",
+        "organization": "Google"
+      }
+    ],
+    "source_url": "https://jupyter.org/governance/overview/"
+  },
+  {
+    "login": "minrk",
+    "name": "Min Ragan-Kelley",
+    "roles": [
+      {
+        "team": "software_steering_council",
+        "subproject": "JupyterHub and Binder"
+      }
+    ],
+    "source_url": "https://jupyter.org/governance/overview/"
+  },
+  {
+    "login": "rpwagner",
+    "name": "Rick Wagner",
+    "roles": [
+      {
+        "team": "jupyter_foundation",
+        "role": "Governing Board Member",
+        "organization": "Executive Council"
+      }
+    ],
+    "source_url": "https://jupyter.org/governance/overview/"
+  },
+  {
+    "login": "SylvainCorlay",
+    "name": "Sylvain Corlay",
+    "roles": [
+      {
+        "team": "software_steering_council",
+        "subproject": "Jupyter Widgets"
+      }
+    ],
+    "source_url": "https://jupyter.org/governance/overview/"
+  },
+  {
+    "login": "vidartf",
+    "name": "Vidar Fauske",
+    "roles": [
+      {
+        "team": "software_steering_council",
+        "subproject": "Jupyter Server"
+      }
+    ],
+    "source_url": "https://jupyter.org/governance/overview/"
+  },
+  {
+    "login": "YDawn",
+    "name": "Yaniv Schahar",
+    "roles": [
+      {
+        "team": "jupyter_foundation",
+        "role": "Governing Board Member",
+        "organization": "Meta"
+      }
+    ],
+    "source_url": "https://jupyter.org/governance/overview/"
+  },
+  {
+    "login": "Yann-P",
+    "name": "Yann Pellegrini",
+    "roles": [
+      {
+        "team": "software_steering_council",
+        "subproject": "Jupyter Security",
+        "term": "2026-"
+      }
+    ],
+    "source_url": "https://jupyter.org/governance/overview/"
+  },
+  {
+    "login": "Zsailer",
+    "name": "Zach Sailer",
+    "roles": [
+      {
+        "team": "jupyter_foundation",
+        "role": "Governing Board Member",
+        "organization": "Executive Council"
+      }
+    ],
+    "source_url": "https://jupyter.org/governance/overview/"
+  },
+  {
+    "login": "dharmaquark",
+    "name": "Stephanie Stattel",
+    "roles": [
+      {
+        "team": "jupyter_foundation",
+        "role": "Governing Board Member",
+        "organization": "Bloomberg"
+      }
+    ],
+    "source_url": "https://jupyter.org/governance/overview/"
+  },
+  {
+    "login": "nsingl00",
+    "name": "Neha Singla",
+    "roles": [
+      {
+        "team": "jupyter_foundation",
+        "role": "Treasurer",
+        "organization": "Apple",
+        "term": "2026-"
+      }
+    ],
+    "source_url": "https://jupyter.org/governance/overview/"
+  }
+]

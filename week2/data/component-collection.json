@@ -1,0 +1,112 @@
+[
+  {
+    "repo": "jupyterlab/jupyterlab",
+    "page": 1,
+    "query": "is:pr repo:jupyterlab/jupyterlab created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20repo%3Ajupyterlab%2Fjupyterlab%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 882,
+    "collected_at": "2026-10-08T02:43:09.685Z",
+    "returned_count": 100,
+    "incomplete_results": false
+  },
+  {
+    "repo": "jupyterlab/jupyterlab",
+    "page": 2,
+    "query": "is:pr repo:jupyterlab/jupyterlab created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20repo%3Ajupyterlab%2Fjupyterlab%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=2",
+    "total_count": 882,
+    "collected_at": "2026-10-08T02:43:10.192Z",
+    "returned_count": 100,
+    "incomplete_results": false
+  },
+  {
+    "repo": "jupyterlab/jupyterlab",
+    "page": 3,
+    "query": "is:pr repo:jupyterlab/jupyterlab created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20repo%3Ajupyterlab%2Fjupyterlab%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=3",
+    "total_count": 882,
+    "collected_at": "2026-10-08T02:43:10.018Z",
+    "returned_count": 100,
+    "incomplete_results": false
+  },
+  {
+    "repo": "jupyterlab/jupyterlab",
+    "page": 4,
+    "query": "is:pr repo:jupyterlab/jupyterlab created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20repo%3Ajupyterlab%2Fjupyterlab%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=4",
+    "total_count": 882,
+    "collected_at": "2026-10-08T02:43:09.557Z",
+    "returned_count": 100,
+    "incomplete_results": false
+  },
+  {
+    "repo": "jupyterlab/jupyterlab",
+    "page": 5,
+    "query": "is:pr repo:jupyterlab/jupyterlab created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20repo%3Ajupyterlab%2Fjupyterlab%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=5",
+    "total_count": 882,
+    "collected_at": "2026-10-08T02:43:09.767Z",
+    "returned_count": 100,
+    "incomplete_results": false
+  },
+  {
+    "repo": "jupyterlab/jupyterlab",
+    "page": 6,
+    "query": "is:pr repo:jupyterlab/jupyterlab created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20repo%3Ajupyterlab%2Fjupyterlab%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=6",
+    "total_count": 882,
+    "collected_at": "2026-10-08T02:43:09.734Z",
+    "returned_count": 100,
+    "incomplete_results": false
+  },
+  {
+    "repo": "jupyterlab/jupyterlab",
+    "page": 7,
+    "query": "is:pr repo:jupyterlab/jupyterlab created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20repo%3Ajupyterlab%2Fjupyterlab%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=7",
+    "total_count": 882,
+    "collected_at": "2026-10-08T02:43:09.538Z",
+    "returned_count": 100,
+    "incomplete_results": false
+  },
+  {
+    "repo": "jupyterlab/jupyterlab",
+    "page": 8,
+    "query": "is:pr repo:jupyterlab/jupyterlab created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20repo%3Ajupyterlab%2Fjupyterlab%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=8",
+    "total_count": 882,
+    "collected_at": "2026-10-08T02:43:09.744Z",
+    "returned_count": 100,
+    "incomplete_results": false
+  },
+  {
+    "repo": "jupyterlab/jupyterlab",
+    "page": 9,
+    "query": "is:pr repo:jupyterlab/jupyterlab created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20repo%3Ajupyterlab%2Fjupyterlab%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=9",
+    "total_count": 882,
+    "collected_at": "2026-10-08T02:43:09.626Z",
+    "returned_count": 82,
+    "incomplete_results": false
+  },
+  {
+    "repo": "jupyter-server/jupyter_server",
+    "page": 1,
+    "query": "is:pr repo:jupyter-server/jupyter_server created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20repo%3Ajupyter-server%2Fjupyter_server%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 91,
+    "collected_at": "2026-10-08T02:43:09.690Z",
+    "returned_count": 91,
+    "incomplete_results": false
+  },
+  {
+    "repo": "ipython/ipykernel",
+    "page": 1,
+    "query": "is:pr repo:ipython/ipykernel created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20repo%3Aipython%2Fipykernel%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 77,
+    "collected_at": "2026-10-08T02:43:09.322Z",
+    "returned_count": 77,
+    "incomplete_results": false
+  }
+]

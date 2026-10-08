@@ -1,0 +1,4 @@
+repository,all_prs,excluded_prs,retained_prs,account_count,cutoff_prs
+jupyterlab/jupyterlab,882,215,667,157,21
+jupyter-server/jupyter_server,91,13,78,38,4
+ipython/ipykernel,77,21,56,23,5

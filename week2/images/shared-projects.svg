@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="590" viewBox="0 0 1100 590" role="img" aria-labelledby="title desc">
+<title id="title">Where multiple sampled accounts connect</title><desc id="desc">Five non-Jupyter projects with the most distinct qualifying PR-opening accounts in the union of both populations. Roles are not included in these bars.</desc>
+<rect width="1100" height="590" fill="#FFFFFF"/>
+<text x="45" y="58" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="700" fill="#17243C">Where multiple sampled accounts connect</text>
+<text x="45" y="96" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#17243C">Distinct accounts with qualifying 2026 PR activity | union of both populations</text>
+<text x="45" y="160" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#17243C">conda-forge</text>
+<rect x="420" y="130" width="420" height="40" rx="8" fill="#EBEEF4"/>
+<rect x="420" y="130" width="420.00" height="40" rx="8" fill="#2667DA"/>
+<text x="870" y="160" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#17243C">4 accounts</text>
+<text x="45" y="234" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#17243C">emscripten-forge</text>
+<rect x="420" y="204" width="420" height="40" rx="8" fill="#EBEEF4"/>
+<rect x="420" y="204" width="315.00" height="40" rx="8" fill="#2667DA"/>
+<text x="870" y="234" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#17243C">3 accounts</text>
+<text x="45" y="308" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#17243C">PyData Sphinx Theme</text>
+<rect x="420" y="278" width="420" height="40" rx="8" fill="#EBEEF4"/>
+<rect x="420" y="278" width="210.00" height="40" rx="8" fill="#2667DA"/>
+<text x="870" y="308" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#17243C">2 accounts</text>
+<text x="45" y="382" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#17243C">Pyflyby</text>
+<rect x="420" y="352" width="420" height="40" rx="8" fill="#EBEEF4"/>
+<rect x="420" y="352" width="210.00" height="40" rx="8" fill="#2667DA"/>
+<text x="870" y="382" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#17243C">2 accounts</text>
+<text x="45" y="456" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#17243C">QuantStack/git2cpp</text>
+<rect x="420" y="426" width="420" height="40" rx="8" fill="#EBEEF4"/>
+<rect x="420" y="426" width="210.00" height="40" rx="8" fill="#2667DA"/>
+<text x="870" y="456" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#17243C">2 accounts</text>
+<text x="45" y="506" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#17243C">Projects group related repositories after the 3-PR threshold is applied per repository.</text>
+<text x="45" y="539" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400" fill="#17243C">Ties ordered alphabetically. One person counted once per project; no role edges added.</text>
+<text x="45" y="572" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400" fill="#17243C">2026-01-01 through 2026-10-07 UTC. Sources and all edges: data/ and research.md.</text>
+</svg>

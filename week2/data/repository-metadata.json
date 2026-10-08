@@ -1,0 +1,1919 @@
+[
+  {
+    "repository": "2i2c-org/2i2c-org.github.io",
+    "canonical_repository": "2i2c-org/2i2c-org.github.io",
+    "url": "https://github.com/2i2c-org/2i2c-org.github.io",
+    "fork": false,
+    "license": "MIT",
+    "description": "The 2i2c website",
+    "collected_at": "2026-10-08T02:49:09.170Z"
+  },
+  {
+    "repository": "2i2c-org/binderhub-service",
+    "canonical_repository": "2i2c-org/binderhub-service",
+    "url": "https://github.com/2i2c-org/binderhub-service",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": null,
+    "collected_at": "2026-10-08T02:49:09.054Z"
+  },
+  {
+    "repository": "2i2c-org/docs",
+    "canonical_repository": "2i2c-org/docs",
+    "url": "https://github.com/2i2c-org/docs",
+    "fork": false,
+    "license": null,
+    "description": "Documentation for 2i2c community JupyterHubs.",
+    "collected_at": "2026-10-08T02:49:09.031Z"
+  },
+  {
+    "repository": "2i2c-org/infrastructure",
+    "canonical_repository": "2i2c-org/infrastructure",
+    "url": "https://github.com/2i2c-org/infrastructure",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "Infrastructure for configuring and deploying our community JupyterHubs.",
+    "collected_at": "2026-10-08T02:49:09.049Z"
+  },
+  {
+    "repository": "2i2c-org/jupyterhub-home-nfs",
+    "canonical_repository": "2i2c-org/jupyterhub-home-nfs",
+    "url": "https://github.com/2i2c-org/jupyterhub-home-nfs",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "In-cluster NFS server for JupyterHub home directories with usage quota enforcement",
+    "collected_at": "2026-10-08T02:49:09.080Z"
+  },
+  {
+    "repository": "2i2c-org/kpis",
+    "canonical_repository": "2i2c-org/kpis",
+    "url": "https://github.com/2i2c-org/kpis",
+    "fork": false,
+    "license": "Apache-2.0",
+    "description": "A book to track our KPIs",
+    "collected_at": "2026-10-08T02:49:09.030Z"
+  },
+  {
+    "repository": "2i2c-org/roadmap",
+    "canonical_repository": "2i2c-org/roadmap",
+    "url": "https://github.com/2i2c-org/roadmap",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "[WIP] Publish roadmap visibility for 2i2c's product initiatives",
+    "collected_at": "2026-10-08T02:49:09.570Z"
+  },
+  {
+    "repository": "2i2c-org/team-compass",
+    "canonical_repository": "2i2c-org/team-compass",
+    "url": "https://github.com/2i2c-org/team-compass",
+    "fork": false,
+    "license": null,
+    "description": "Organizational strategy, structure, policy, and practices across 2i2c.",
+    "collected_at": "2026-10-08T02:49:09.538Z"
+  },
+  {
+    "repository": "AndreaBozzo/dataprof",
+    "canonical_repository": "AndreaBozzo/dataprof",
+    "url": "https://github.com/AndreaBozzo/dataprof",
+    "fork": false,
+    "license": "MIT",
+    "description": "Data profiling and quality gates for CSV, JSON, Parquet and DataFrames. Rust core, Python API.",
+    "collected_at": "2026-10-08T02:49:09.558Z"
+  },
+  {
+    "repository": "AnswerDotAI/clikernel",
+    "canonical_repository": "AnswerDotAI/clikernel",
+    "url": "https://github.com/AnswerDotAI/clikernel",
+    "fork": false,
+    "license": "Apache-2.0",
+    "description": "A tiny stdin/stdout worker that keeps a Python process alive and returns concise text for each request",
+    "collected_at": "2026-10-08T02:49:09.617Z"
+  },
+  {
+    "repository": "AnswerDotAI/dialoghelper",
+    "canonical_repository": "AnswerDotAI/dialoghelper",
+    "url": "https://github.com/AnswerDotAI/dialoghelper",
+    "fork": false,
+    "license": "Apache-2.0",
+    "description": "Helper functions for solveit dialogs",
+    "collected_at": "2026-10-08T02:49:09.702Z"
+  },
+  {
+    "repository": "AnswerDotAI/fasthtml",
+    "canonical_repository": "AnswerDotAI/fasthtml",
+    "url": "https://github.com/AnswerDotAI/fasthtml",
+    "fork": false,
+    "license": "Apache-2.0",
+    "description": "The fastest way to create an HTML app",
+    "collected_at": "2026-10-08T02:49:09.746Z"
+  },
+  {
+    "repository": "AnswerDotAI/ghapi",
+    "canonical_repository": "AnswerDotAI/ghapi",
+    "url": "https://github.com/AnswerDotAI/ghapi",
+    "fork": false,
+    "license": "Apache-2.0",
+    "description": "A delightful and complete interface to GitHub's amazing API",
+    "collected_at": "2026-10-08T02:49:10.232Z"
+  },
+  {
+    "repository": "Avenx-JS/avenx-js",
+    "canonical_repository": "Avenx-JS/avenx-js",
+    "url": "https://github.com/Avenx-JS/avenx-js",
+    "fork": false,
+    "license": "MIT",
+    "description": "Avenx.js is a compiler-driven, blazingly fast JavaScript framework with proxy-based reactivity.",
+    "collected_at": "2026-10-08T02:49:10.135Z"
+  },
+  {
+    "repository": "Carreau/kCubeGL",
+    "canonical_repository": "Carreau/kCubeGL",
+    "url": "https://github.com/Carreau/kCubeGL",
+    "fork": false,
+    "license": null,
+    "description": null,
+    "collected_at": "2026-10-08T02:49:10.116Z"
+  },
+  {
+    "repository": "Carreau/menage-petit-nemo",
+    "canonical_repository": "Carreau/menage-petit-nemo",
+    "url": "https://github.com/Carreau/menage-petit-nemo",
+    "fork": false,
+    "license": null,
+    "description": null,
+    "collected_at": "2026-10-08T02:49:10.127Z"
+  },
+  {
+    "repository": "Carreau/papyri",
+    "canonical_repository": "Carreau/papyri",
+    "url": "https://github.com/Carreau/papyri",
+    "fork": true,
+    "license": "MIT",
+    "description": null,
+    "collected_at": "2026-10-08T02:49:10.197Z"
+  },
+  {
+    "repository": "Carreau/sphinx_toml",
+    "canonical_repository": "Carreau/sphinx_toml",
+    "url": "https://github.com/Carreau/sphinx_toml",
+    "fork": false,
+    "license": "MIT",
+    "description": null,
+    "collected_at": "2026-10-08T02:49:10.116Z"
+  },
+  {
+    "repository": "Carreau/tree-sitter-rst",
+    "canonical_repository": "Carreau/tree-sitter-rst",
+    "url": "https://github.com/Carreau/tree-sitter-rst",
+    "fork": true,
+    "license": "MIT",
+    "description": "reStructuredText grammar for tree-sitter",
+    "collected_at": "2026-10-08T02:49:10.677Z"
+  },
+  {
+    "repository": "Choices-js/Choices",
+    "canonical_repository": "Choices-js/Choices",
+    "url": "https://github.com/Choices-js/Choices",
+    "fork": false,
+    "license": "MIT",
+    "description": "A vanilla JS customisable select box/text input plugin ⚡️",
+    "collected_at": "2026-10-08T02:49:10.618Z"
+  },
+  {
+    "repository": "Darshan808/NDN-Toolkit",
+    "canonical_repository": "Darshan808/NDN-Toolkit",
+    "url": "https://github.com/Darshan808/NDN-Toolkit",
+    "fork": false,
+    "license": null,
+    "description": "A collection of tools for simulating, generating, and monitoring Named Data Networking node metrics in real time.",
+    "collected_at": "2026-10-08T02:49:10.625Z"
+  },
+  {
+    "repository": "Glocus26/Pendu-Multijoueur",
+    "canonical_repository": "Glocus26/Pendu-Multijoueur",
+    "url": "https://github.com/Glocus26/Pendu-Multijoueur",
+    "fork": false,
+    "license": null,
+    "description": null,
+    "collected_at": "2026-10-08T02:49:10.748Z"
+  },
+  {
+    "repository": "MUFFANUJ/jupyterlab",
+    "canonical_repository": "MUFFANUJ/jupyterlab",
+    "url": "https://github.com/MUFFANUJ/jupyterlab",
+    "fork": true,
+    "license": "BSD-3-Clause",
+    "description": "JupyterLab computational environment.",
+    "collected_at": "2026-10-08T02:49:10.661Z"
+  },
+  {
+    "repository": "MagicStack/asyncpg",
+    "canonical_repository": "MagicStack/asyncpg",
+    "url": "https://github.com/MagicStack/asyncpg",
+    "fork": false,
+    "license": "Apache-2.0",
+    "description": "A fast PostgreSQL Database Client Library for Python/asyncio.",
+    "collected_at": "2026-10-08T02:49:10.663Z"
+  },
+  {
+    "repository": "Mehak261124/AML_DL",
+    "canonical_repository": "Mehak261124/AML_DL",
+    "url": "https://github.com/Mehak261124/AML_DL",
+    "fork": false,
+    "license": null,
+    "description": null,
+    "collected_at": "2026-10-08T02:49:11.298Z"
+  },
+  {
+    "repository": "Mehak261124/Memory_Management_Visualizer",
+    "canonical_repository": "Mehak261124/Memory_Management_Visualizer",
+    "url": "https://github.com/Mehak261124/Memory_Management_Visualizer",
+    "fork": false,
+    "license": null,
+    "description": null,
+    "collected_at": "2026-10-08T02:49:11.139Z"
+  },
+  {
+    "repository": "Mehak261124/Tetris",
+    "canonical_repository": "Mehak261124/Tetris",
+    "url": "https://github.com/Mehak261124/Tetris",
+    "fork": false,
+    "license": null,
+    "description": null,
+    "collected_at": "2026-10-08T02:49:11.159Z"
+  },
+  {
+    "repository": "NVIDIA/NemoClaw",
+    "canonical_repository": "NVIDIA/NemoClaw",
+    "url": "https://github.com/NVIDIA/NemoClaw",
+    "fork": false,
+    "license": "Apache-2.0",
+    "description": "Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference",
+    "collected_at": "2026-10-08T02:49:11.188Z"
+  },
+  {
+    "repository": "OlaGreat/NovaSupport",
+    "canonical_repository": "OlaGreat/NovaSupport",
+    "url": "https://github.com/OlaGreat/NovaSupport",
+    "fork": false,
+    "license": "MIT",
+    "description": "NovaSupport makes it effortless for Stellar ecosystem contributors to receive community support in USDC, XLM, and other Stellar assets through shareable profile pages with full onchain transparency.",
+    "collected_at": "2026-10-08T02:49:11.130Z"
+  },
+  {
+    "repository": "ProjectPythia/cookbook-actions",
+    "canonical_repository": "ProjectPythia/cookbook-actions",
+    "url": "https://github.com/ProjectPythia/cookbook-actions",
+    "fork": false,
+    "license": "Apache-2.0",
+    "description": "Reusable workflows used by Project Pythia Cookbooks",
+    "collected_at": "2026-10-08T02:49:11.289Z"
+  },
+  {
+    "repository": "ProjectPythia/gdex-cookbook",
+    "canonical_repository": "ProjectPythia/gdex-cookbook",
+    "url": "https://github.com/ProjectPythia/gdex-cookbook",
+    "fork": false,
+    "license": "Apache-2.0",
+    "description": null,
+    "collected_at": "2026-10-08T02:49:11.725Z"
+  },
+  {
+    "repository": "ProjectPythia/ptype-ml-cookbook",
+    "canonical_repository": "ProjectPythia/ptype-ml-cookbook",
+    "url": "https://github.com/ProjectPythia/ptype-ml-cookbook",
+    "fork": false,
+    "license": "Apache-2.0",
+    "description": "A short cookbook that is a companion to Unidata's CyberTraining project. ",
+    "collected_at": "2026-10-08T02:49:11.758Z"
+  },
+  {
+    "repository": "Quansight-Labs/intersphinx_registry",
+    "canonical_repository": "Quansight-Labs/intersphinx_registry",
+    "url": "https://github.com/Quansight-Labs/intersphinx_registry",
+    "fork": false,
+    "license": "MIT",
+    "description": null,
+    "collected_at": "2026-10-08T02:49:11.692Z"
+  },
+  {
+    "repository": "QuantStack/git2cpp",
+    "canonical_repository": "QuantStack/git2cpp",
+    "url": "https://github.com/QuantStack/git2cpp",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "C++ wrapper of libgit2 to provide a command-line interface to git for WebAssembly terminals",
+    "collected_at": "2026-10-08T02:49:11.719Z"
+  },
+  {
+    "repository": "QuantStack/quantstack.github.io",
+    "canonical_repository": "QuantStack/quantstack.github.io",
+    "url": "https://github.com/QuantStack/quantstack.github.io",
+    "fork": false,
+    "license": null,
+    "description": "QuantStack website",
+    "collected_at": "2026-10-08T02:49:11.698Z"
+  },
+  {
+    "repository": "RailtownAI/railtracks",
+    "canonical_repository": "RailtownAI/railtracks",
+    "url": "https://github.com/RailtownAI/railtracks",
+    "fork": false,
+    "license": "MIT",
+    "description": "An agentic framework that helps developers build resilient agentic systems",
+    "collected_at": "2026-10-08T02:49:11.719Z"
+  },
+  {
+    "repository": "Shantanugupta43/SuggestPilot",
+    "canonical_repository": "Shantanugupta43/SuggestPilot",
+    "url": "https://github.com/Shantanugupta43/SuggestPilot",
+    "fork": false,
+    "license": "MIT",
+    "description": "An open-source Chrome extension that generates intelligent, context-aware autocomplete suggestions as you type -  powered by Groq's free LLM API",
+    "collected_at": "2026-10-08T02:49:12.239Z"
+  },
+  {
+    "repository": "StudentSuite/StudyMap",
+    "canonical_repository": "StudentSuite/StudyMap",
+    "url": "https://github.com/StudentSuite/StudyMap",
+    "fork": false,
+    "license": "MIT",
+    "description": "An open-source interactive map of student important places near You. Filter by category, region, and access places near you.",
+    "collected_at": "2026-10-08T02:49:12.290Z"
+  },
+  {
+    "repository": "Yann-P/papyri",
+    "canonical_repository": "Yann-P/papyri",
+    "url": "https://github.com/Yann-P/papyri",
+    "fork": true,
+    "license": "MIT",
+    "description": null,
+    "collected_at": "2026-10-08T02:49:12.267Z"
+  },
+  {
+    "repository": "Yann-P/pydata-sphinx-theme",
+    "canonical_repository": "Yann-P/pydata-sphinx-theme",
+    "url": "https://github.com/Yann-P/pydata-sphinx-theme",
+    "fork": true,
+    "license": "BSD-3-Clause",
+    "description": "A clean, three-column Sphinx theme with Bootstrap for the PyData community",
+    "collected_at": "2026-10-08T02:49:12.192Z"
+  },
+  {
+    "repository": "andrii-i/nb-cli",
+    "canonical_repository": "andrii-i/nb-cli",
+    "url": "https://github.com/andrii-i/nb-cli",
+    "fork": true,
+    "license": "BSD-3-Clause",
+    "description": "A CLI-first interface for AI agents to work with notebooks",
+    "collected_at": "2026-10-08T02:49:12.215Z"
+  },
+  {
+    "repository": "ansible/ansible",
+    "canonical_repository": "ansible/ansible",
+    "url": "https://github.com/ansible/ansible",
+    "fork": false,
+    "license": "GPL-3.0",
+    "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+    "collected_at": "2026-10-08T02:49:12.242Z"
+  },
+  {
+    "repository": "apify/crawlee-python",
+    "canonical_repository": "apify/crawlee-python",
+    "url": "https://github.com/apify/crawlee-python",
+    "fork": false,
+    "license": "Apache-2.0",
+    "description": "Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Parsel, BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.",
+    "collected_at": "2026-10-08T02:49:12.883Z"
+  },
+  {
+    "repository": "apple/swift-argument-parser",
+    "canonical_repository": "apple/swift-argument-parser",
+    "url": "https://github.com/apple/swift-argument-parser",
+    "fork": false,
+    "license": "Apache-2.0",
+    "description": "Straightforward, type-safe argument parsing for Swift",
+    "collected_at": "2026-10-08T02:49:12.851Z"
+  },
+  {
+    "repository": "apple/swift-system",
+    "canonical_repository": "apple/swift-system",
+    "url": "https://github.com/apple/swift-system",
+    "fork": false,
+    "license": "Apache-2.0",
+    "description": "Low-level system calls and types for Swift",
+    "collected_at": "2026-10-08T02:49:12.701Z"
+  },
+  {
+    "repository": "aryansk/mend-webmcp",
+    "canonical_repository": "aryansk/mend-webmcp",
+    "url": "https://github.com/aryansk/mend-webmcp",
+    "fork": false,
+    "license": "MIT",
+    "description": "Mend turns website audits into human-approved, source-mapped, verified repairs through WebMCP.",
+    "collected_at": "2026-10-08T02:49:12.665Z"
+  },
+  {
+    "repository": "btsouth/toolport",
+    "canonical_repository": "btsouth/toolport",
+    "url": "https://github.com/btsouth/toolport",
+    "fork": false,
+    "license": "MIT",
+    "description": "Local-first MCP gateway. One port for every tool and every AI client: lazy discovery (~90% token savings), tool integrity + quarantine, secrets in the OS keychain.",
+    "collected_at": "2026-10-08T02:49:12.672Z"
+  },
+  {
+    "repository": "chahe-dridi/dev-setup",
+    "canonical_repository": "chahe-dridi/dev-setup",
+    "url": "https://github.com/chahe-dridi/dev-setup",
+    "fork": false,
+    "license": null,
+    "description": "One command to set up your entire developer environment.  Supports Windows, macOS, Ubuntu and Kali. 40+ tools,  interactive menu, dry-run mode.",
+    "collected_at": "2026-10-08T02:49:12.650Z"
+  },
+  {
+    "repository": "chahe-dridi/vscode-setup",
+    "canonical_repository": "chahe-dridi/vscode-setup",
+    "url": "https://github.com/chahe-dridi/vscode-setup",
+    "fork": false,
+    "license": "MIT",
+    "description": null,
+    "collected_at": "2026-10-08T02:49:13.272Z"
+  },
+  {
+    "repository": "compiler-research/xeus-cpp",
+    "canonical_repository": "compiler-research/xeus-cpp",
+    "url": "https://github.com/compiler-research/xeus-cpp",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "Jupyter kernel for the C++ programming language",
+    "collected_at": "2026-10-08T02:49:13.458Z"
+  },
+  {
+    "repository": "conda-forge/admin-requests",
+    "canonical_repository": "conda-forge/admin-requests",
+    "url": "https://github.com/conda-forge/admin-requests",
+    "fork": false,
+    "license": null,
+    "description": null,
+    "collected_at": "2026-10-08T02:49:13.323Z"
+  },
+  {
+    "repository": "conda-forge/conda-forge-bot",
+    "canonical_repository": "conda-forge/conda-forge-bot",
+    "url": "https://github.com/conda-forge/conda-forge-bot",
+    "fork": false,
+    "license": "NOASSERTION",
+    "description": "bot for conda-forge version updates and pinning migrations",
+    "collected_at": "2026-10-08T02:49:13.258Z"
+  },
+  {
+    "repository": "conda-forge/jupyterlite-terminal-feedstock",
+    "canonical_repository": "conda-forge/jupyterlite-terminal-feedstock",
+    "url": "https://github.com/conda-forge/jupyterlite-terminal-feedstock",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "A conda-smithy repository for jupyterlite-terminal.",
+    "collected_at": "2026-10-08T02:49:13.329Z"
+  },
+  {
+    "repository": "conda-forge/libsodium-feedstock",
+    "canonical_repository": "conda-forge/libsodium-feedstock",
+    "url": "https://github.com/conda-forge/libsodium-feedstock",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "A conda-smithy repository for libsodium.",
+    "collected_at": "2026-10-08T02:49:13.334Z"
+  },
+  {
+    "repository": "conda-forge/mamba-feedstock",
+    "canonical_repository": "conda-forge/mamba-feedstock",
+    "url": "https://github.com/conda-forge/mamba-feedstock",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "A conda-smithy repository for mamba.",
+    "collected_at": "2026-10-08T02:49:14.085Z"
+  },
+  {
+    "repository": "conda-forge/micromamba-feedstock",
+    "canonical_repository": "conda-forge/micromamba-feedstock",
+    "url": "https://github.com/conda-forge/micromamba-feedstock",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "A conda-smithy repository for micromamba.",
+    "collected_at": "2026-10-08T02:49:13.829Z"
+  },
+  {
+    "repository": "conda-forge/mpich-feedstock",
+    "canonical_repository": "conda-forge/mpich-feedstock",
+    "url": "https://github.com/conda-forge/mpich-feedstock",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "A conda-smithy repository for mpich.",
+    "collected_at": "2026-10-08T02:49:13.986Z"
+  },
+  {
+    "repository": "conda-forge/sparrow-feedstock",
+    "canonical_repository": "conda-forge/sparrow-feedstock",
+    "url": "https://github.com/conda-forge/sparrow-feedstock",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "A conda-smithy repository for sparrow.",
+    "collected_at": "2026-10-08T02:49:13.851Z"
+  },
+  {
+    "repository": "conda-forge/sparrow-ipc-feedstock",
+    "canonical_repository": "conda-forge/sparrow-ipc-feedstock",
+    "url": "https://github.com/conda-forge/sparrow-ipc-feedstock",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "A conda-smithy repository for sparrow-ipc.",
+    "collected_at": "2026-10-08T02:49:13.892Z"
+  },
+  {
+    "repository": "conda-forge/xeus-feedstock",
+    "canonical_repository": "conda-forge/xeus-feedstock",
+    "url": "https://github.com/conda-forge/xeus-feedstock",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "A conda-smithy repository for xeus.",
+    "collected_at": "2026-10-08T02:49:13.882Z"
+  },
+  {
+    "repository": "conda-forge/xeus-lua-feedstock",
+    "canonical_repository": "conda-forge/xeus-lua-feedstock",
+    "url": "https://github.com/conda-forge/xeus-lua-feedstock",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "A conda-smithy repository for xeus-lua.",
+    "collected_at": "2026-10-08T02:49:14.452Z"
+  },
+  {
+    "repository": "conda-forge/xeus-python-feedstock",
+    "canonical_repository": "conda-forge/xeus-python-feedstock",
+    "url": "https://github.com/conda-forge/xeus-python-feedstock",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "A conda-smithy repository for xeus-python.",
+    "collected_at": "2026-10-08T02:49:14.557Z"
+  },
+  {
+    "repository": "conda-forge/xeus-r-feedstock",
+    "canonical_repository": "conda-forge/xeus-r-feedstock",
+    "url": "https://github.com/conda-forge/xeus-r-feedstock",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "A conda-smithy repository for xeus-r.",
+    "collected_at": "2026-10-08T02:49:14.584Z"
+  },
+  {
+    "repository": "conda-forge/xeus-sqlite-feedstock",
+    "canonical_repository": "conda-forge/xeus-sqlite-feedstock",
+    "url": "https://github.com/conda-forge/xeus-sqlite-feedstock",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "A conda-smithy repository for xeus-sqlite.",
+    "collected_at": "2026-10-08T02:49:14.557Z"
+  },
+  {
+    "repository": "contourpy/contourpy",
+    "canonical_repository": "contourpy/contourpy",
+    "url": "https://github.com/contourpy/contourpy",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "Python library for calculating contours in 2D quadrilateral grids",
+    "collected_at": "2026-10-08T02:49:14.480Z"
+  },
+  {
+    "repository": "cookiecutter/cookiecutter",
+    "canonical_repository": "cookiecutter/cookiecutter",
+    "url": "https://github.com/cookiecutter/cookiecutter",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.",
+    "collected_at": "2026-10-08T02:49:14.529Z"
+  },
+  {
+    "repository": "correxit/correxit",
+    "canonical_repository": "correxit/correxit",
+    "url": "https://github.com/correxit/correxit",
+    "fork": false,
+    "license": "AGPL-3.0",
+    "description": null,
+    "collected_at": "2026-10-08T02:49:15.189Z"
+  },
+  {
+    "repository": "dask/dask",
+    "canonical_repository": "dask/dask",
+    "url": "https://github.com/dask/dask",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "Parallel computing with task scheduling",
+    "collected_at": "2026-10-08T02:49:14.987Z"
+  },
+  {
+    "repository": "deshaw/jupyterlab-notify",
+    "canonical_repository": "deshaw/jupyterlab-notify",
+    "url": "https://github.com/deshaw/jupyterlab-notify",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "JupyterLab extension to notify cell completion",
+    "collected_at": "2026-10-08T02:49:15.019Z"
+  },
+  {
+    "repository": "deshaw/pyflyby",
+    "canonical_repository": "deshaw/pyflyby",
+    "url": "https://github.com/deshaw/pyflyby",
+    "fork": false,
+    "license": "NOASSERTION",
+    "description": "A set of productivity tools for Python. Learn more at https://www.deshaw.com/library/desco-quansight-improving-jupyter-efficiency",
+    "collected_at": "2026-10-08T02:49:15.059Z"
+  },
+  {
+    "repository": "dheerajjha/mcp-migrate",
+    "canonical_repository": "dheerajjha/mcp-migrate",
+    "url": "https://github.com/dheerajjha/mcp-migrate",
+    "fork": false,
+    "license": "Apache-2.0",
+    "description": "Find and fix what the MCP 2026-07-28 spec revision breaks in your server. 21 rules, 19 of them with fixers, and a readiness board.",
+    "collected_at": "2026-10-08T02:49:14.984Z"
+  },
+  {
+    "repository": "drivendataorg/failed-build-issue-action",
+    "canonical_repository": "drivendataorg/failed-build-issue-action",
+    "url": "https://github.com/drivendataorg/failed-build-issue-action",
+    "fork": false,
+    "license": "MIT",
+    "description": "An action that makes it easy to notify of a failed GitHub Actions workflow run via an issue.",
+    "collected_at": "2026-10-08T02:49:15.059Z"
+  },
+  {
+    "repository": "emscripten-forge/mambajs",
+    "canonical_repository": "emscripten-forge/mambajs",
+    "url": "https://github.com/emscripten-forge/mambajs",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "A TypeScript package for handling conda environments in a web page",
+    "collected_at": "2026-10-08T02:49:15.578Z"
+  },
+  {
+    "repository": "emscripten-forge/pyjs",
+    "canonical_repository": "emscripten-forge/pyjs",
+    "url": "https://github.com/emscripten-forge/pyjs",
+    "fork": false,
+    "license": "MPL-2.0",
+    "description": "Python ⇔ JavaScript bindings using high level embind and pybind11",
+    "collected_at": "2026-10-08T02:49:15.643Z"
+  },
+  {
+    "repository": "emscripten-forge/recipes",
+    "canonical_repository": "emscripten-forge/recipes",
+    "url": "https://github.com/emscripten-forge/recipes",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "Recipes to build the packages for the emscripten-forge distribution",
+    "collected_at": "2026-10-08T02:49:15.601Z"
+  },
+  {
+    "repository": "fsspec/filesystem_spec",
+    "canonical_repository": "fsspec/filesystem_spec",
+    "url": "https://github.com/fsspec/filesystem_spec",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "A specification that python filesystems should adhere to.",
+    "collected_at": "2026-10-08T02:49:15.574Z"
+  },
+  {
+    "repository": "geojupyter/jupytergis",
+    "canonical_repository": "geojupyter/jupytergis",
+    "url": "https://github.com/geojupyter/jupytergis",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "JupyterGIS - Collaborative GIS editor in Jupyter",
+    "collected_at": "2026-10-08T02:49:15.570Z"
+  },
+  {
+    "repository": "grafana/grafana",
+    "canonical_repository": "grafana/grafana",
+    "url": "https://github.com/grafana/grafana",
+    "fork": false,
+    "license": "AGPL-3.0",
+    "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. ",
+    "collected_at": "2026-10-08T02:49:15.643Z"
+  },
+  {
+    "repository": "hibuka-labs/agent-base",
+    "canonical_repository": "hibuka-labs/agent-base",
+    "url": "https://github.com/hibuka-labs/agent-base",
+    "fork": false,
+    "license": "MIT",
+    "description": "A lightweight Agent Runtime Kernel for building AI agents in Rust. Zero business assumptions, full control.",
+    "collected_at": "2026-10-08T02:49:16.249Z"
+  },
+  {
+    "repository": "jasongrout/blog_export",
+    "canonical_repository": "jasongrout/blog_export",
+    "url": "https://github.com/jasongrout/blog_export",
+    "fork": false,
+    "license": null,
+    "description": null,
+    "collected_at": "2026-10-08T02:49:15.995Z"
+  },
+  {
+    "repository": "jasongrout/ipywidgets",
+    "canonical_repository": "jasongrout/ipywidgets",
+    "url": "https://github.com/jasongrout/ipywidgets",
+    "fork": true,
+    "license": "BSD-3-Clause",
+    "description": "IPython widgets for the Jupyter Notebook",
+    "collected_at": "2026-10-08T02:49:16.066Z"
+  },
+  {
+    "repository": "jasongrout/jupyter.github.io",
+    "canonical_repository": "jasongrout/jupyter.github.io",
+    "url": "https://github.com/jasongrout/jupyter.github.io",
+    "fork": true,
+    "license": "BSD-3-Clause",
+    "description": "Jupyter Website",
+    "collected_at": "2026-10-08T02:49:16.341Z"
+  },
+  {
+    "repository": "jasongrout/medium-archive",
+    "canonical_repository": "jasongrout/medium-archive",
+    "url": "https://github.com/jasongrout/medium-archive",
+    "fork": true,
+    "license": null,
+    "description": "Archive a Medium publication",
+    "collected_at": "2026-10-08T02:49:16.069Z"
+  },
+  {
+    "repository": "jtpio/jtpio.github.io",
+    "canonical_repository": "jtpio/jtpio.github.io",
+    "url": "https://github.com/jtpio/jtpio.github.io",
+    "fork": false,
+    "license": "NOASSERTION",
+    "description": "Personal website and blog",
+    "collected_at": "2026-10-08T02:49:16.007Z"
+  },
+  {
+    "repository": "jtpio/jupyterlab-browser-ai",
+    "canonical_repository": "jtpio/jupyterlab-browser-ai",
+    "url": "https://github.com/jtpio/jupyterlab-browser-ai",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "In-browser AI in JupyterLab and Jupyter Notebook",
+    "collected_at": "2026-10-08T02:49:16.718Z"
+  },
+  {
+    "repository": "jtpio/jupyterlite",
+    "canonical_repository": "jtpio/jupyterlite",
+    "url": "https://github.com/jtpio/jupyterlite",
+    "fork": true,
+    "license": "BSD-3-Clause",
+    "description": "Wasm powered Jupyter running in the browser 💡",
+    "collected_at": "2026-10-08T02:49:16.723Z"
+  },
+  {
+    "repository": "jtpio/jupyterlite-ai-kernels",
+    "canonical_repository": "jtpio/jupyterlite-ai-kernels",
+    "url": "https://github.com/jtpio/jupyterlite-ai-kernels",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "In-browser AI kernels with JupyterLite 🤖💡",
+    "collected_at": "2026-10-08T02:49:16.824Z"
+  },
+  {
+    "repository": "jtpio/jupyterlite-remote-server",
+    "canonical_repository": "jtpio/jupyterlite-remote-server",
+    "url": "https://github.com/jtpio/jupyterlite-remote-server",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "Connect a static JupyterLite to a remote Jupyter Server ",
+    "collected_at": "2026-10-08T02:49:16.735Z"
+  },
+  {
+    "repository": "jtpio/lump-sum-vs-dca",
+    "canonical_repository": "jtpio/lump-sum-vs-dca",
+    "url": "https://github.com/jtpio/lump-sum-vs-dca",
+    "fork": false,
+    "license": "MIT",
+    "description": "Interactive analysis comparing Dollar Cost Averaging vs Lump Sum investment strategies 📈",
+    "collected_at": "2026-10-08T02:49:16.851Z"
+  },
+  {
+    "repository": "jupyter-ai-contrib/jupyter-ai-acp-client",
+    "canonical_repository": "jupyter-ai-contrib/jupyter-ai-acp-client",
+    "url": "https://github.com/jupyter-ai-contrib/jupyter-ai-acp-client",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "The ACP client implementation in Jupyter AI",
+    "collected_at": "2026-10-08T02:49:16.885Z"
+  },
+  {
+    "repository": "jupyter-ai-contrib/jupyter-ai-claude-code",
+    "canonical_repository": "jupyter-ai-contrib/jupyter-ai-claude-code",
+    "url": "https://github.com/jupyter-ai-contrib/jupyter-ai-claude-code",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "A Jupyter AI persona for Claude Code",
+    "collected_at": "2026-10-08T02:49:17.295Z"
+  },
+  {
+    "repository": "jupyter-ai-contrib/jupyter-server-documents",
+    "canonical_repository": "jupyter-ai-contrib/jupyter-server-documents",
+    "url": "https://github.com/jupyter-ai-contrib/jupyter-server-documents",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "Server side document handling with improved output handling and kernel management/status.",
+    "collected_at": "2026-10-08T02:49:17.391Z"
+  },
+  {
+    "repository": "jupyter-ai-contrib/jupyterlab-ai-commands",
+    "canonical_repository": "jupyter-ai-contrib/jupyterlab-ai-commands",
+    "url": "https://github.com/jupyter-ai-contrib/jupyterlab-ai-commands",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "A set of JupyterLab commands for use with AI agents ✨",
+    "collected_at": "2026-10-08T02:49:17.306Z"
+  },
+  {
+    "repository": "jupyter-ai-contrib/nb-cli",
+    "canonical_repository": "jupyter-ai-contrib/nb-cli",
+    "url": "https://github.com/jupyter-ai-contrib/nb-cli",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "A CLI-first interface for AI agents to work with notebooks",
+    "collected_at": "2026-10-08T02:49:17.387Z"
+  },
+  {
+    "repository": "jupyterlab-contrib/jupyterlab-browser-storage",
+    "canonical_repository": "jupyterlab-contrib/jupyterlab-browser-storage",
+    "url": "https://github.com/jupyterlab-contrib/jupyterlab-browser-storage",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "A JupyterLab Drive to save files in the browser storage.",
+    "collected_at": "2026-10-08T02:49:17.258Z"
+  },
+  {
+    "repository": "jupyterlab-contrib/jupyterlab-favorites",
+    "canonical_repository": "jupyterlab-contrib/jupyterlab-favorites",
+    "url": "https://github.com/jupyterlab-contrib/jupyterlab-favorites",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "Add the ability to save favorite folders to JupyterLab for quicker browsing",
+    "collected_at": "2026-10-08T02:49:17.411Z"
+  },
+  {
+    "repository": "krassowski/jupyterlab",
+    "canonical_repository": "krassowski/jupyterlab",
+    "url": "https://github.com/krassowski/jupyterlab",
+    "fork": true,
+    "license": "BSD-3-Clause",
+    "description": "JupyterLab computational environment.",
+    "collected_at": "2026-10-08T02:49:17.954Z"
+  },
+  {
+    "repository": "krassowski/jupytext",
+    "canonical_repository": "krassowski/jupytext",
+    "url": "https://github.com/krassowski/jupytext",
+    "fork": true,
+    "license": "MIT",
+    "description": "Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts",
+    "collected_at": "2026-10-08T02:49:17.816Z"
+  },
+  {
+    "repository": "langchain-ai/langchain-aws",
+    "canonical_repository": "langchain-ai/langchain-aws",
+    "url": "https://github.com/langchain-ai/langchain-aws",
+    "fork": false,
+    "license": "MIT",
+    "description": "Build LangChain Applications on AWS",
+    "collected_at": "2026-10-08T02:49:17.987Z"
+  },
+  {
+    "repository": "lingdojo/kana-dojo",
+    "canonical_repository": "lingdojo/kana-dojo",
+    "url": "https://github.com/lingdojo/kana-dojo",
+    "fork": false,
+    "license": "AGPL-3.0",
+    "description": "Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contributions are welcome!",
+    "collected_at": "2026-10-08T02:49:17.820Z"
+  },
+  {
+    "repository": "mainsail-org/gennaker-tools",
+    "canonical_repository": "mainsail-org/gennaker-tools",
+    "url": "https://github.com/mainsail-org/gennaker-tools",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "Useful extensions for the gennaker project",
+    "collected_at": "2026-10-08T02:49:17.814Z"
+  },
+  {
+    "repository": "mamba-org/mamba",
+    "canonical_repository": "mamba-org/mamba",
+    "url": "https://github.com/mamba-org/mamba",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "The Fast Cross-Platform Package Manager",
+    "collected_at": "2026-10-08T02:49:17.829Z"
+  },
+  {
+    "repository": "man-group/polarctic",
+    "canonical_repository": "man-group/polarctic",
+    "url": "https://github.com/man-group/polarctic",
+    "fork": false,
+    "license": "NOASSERTION",
+    "description": "Python plugin to read ArcticDB frames from polars",
+    "collected_at": "2026-10-08T02:49:18.559Z"
+  },
+  {
+    "repository": "marimo-team/marimo",
+    "canonical_repository": "marimo-team/marimo",
+    "url": "https://github.com/marimo-team/marimo",
+    "fork": false,
+    "license": "Apache-2.0",
+    "description": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
+    "collected_at": "2026-10-08T02:49:18.678Z"
+  },
+  {
+    "repository": "matplotlib/ipympl",
+    "canonical_repository": "matplotlib/ipympl",
+    "url": "https://github.com/matplotlib/ipympl",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "Matplotlib Jupyter Integration",
+    "collected_at": "2026-10-08T02:49:18.363Z"
+  },
+  {
+    "repository": "microsoft/apm",
+    "canonical_repository": "microsoft/apm",
+    "url": "https://github.com/microsoft/apm",
+    "fork": false,
+    "license": "MIT",
+    "description": "Agent Package Manager",
+    "collected_at": "2026-10-08T02:49:18.426Z"
+  },
+  {
+    "repository": "midhunkrishna/marginalia",
+    "canonical_repository": "midhunkrishna/marginalia",
+    "url": "https://github.com/midhunkrishna/marginalia",
+    "fork": false,
+    "license": "MIT",
+    "description": "google doc style commenting system in ChatGpt, Claude and Gemini",
+    "collected_at": "2026-10-08T02:49:18.343Z"
+  },
+  {
+    "repository": "moby/moby",
+    "canonical_repository": "moby/moby",
+    "url": "https://github.com/moby/moby",
+    "fork": false,
+    "license": "Apache-2.0",
+    "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "collected_at": "2026-10-08T02:49:18.673Z"
+  },
+  {
+    "repository": "myst-contrib/myst-listing",
+    "canonical_repository": "myst-contrib/myst-listing",
+    "url": "https://github.com/myst-contrib/myst-listing",
+    "fork": false,
+    "license": null,
+    "description": "An experiment at listing functionality to unify a bunch of gallery and blog list plugins into one.",
+    "collected_at": "2026-10-08T02:49:19.080Z"
+  },
+  {
+    "repository": "myst-contrib/myst-release-notes",
+    "canonical_repository": "myst-contrib/myst-release-notes",
+    "url": "https://github.com/myst-contrib/myst-release-notes",
+    "fork": false,
+    "license": "MIT",
+    "description": "A MyST plugin to generate consolidated release notes from GitHub repositories",
+    "collected_at": "2026-10-08T02:49:19.189Z"
+  },
+  {
+    "repository": "networkx/networkx",
+    "canonical_repository": "networkx/networkx",
+    "url": "https://github.com/networkx/networkx",
+    "fork": false,
+    "license": "NOASSERTION",
+    "description": "Network Analysis in Python",
+    "collected_at": "2026-10-08T02:49:19.081Z"
+  },
+  {
+    "repository": "nivaas219/ossfind",
+    "canonical_repository": "nivaas219/ossfind",
+    "url": "https://github.com/nivaas219/ossfind",
+    "fork": false,
+    "license": "MIT",
+    "description": "OSSFind helps developers discover open source projects, contribution opportunities, and community programs.",
+    "collected_at": "2026-10-08T02:49:19.018Z"
+  },
+  {
+    "repository": "numpy/numpy",
+    "canonical_repository": "numpy/numpy",
+    "url": "https://github.com/numpy/numpy",
+    "fork": false,
+    "license": "NOASSERTION",
+    "description": "The fundamental package for scientific computing with Python.",
+    "collected_at": "2026-10-08T02:49:19.076Z"
+  },
+  {
+    "repository": "open-telemetry/opentelemetry-specification",
+    "canonical_repository": "open-telemetry/opentelemetry-specification",
+    "url": "https://github.com/open-telemetry/opentelemetry-specification",
+    "fork": false,
+    "license": "Apache-2.0",
+    "description": "Specifications for OpenTelemetry",
+    "collected_at": "2026-10-08T02:49:19.175Z"
+  },
+  {
+    "repository": "orval-labs/orval",
+    "canonical_repository": "orval-labs/orval",
+    "url": "https://github.com/orval-labs/orval",
+    "fork": false,
+    "license": "MIT",
+    "description": "orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺",
+    "collected_at": "2026-10-08T02:49:19.710Z"
+  },
+  {
+    "repository": "pandas-dev/pandas",
+    "canonical_repository": "pandas-dev/pandas",
+    "url": "https://github.com/pandas-dev/pandas",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+    "collected_at": "2026-10-08T02:49:19.619Z"
+  },
+  {
+    "repository": "pipe-cd/pipecd",
+    "canonical_repository": "pipe-cd/pipecd",
+    "url": "https://github.com/pipe-cd/pipecd",
+    "fork": false,
+    "license": "Apache-2.0",
+    "description": "The One CD for All {applications, platforms, operations}",
+    "collected_at": "2026-10-08T02:49:19.624Z"
+  },
+  {
+    "repository": "plotly/plotly.js",
+    "canonical_repository": "plotly/plotly.js",
+    "url": "https://github.com/plotly/plotly.js",
+    "fork": false,
+    "license": "MIT",
+    "description": "Open-source JavaScript charting library behind Plotly and Dash",
+    "collected_at": "2026-10-08T02:49:19.626Z"
+  },
+  {
+    "repository": "pydata/pydata-sphinx-theme",
+    "canonical_repository": "pydata/pydata-sphinx-theme",
+    "url": "https://github.com/pydata/pydata-sphinx-theme",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "A clean, three-column Sphinx theme with Bootstrap for the PyData community",
+    "collected_at": "2026-10-08T02:49:19.576Z"
+  },
+  {
+    "repository": "pylint-dev/pylint",
+    "canonical_repository": "pylint-dev/pylint",
+    "url": "https://github.com/pylint-dev/pylint",
+    "fork": false,
+    "license": "GPL-2.0",
+    "description": "It's not just a linter that annoys you!",
+    "collected_at": "2026-10-08T02:49:19.584Z"
+  },
+  {
+    "repository": "pypa/hatch",
+    "canonical_repository": "pypa/hatch",
+    "url": "https://github.com/pypa/hatch",
+    "fork": false,
+    "license": "MIT",
+    "description": "Modern, extensible Python project management",
+    "collected_at": "2026-10-08T02:49:20.119Z"
+  },
+  {
+    "repository": "pypa/setuptools",
+    "canonical_repository": "pypa/setuptools",
+    "url": "https://github.com/pypa/setuptools",
+    "fork": false,
+    "license": "MIT",
+    "description": "Official project repository for the Setuptools build system",
+    "collected_at": "2026-10-08T02:49:20.225Z"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "canonical_repository": "pytest-dev/pytest",
+    "url": "https://github.com/pytest-dev/pytest",
+    "fork": false,
+    "license": "MIT",
+    "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
+    "collected_at": "2026-10-08T02:49:20.124Z"
+  },
+  {
+    "repository": "python/cpython",
+    "canonical_repository": "python/cpython",
+    "url": "https://github.com/python/cpython",
+    "fork": false,
+    "license": "NOASSERTION",
+    "description": "The Python programming language",
+    "collected_at": "2026-10-08T02:49:20.196Z"
+  },
+  {
+    "repository": "python/mypy",
+    "canonical_repository": "python/mypy",
+    "url": "https://github.com/python/mypy",
+    "fork": false,
+    "license": "NOASSERTION",
+    "description": "Optional static typing for Python",
+    "collected_at": "2026-10-08T02:49:20.170Z"
+  },
+  {
+    "repository": "raineorshine/npm-check-updates",
+    "canonical_repository": "raineorshine/npm-check-updates",
+    "url": "https://github.com/raineorshine/npm-check-updates",
+    "fork": false,
+    "license": "Apache-2.0",
+    "description": "Find newer versions of package dependencies than what your package.json allows",
+    "collected_at": "2026-10-08T02:49:20.082Z"
+  },
+  {
+    "repository": "realm/SwiftLint",
+    "canonical_repository": "realm/SwiftLint",
+    "url": "https://github.com/realm/SwiftLint",
+    "fork": false,
+    "license": "MIT",
+    "description": "A tool to enforce Swift style and conventions.",
+    "collected_at": "2026-10-08T02:49:20.781Z"
+  },
+  {
+    "repository": "rpwagner/credential-vault",
+    "canonical_repository": "rpwagner/credential-vault",
+    "url": "https://github.com/rpwagner/credential-vault",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": null,
+    "collected_at": "2026-10-08T02:49:20.643Z"
+  },
+  {
+    "repository": "rpwagner/hermes-agent",
+    "canonical_repository": "rpwagner/hermes-agent",
+    "url": "https://github.com/rpwagner/hermes-agent",
+    "fork": true,
+    "license": "MIT",
+    "description": "The agent that grows with you",
+    "collected_at": "2026-10-08T02:49:20.682Z"
+  },
+  {
+    "repository": "rpwagner/jupyter-ai-acp-client",
+    "canonical_repository": "rpwagner/jupyter-ai-acp-client",
+    "url": "https://github.com/rpwagner/jupyter-ai-acp-client",
+    "fork": true,
+    "license": "BSD-3-Clause",
+    "description": "The ACP client implementation in Jupyter AI",
+    "collected_at": "2026-10-08T02:49:20.659Z"
+  },
+  {
+    "repository": "rpwagner/jupyter-chat",
+    "canonical_repository": "rpwagner/jupyter-chat",
+    "url": "https://github.com/rpwagner/jupyter-chat",
+    "fork": true,
+    "license": "BSD-3-Clause",
+    "description": "An extension to add a chat panel to JupyterLab",
+    "collected_at": "2026-10-08T02:49:20.799Z"
+  },
+  {
+    "repository": "rpwagner/keyrings.cryptfile",
+    "canonical_repository": "rpwagner/keyrings.cryptfile",
+    "url": "https://github.com/rpwagner/keyrings.cryptfile",
+    "fork": true,
+    "license": "MIT",
+    "description": "Encrypted plain file keyring backend for the python keyring package",
+    "collected_at": "2026-10-08T02:49:20.623Z"
+  },
+  {
+    "repository": "rq/rq",
+    "canonical_repository": "rq/rq",
+    "url": "https://github.com/rq/rq",
+    "fork": false,
+    "license": "NOASSERTION",
+    "description": "Simple job queues for Python",
+    "collected_at": "2026-10-08T02:49:21.219Z"
+  },
+  {
+    "repository": "runtimed/kernel-testbed",
+    "canonical_repository": "runtimed/kernel-testbed",
+    "url": "https://github.com/runtimed/kernel-testbed",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "The testbed for jupyter kernel conformance",
+    "collected_at": "2026-10-08T02:49:21.354Z"
+  },
+  {
+    "repository": "scipy/scipy",
+    "canonical_repository": "scipy/scipy",
+    "url": "https://github.com/scipy/scipy",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "SciPy library main repository",
+    "collected_at": "2026-10-08T02:49:21.213Z"
+  },
+  {
+    "repository": "shauryagangrade/GCode",
+    "canonical_repository": "shauryagangrade/GCode",
+    "url": "https://github.com/shauryagangrade/GCode",
+    "fork": false,
+    "license": "Apache-2.0",
+    "description": "A local, AI-powered CLI that lets you chat with free LLMs (via OpenRouter) to edit files, run shell commands, and manage git—all from your terminal.",
+    "collected_at": "2026-10-08T02:49:21.181Z"
+  },
+  {
+    "repository": "shauryagangrade/intent-drift-skill",
+    "canonical_repository": "shauryagangrade/intent-drift-skill",
+    "url": "https://github.com/shauryagangrade/intent-drift-skill",
+    "fork": false,
+    "license": "Apache-2.0",
+    "description": "Detects intent drift in AI-assisted development by comparing original goals against current execution plans using the Intent Alignment Engine. Features 9 evidence providers and exportable reports (text/markdown/json).",
+    "collected_at": "2026-10-08T02:49:21.199Z"
+  },
+  {
+    "repository": "shauryagangrade/scout-issue",
+    "canonical_repository": "shauryagangrade/scout-issue",
+    "url": "https://github.com/shauryagangrade/scout-issue",
+    "fork": false,
+    "license": "Apache-2.0",
+    "description": "An AI coding skill that helps developers find the best GitHub issues to contribute to, triggered by the /scout command.",
+    "collected_at": "2026-10-08T02:49:21.167Z"
+  },
+  {
+    "repository": "shoelace-style/webawesome",
+    "canonical_repository": "shoelace-style/webawesome",
+    "url": "https://github.com/shoelace-style/webawesome",
+    "fork": false,
+    "license": "MIT",
+    "description": "Build better with Web Awesome, the open source library of web components from Font Awesome. Upgrade to Pro and ship websites faster!",
+    "collected_at": "2026-10-08T02:49:21.799Z"
+  },
+  {
+    "repository": "sparrow-org/sparrow-ipc",
+    "canonical_repository": "sparrow-org/sparrow-ipc",
+    "url": "https://github.com/sparrow-org/sparrow-ipc",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "C++20 idiomatic APIs for the Apache Arrow Serialization and Interprocess Communication (IPC)",
+    "collected_at": "2026-10-08T02:49:21.768Z"
+  },
+  {
+    "repository": "sphinx-doc/sphinx",
+    "canonical_repository": "sphinx-doc/sphinx",
+    "url": "https://github.com/sphinx-doc/sphinx",
+    "fork": false,
+    "license": "NOASSERTION",
+    "description": "The Sphinx documentation generator",
+    "collected_at": "2026-10-08T02:49:21.809Z"
+  },
+  {
+    "repository": "stsewd/tree-sitter-rst",
+    "canonical_repository": "stsewd/tree-sitter-rst",
+    "url": "https://github.com/stsewd/tree-sitter-rst",
+    "fork": false,
+    "license": "MIT",
+    "description": "reStructuredText grammar for tree-sitter",
+    "collected_at": "2026-10-08T02:49:21.692Z"
+  },
+  {
+    "repository": "swiftlang/swift-format",
+    "canonical_repository": "swiftlang/swift-format",
+    "url": "https://github.com/swiftlang/swift-format",
+    "fork": false,
+    "license": "Apache-2.0",
+    "description": "Formatting technology for Swift source code",
+    "collected_at": "2026-10-08T02:49:21.883Z"
+  },
+  {
+    "repository": "tabler/tabler",
+    "canonical_repository": "tabler/tabler",
+    "url": "https://github.com/tabler/tabler",
+    "fork": false,
+    "license": "MIT",
+    "description": "Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.",
+    "collected_at": "2026-10-08T02:49:21.742Z"
+  },
+  {
+    "repository": "unjs/ufo",
+    "canonical_repository": "unjs/ufo",
+    "url": "https://github.com/unjs/ufo",
+    "fork": false,
+    "license": "MIT",
+    "description": "🔗 URL utils for humans",
+    "collected_at": "2026-10-08T02:49:22.288Z"
+  },
+  {
+    "repository": "vercel-labs/skills",
+    "canonical_repository": "vercel-labs/skills",
+    "url": "https://github.com/vercel-labs/skills",
+    "fork": false,
+    "license": "MIT",
+    "description": "The open agent skills tool - npx skills",
+    "collected_at": "2026-10-08T02:49:22.756Z"
+  },
+  {
+    "repository": "virgiliojr94/book-to-skill",
+    "canonical_repository": "virgiliojr94/book-to-skill",
+    "url": "https://github.com/virgiliojr94/book-to-skill",
+    "fork": false,
+    "license": "MIT",
+    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+    "collected_at": "2026-10-08T02:49:22.268Z"
+  },
+  {
+    "repository": "xtensor-stack/xsimd",
+    "canonical_repository": "xtensor-stack/xsimd",
+    "url": "https://github.com/xtensor-stack/xsimd",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "C++ wrappers for SIMD intrinsics and parallelized, optimized mathematical functions (SSE, AVX, AVX512, NEON, SVE, WebAssembly, VSX, RISC-V))",
+    "collected_at": "2026-10-08T02:49:22.270Z"
+  },
+  {
+    "repository": "xtensor-stack/xtensor",
+    "canonical_repository": "xtensor-stack/xtensor",
+    "url": "https://github.com/xtensor-stack/xtensor",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "C++ tensors with broadcasting and lazy computing",
+    "collected_at": "2026-10-08T02:49:22.756Z"
+  },
+  {
+    "repository": "xtensor-stack/xtensor-fftw",
+    "canonical_repository": "xtensor-stack/xtensor-fftw",
+    "url": "https://github.com/xtensor-stack/xtensor-fftw",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "FFTW bindings for the xtensor C++14 multi-dimensional array library",
+    "collected_at": "2026-10-08T02:49:22.369Z"
+  },
+  {
+    "repository": "xtensor-stack/xtensor-io",
+    "canonical_repository": "xtensor-stack/xtensor-io",
+    "url": "https://github.com/xtensor-stack/xtensor-io",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "xtensor plugin to read and write images, audio files, numpy (compressed) npz and HDF5",
+    "collected_at": "2026-10-08T02:49:23.128Z"
+  },
+  {
+    "repository": "yashgoyal0110/test-repo-3",
+    "canonical_repository": "yashgoyal0110/test-repo-3",
+    "url": "https://github.com/yashgoyal0110/test-repo-3",
+    "fork": false,
+    "license": null,
+    "description": null,
+    "collected_at": "2026-10-08T02:49:23.158Z"
+  },
+  {
+    "repository": "yuvipanda/jupyterbook.pub",
+    "canonical_repository": "yuvipanda/jupyterbook.pub",
+    "url": "https://github.com/yuvipanda/jupyterbook.pub",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": null,
+    "collected_at": "2026-10-08T02:49:23.212Z"
+  },
+  {
+    "repository": "Apertur3/headroom",
+    "canonical_repository": "Apertur3/headroom",
+    "url": "https://github.com/Apertur3/headroom",
+    "fork": false,
+    "license": "NOASSERTION",
+    "description": "Fuel gauge for AI coding agents: reads real plan limits, answers go, wait or reroute.",
+    "collected_at": "2026-10-08T02:54:23.140Z"
+  },
+  {
+    "repository": "BIDS/hub-deploy",
+    "canonical_repository": "BIDS/hub-deploy",
+    "url": "https://github.com/BIDS/hub-deploy",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "Deployment resources for JupyterHub",
+    "collected_at": "2026-10-08T02:54:23.166Z"
+  },
+  {
+    "repository": "Johin2/self-heal",
+    "canonical_repository": "Johin2/self-heal",
+    "url": "https://github.com/Johin2/self-heal",
+    "fork": false,
+    "license": "MIT",
+    "description": null,
+    "collected_at": "2026-10-08T02:54:23.139Z"
+  },
+  {
+    "repository": "LiamProsser77/gronnfalk",
+    "canonical_repository": "LiamProsser77/gronnfalk",
+    "url": "https://github.com/LiamProsser77/gronnfalk",
+    "fork": false,
+    "license": "Apache-2.0",
+    "description": "GronnFalk is an open-source, Norwegian, privacy-focused metasearch engine built for a simple and independent search experience",
+    "collected_at": "2026-10-08T02:54:23.110Z"
+  },
+  {
+    "repository": "PicadoLabs/build-with-ai",
+    "canonical_repository": "PicadoLabs/build-with-ai",
+    "url": "https://github.com/PicadoLabs/build-with-ai",
+    "fork": false,
+    "license": "NOASSERTION",
+    "description": "The open-source, zero-API CLI that turns any AI into a disciplined software architect.",
+    "collected_at": "2026-10-08T02:54:23.145Z"
+  },
+  {
+    "repository": "QuantStack/my-jupyter-shared-drive",
+    "canonical_repository": "QuantStack/my-jupyter-shared-drive",
+    "url": "https://github.com/QuantStack/my-jupyter-shared-drive",
+    "fork": false,
+    "license": "NOASSERTION",
+    "description": null,
+    "collected_at": "2026-10-08T02:54:23.167Z"
+  },
+  {
+    "repository": "QuantStack/yjs-widgets",
+    "canonical_repository": "QuantStack/yjs-widgets",
+    "url": "https://github.com/QuantStack/yjs-widgets",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "A JupyterLab extension for widgets based on Yjs",
+    "collected_at": "2026-10-08T02:54:23.572Z"
+  },
+  {
+    "repository": "aio-libs/aiohttp",
+    "canonical_repository": "aio-libs/aiohttp",
+    "url": "https://github.com/aio-libs/aiohttp",
+    "fork": false,
+    "license": "Apache-2.0",
+    "description": "Asynchronous HTTP client/server framework for asyncio and Python",
+    "collected_at": "2026-10-08T02:54:23.692Z"
+  },
+  {
+    "repository": "anomalyco/opencode",
+    "canonical_repository": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "fork": false,
+    "license": "MIT",
+    "description": "The open source coding agent.",
+    "collected_at": "2026-10-08T02:54:23.554Z"
+  },
+  {
+    "repository": "bqplot/bqplot",
+    "canonical_repository": "bqplot/bqplot",
+    "url": "https://github.com/bqplot/bqplot",
+    "fork": false,
+    "license": "Apache-2.0",
+    "description": "Plotting library for IPython/Jupyter notebooks",
+    "collected_at": "2026-10-08T02:54:23.562Z"
+  },
+  {
+    "repository": "brianc/node-postgres",
+    "canonical_repository": "brianc/node-postgres",
+    "url": "https://github.com/brianc/node-postgres",
+    "fork": false,
+    "license": "MIT",
+    "description": "PostgreSQL client for node.js.",
+    "collected_at": "2026-10-08T02:54:23.539Z"
+  },
+  {
+    "repository": "capad-xyz/searchts",
+    "canonical_repository": "capad-xyz/searchts",
+    "url": "https://github.com/capad-xyz/searchts",
+    "fork": false,
+    "license": "MIT",
+    "description": "A keyless web reader for AI agents. When a fetch hits a bot wall or a page that only renders in a browser, searchts tries a plain fetch, then a relay, then a real browser, and says plainly when it can't. MCP server, CLI, and Python library.",
+    "collected_at": "2026-10-08T02:54:23.557Z"
+  },
+  {
+    "repository": "conda-forge/fenics-dolfinx-feedstock",
+    "canonical_repository": "conda-forge/fenics-dolfinx-feedstock",
+    "url": "https://github.com/conda-forge/fenics-dolfinx-feedstock",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "A conda-smithy repository for fenics-dolfinx.",
+    "collected_at": "2026-10-08T02:54:24.068Z"
+  },
+  {
+    "repository": "conda-forge/hdf5-feedstock",
+    "canonical_repository": "conda-forge/hdf5-feedstock",
+    "url": "https://github.com/conda-forge/hdf5-feedstock",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "A conda-smithy repository for hdf5.",
+    "collected_at": "2026-10-08T02:54:24.077Z"
+  },
+  {
+    "repository": "conda-forge/jupytergis-packages-feedstock",
+    "canonical_repository": "conda-forge/jupytergis-packages-feedstock",
+    "url": "https://github.com/conda-forge/jupytergis-packages-feedstock",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "A conda-smithy repository for jupytergis-packages.",
+    "collected_at": "2026-10-08T02:54:24.083Z"
+  },
+  {
+    "repository": "conda-forge/jupyterhub-feedstock",
+    "canonical_repository": "conda-forge/jupyterhub-feedstock",
+    "url": "https://github.com/conda-forge/jupyterhub-feedstock",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "A conda-smithy repository for jupyterhub.",
+    "collected_at": "2026-10-08T02:54:24.126Z"
+  },
+  {
+    "repository": "conda-forge/neuron-feedstock",
+    "canonical_repository": "conda-forge/neuron-feedstock",
+    "url": "https://github.com/conda-forge/neuron-feedstock",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "A conda-smithy repository for neuron.",
+    "collected_at": "2026-10-08T02:54:24.071Z"
+  },
+  {
+    "repository": "conda-forge/staged-recipes",
+    "canonical_repository": "conda-forge/staged-recipes",
+    "url": "https://github.com/conda-forge/staged-recipes",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "A place to submit conda recipes before they become fully fledged conda-forge feedstocks",
+    "collected_at": "2026-10-08T02:54:24.097Z"
+  },
+  {
+    "repository": "conda-forge/superlu_dist-feedstock",
+    "canonical_repository": "conda-forge/superlu_dist-feedstock",
+    "url": "https://github.com/conda-forge/superlu_dist-feedstock",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "A conda-smithy repository for superlu_dist.",
+    "collected_at": "2026-10-08T02:54:24.529Z"
+  },
+  {
+    "repository": "davidbrochart/jupyter-webrtc-provider",
+    "canonical_repository": "davidbrochart/jupyter-webrtc-provider",
+    "url": "https://github.com/davidbrochart/jupyter-webrtc-provider",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "A JupyterLab extension for a WebRTC shared document provider.",
+    "collected_at": "2026-10-08T02:54:24.500Z"
+  },
+  {
+    "repository": "emscripten-forge/emscripten-forge-3x-mirror",
+    "canonical_repository": "emscripten-forge/emscripten-forge-3x-mirror",
+    "url": "https://github.com/emscripten-forge/emscripten-forge-3x-mirror",
+    "fork": false,
+    "license": null,
+    "description": "The emscripten-forge channel on prefix.dev",
+    "collected_at": "2026-10-08T02:54:24.830Z"
+  },
+  {
+    "repository": "eslint-community/eslint-plugin-n",
+    "canonical_repository": "eslint-community/eslint-plugin-n",
+    "url": "https://github.com/eslint-community/eslint-plugin-n",
+    "fork": true,
+    "license": "MIT",
+    "description": "Additional ESLint rules for Node.js",
+    "collected_at": "2026-10-08T02:54:24.638Z"
+  },
+  {
+    "repository": "executablebooks/github-activity",
+    "canonical_repository": "executablebooks/github-activity",
+    "url": "https://github.com/executablebooks/github-activity",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "Simple markdown changelogs for GitHub repositories",
+    "collected_at": "2026-10-08T02:54:24.505Z"
+  },
+  {
+    "repository": "future-agi/future-agi",
+    "canonical_repository": "future-agi/future-agi",
+    "url": "https://github.com/future-agi/future-agi",
+    "fork": false,
+    "license": "Apache-2.0",
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
+    "collected_at": "2026-10-08T02:54:24.795Z"
+  },
+  {
+    "repository": "gchq/CyberChef",
+    "canonical_repository": "gchq/CyberChef",
+    "url": "https://github.com/gchq/CyberChef",
+    "fork": false,
+    "license": "Apache-2.0",
+    "description": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
+    "collected_at": "2026-10-08T02:54:25.223Z"
+  },
+  {
+    "repository": "geojupyter/jupyter-tiler",
+    "canonical_repository": "geojupyter/jupyter-tiler",
+    "url": "https://github.com/geojupyter/jupyter-tiler",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "A Jupyter server extension which provides an API to launch a server to dynamically tile Xarray DataArrays for interactive visualization.",
+    "collected_at": "2026-10-08T02:54:25.266Z"
+  },
+  {
+    "repository": "hahwul/dalfox",
+    "canonical_repository": "hahwul/dalfox",
+    "url": "https://github.com/hahwul/dalfox",
+    "fork": false,
+    "license": "MIT",
+    "description": "🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.",
+    "collected_at": "2026-10-08T02:54:25.299Z"
+  },
+  {
+    "repository": "jtpio/ajlab",
+    "canonical_repository": "jtpio/ajlab",
+    "url": "https://github.com/jtpio/ajlab",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "Agent ready JupyterLab",
+    "collected_at": "2026-10-08T02:54:25.173Z"
+  },
+  {
+    "repository": "jtpio/jupyterlab-pierre-theme",
+    "canonical_repository": "jtpio/jupyterlab-pierre-theme",
+    "url": "https://github.com/jtpio/jupyterlab-pierre-theme",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "Pierre light and dark themes for JupyterLab",
+    "collected_at": "2026-10-08T02:54:25.201Z"
+  },
+  {
+    "repository": "jtpio/jupyterlab-unsafe-globals",
+    "canonical_repository": "jtpio/jupyterlab-unsafe-globals",
+    "url": "https://github.com/jtpio/jupyterlab-unsafe-globals",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "IPython and Jupyter globals in your window. Don't use them.",
+    "collected_at": "2026-10-08T02:54:25.245Z"
+  },
+  {
+    "repository": "jtpio/xtralab",
+    "canonical_repository": "jtpio/xtralab",
+    "url": "https://github.com/jtpio/xtralab",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "Agent-ready JupyterLab with opinionated extras",
+    "collected_at": "2026-10-08T02:54:25.682Z"
+  },
+  {
+    "repository": "jupyter-ai-contrib/jupyter-ai-tools",
+    "canonical_repository": "jupyter-ai-contrib/jupyter-ai-tools",
+    "url": "https://github.com/jupyter-ai-contrib/jupyter-ai-tools",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "A suite of tools for AI agents in Jupyter",
+    "collected_at": "2026-10-08T02:54:25.773Z"
+  },
+  {
+    "repository": "jupyter-ai-contrib/jupyter-chat-components",
+    "canonical_repository": "jupyter-ai-contrib/jupyter-chat-components",
+    "url": "https://github.com/jupyter-ai-contrib/jupyter-chat-components",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "Components displayed in jupyter chat",
+    "collected_at": "2026-10-08T02:54:25.849Z"
+  },
+  {
+    "repository": "jupyter-ai-contrib/jupyter-server-mcp",
+    "canonical_repository": "jupyter-ai-contrib/jupyter-server-mcp",
+    "url": "https://github.com/jupyter-ai-contrib/jupyter-server-mcp",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "An MCP interface/extension for Jupyter Server ",
+    "collected_at": "2026-10-08T02:54:25.728Z"
+  },
+  {
+    "repository": "jupyter-ai-contrib/jupyterlab-commands-toolkit",
+    "canonical_repository": "jupyter-ai-contrib/jupyterlab-commands-toolkit",
+    "url": "https://github.com/jupyter-ai-contrib/jupyterlab-commands-toolkit",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "JupyterLab commands as an AI Toolkit",
+    "collected_at": "2026-10-08T02:54:25.755Z"
+  },
+  {
+    "repository": "jupyter-ai-contrib/jupyterlab-diff",
+    "canonical_repository": "jupyter-ai-contrib/jupyterlab-diff",
+    "url": "https://github.com/jupyter-ai-contrib/jupyterlab-diff",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "JupyterLab commands to show cell and file diffs",
+    "collected_at": "2026-10-08T02:54:25.857Z"
+  },
+  {
+    "repository": "jupyter-lsp/jupyterlab-lsp",
+    "canonical_repository": "jupyter-lsp/jupyterlab-lsp",
+    "url": "https://github.com/jupyter-lsp/jupyterlab-lsp",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename) using Language Server Protocol",
+    "collected_at": "2026-10-08T02:54:26.285Z"
+  },
+  {
+    "repository": "jupyter-widgets-contrib/ipycanvas",
+    "canonical_repository": "jupyter-widgets-contrib/ipycanvas",
+    "url": "https://github.com/jupyter-widgets-contrib/ipycanvas",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "Interactive Canvas in Jupyter",
+    "collected_at": "2026-10-08T02:54:26.244Z"
+  },
+  {
+    "repository": "jupytercad/JupyterCAD",
+    "canonical_repository": "jupytercad/JupyterCAD",
+    "url": "https://github.com/jupytercad/JupyterCAD",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "A JupyterLab extension for collaborative 3D geometry modeling",
+    "collected_at": "2026-10-08T02:54:26.368Z"
+  },
+  {
+    "repository": "jupytercad/JupyterCAD-FreeCAD",
+    "canonical_repository": "jupytercad/JupyterCAD-FreeCAD",
+    "url": "https://github.com/jupytercad/JupyterCAD-FreeCAD",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": null,
+    "collected_at": "2026-10-08T02:54:26.270Z"
+  },
+  {
+    "repository": "jupyterlab-contrib/jupyterlab-js-logs",
+    "canonical_repository": "jupyterlab-contrib/jupyterlab-js-logs",
+    "url": "https://github.com/jupyterlab-contrib/jupyterlab-js-logs",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "JupyterLab extension to show the logs from the browser developer tools console",
+    "collected_at": "2026-10-08T02:54:26.226Z"
+  },
+  {
+    "repository": "jupyterlab-contrib/jupyterlab-quickopen",
+    "canonical_repository": "jupyterlab-contrib/jupyterlab-quickopen",
+    "url": "https://github.com/jupyterlab-contrib/jupyterlab-quickopen",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "Quickly open a file in JupyterLab by typing part of its name",
+    "collected_at": "2026-10-08T02:54:26.252Z"
+  },
+  {
+    "repository": "jupyterlab-contrib/jupyterlab_code_formatter",
+    "canonical_repository": "jupyterlab-contrib/jupyterlab_code_formatter",
+    "url": "https://github.com/jupyterlab-contrib/jupyterlab_code_formatter",
+    "fork": false,
+    "license": "MIT",
+    "description": "A JupyterLab plugin to facilitate invocation of code formatters.",
+    "collected_at": "2026-10-08T02:54:26.855Z"
+  },
+  {
+    "repository": "jupyterlab-contrib/spellchecker",
+    "canonical_repository": "jupyterlab-contrib/spellchecker",
+    "url": "https://github.com/jupyterlab-contrib/spellchecker",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "Spellchecker for JupyterLab notebook markdown cells and file editor.",
+    "collected_at": "2026-10-08T02:54:26.748Z"
+  },
+  {
+    "repository": "jupytext/jupytext",
+    "canonical_repository": "jupytext/jupytext",
+    "url": "https://github.com/jupytext/jupytext",
+    "fork": false,
+    "license": "MIT",
+    "description": "Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts",
+    "collected_at": "2026-10-08T02:54:26.792Z"
+  },
+  {
+    "repository": "kellyjonbrazil/jc",
+    "canonical_repository": "kellyjonbrazil/jc",
+    "url": "https://github.com/kellyjonbrazil/jc",
+    "fork": false,
+    "license": "MIT",
+    "description": "CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.",
+    "collected_at": "2026-10-08T02:54:26.732Z"
+  },
+  {
+    "repository": "krassowski/funding-proposals",
+    "canonical_repository": "krassowski/funding-proposals",
+    "url": "https://github.com/krassowski/funding-proposals",
+    "fork": true,
+    "license": null,
+    "description": "Funding proposals for the Jupyter Foundation",
+    "collected_at": "2026-10-08T02:54:26.787Z"
+  },
+  {
+    "repository": "mikefarah/yq",
+    "canonical_repository": "mikefarah/yq",
+    "url": "https://github.com/mikefarah/yq",
+    "fork": false,
+    "license": "MIT",
+    "description": "yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor",
+    "collected_at": "2026-10-08T02:54:26.743Z"
+  },
+  {
+    "repository": "nastaso/cloudcertprep",
+    "canonical_repository": "nastaso/cloudcertprep",
+    "url": "https://github.com/nastaso/cloudcertprep",
+    "fork": false,
+    "license": "MIT",
+    "description": "Free, open-source AWS Cloud Practitioner (CLF-C02) & AI Practitioner (AIF-C01) practice exams - 1,469 questions with explanations, timed mock exams, no signup, no ads. MIT licensed.",
+    "collected_at": "2026-10-08T02:54:27.275Z"
+  },
+  {
+    "repository": "nebari-dev/data-science-pack",
+    "canonical_repository": "nebari-dev/data-science-pack",
+    "url": "https://github.com/nebari-dev/data-science-pack",
+    "fork": false,
+    "license": "Apache-2.0",
+    "description": "Multi-user JupyterHub with Nebari's data science images and jhub-apps for publishing notebooks, dashboards, and apps from the browser.",
+    "collected_at": "2026-10-08T02:54:27.371Z"
+  },
+  {
+    "repository": "nebari-dev/jupyterlab-launchpad",
+    "canonical_repository": "nebari-dev/jupyterlab-launchpad",
+    "url": "https://github.com/nebari-dev/jupyterlab-launchpad",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "A redesigned JupyterLab launcher",
+    "collected_at": "2026-10-08T02:54:27.376Z"
+  },
+  {
+    "repository": "nebari-dev/nb-nebi-kernels",
+    "canonical_repository": "nebari-dev/nb-nebi-kernels",
+    "url": "https://github.com/nebari-dev/nb-nebi-kernels",
+    "fork": false,
+    "license": "Apache-2.0",
+    "description": "Jupyter KernelSpecManager that discovers kernels from nebi-tracked pixi workspaces",
+    "collected_at": "2026-10-08T02:54:27.287Z"
+  },
+  {
+    "repository": "nebari-dev/nebari-landing",
+    "canonical_repository": "nebari-dev/nebari-landing",
+    "url": "https://github.com/nebari-dev/nebari-landing",
+    "fork": false,
+    "license": "Apache-2.0",
+    "description": "The Launchpad for Nebari — service discovery and access portal.",
+    "collected_at": "2026-10-08T02:54:27.242Z"
+  },
+  {
+    "repository": "nebari-dev/nebi",
+    "canonical_repository": "nebari-dev/nebi",
+    "url": "https://github.com/nebari-dev/nebi",
+    "fork": false,
+    "license": "Apache-2.0",
+    "description": "Server and CLI for managing multi-user Pixi environments",
+    "collected_at": "2026-10-08T02:54:27.426Z"
+  },
+  {
+    "repository": "openmhealth/schemas",
+    "canonical_repository": "openmhealth/schemas",
+    "url": "https://github.com/openmhealth/schemas",
+    "fork": false,
+    "license": "Apache-2.0",
+    "description": "A repository of Open mHealth schemas.",
+    "collected_at": "2026-10-08T02:54:27.925Z"
+  },
+  {
+    "repository": "openteams-ai/engineering-blog-old",
+    "canonical_repository": "openteams-ai/engineering-blog-old",
+    "url": "https://github.com/openteams-ai/engineering-blog-old",
+    "fork": false,
+    "license": null,
+    "description": "Retired. The blog now lives in openteams-ai/engineering-blog.",
+    "collected_at": "2026-10-08T02:54:27.842Z"
+  },
+  {
+    "repository": "orestbida/cookieconsent",
+    "canonical_repository": "orestbida/cookieconsent",
+    "url": "https://github.com/orestbida/cookieconsent",
+    "fork": false,
+    "license": "MIT",
+    "description": ":cookie: Simple cross-browser cookie-consent plugin written in vanilla js",
+    "collected_at": "2026-10-08T02:54:27.813Z"
+  },
+  {
+    "repository": "skrun-dev/skrun",
+    "canonical_repository": "skrun-dev/skrun",
+    "url": "https://github.com/skrun-dev/skrun",
+    "fork": false,
+    "license": "MIT",
+    "description": "Deploy any Agent Skill as an API via POST /run. The open-source multi-model alternative to Claude Managed Agents, Microsoft Foundry & Mistral/Koyeb — works with any LLM.",
+    "collected_at": "2026-10-08T02:54:27.842Z"
+  },
+  {
+    "repository": "test-for-jupyter-PR-bot-testing/jupyterlab",
+    "canonical_repository": "test-for-jupyter-PR-bot-testing/jupyterlab",
+    "url": "https://github.com/test-for-jupyter-PR-bot-testing/jupyterlab",
+    "fork": true,
+    "license": "NOASSERTION",
+    "description": "JupyterLab computational environment.",
+    "collected_at": "2026-10-08T02:54:28.001Z"
+  },
+  {
+    "repository": "zeromq/pyzmq",
+    "canonical_repository": "zeromq/pyzmq",
+    "url": "https://github.com/zeromq/pyzmq",
+    "fork": false,
+    "license": "BSD-3-Clause",
+    "description": "PyZMQ:  Python bindings for zeromq",
+    "collected_at": "2026-10-08T02:54:27.864Z"
+  }
+]

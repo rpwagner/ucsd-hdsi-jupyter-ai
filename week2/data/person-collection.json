@@ -1,0 +1,822 @@
+[
+  {
+    "login": "3coins",
+    "query": "is:pr is:public author:3coins created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20author%3A3coins%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 67,
+    "returned_count": 67,
+    "page": 1,
+    "collected_at": "2026-10-08T02:44:06.466Z",
+    "incomplete_results": false
+  },
+  {
+    "login": "afshin",
+    "query": "is:pr is:public author:afshin created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20author%3Aafshin%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 84,
+    "returned_count": 84,
+    "page": 1,
+    "collected_at": "2026-10-08T02:44:06.068Z",
+    "incomplete_results": false
+  },
+  {
+    "login": "agoose77",
+    "query": "is:pr is:public author:agoose77 created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20author%3Aagoose77%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 460,
+    "returned_count": 100,
+    "page": 1,
+    "collected_at": "2026-10-08T02:44:06.540Z",
+    "incomplete_results": false
+  },
+  {
+    "login": "aryansk",
+    "query": "is:pr is:public author:aryansk created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20author%3Aaryansk%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 474,
+    "returned_count": 100,
+    "page": 1,
+    "collected_at": "2026-10-08T02:44:08.463Z",
+    "incomplete_results": false
+  },
+  {
+    "login": "bigsur0",
+    "query": "is:pr is:public author:bigsur0 created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20author%3Abigsur0%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 0,
+    "returned_count": 0,
+    "page": 1,
+    "collected_at": "2026-10-08T02:44:05.309Z",
+    "incomplete_results": false
+  },
+  {
+    "login": "carreau",
+    "query": "is:pr is:public author:carreau created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20author%3Acarreau%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 842,
+    "returned_count": 100,
+    "page": 1,
+    "collected_at": "2026-10-08T02:44:07.484Z",
+    "incomplete_results": false
+  },
+  {
+    "login": "celestehorgan",
+    "query": "is:pr is:public author:celestehorgan created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20author%3Acelestehorgan%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 6,
+    "returned_count": 6,
+    "page": 1,
+    "collected_at": "2026-10-08T02:44:05.594Z",
+    "incomplete_results": false
+  },
+  {
+    "login": "choldgraf",
+    "query": "is:pr is:public author:choldgraf created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20author%3Acholdgraf%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 269,
+    "returned_count": 100,
+    "page": 1,
+    "collected_at": "2026-10-08T02:44:07.042Z",
+    "incomplete_results": false
+  },
+  {
+    "login": "darshan808",
+    "query": "is:pr is:public author:darshan808 created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20author%3Adarshan808%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 161,
+    "returned_count": 100,
+    "page": 1,
+    "collected_at": "2026-10-08T02:44:06.665Z",
+    "incomplete_results": false
+  },
+  {
+    "login": "dharmaquark",
+    "query": "is:pr is:public author:dharmaquark created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20author%3Adharmaquark%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 0,
+    "returned_count": 0,
+    "page": 1,
+    "collected_at": "2026-10-08T02:44:05.363Z",
+    "incomplete_results": false
+  },
+  {
+    "login": "erikgaas",
+    "query": "is:pr is:public author:erikgaas created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20author%3Aerikgaas%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 45,
+    "returned_count": 45,
+    "page": 1,
+    "collected_at": "2026-10-08T02:44:06.056Z",
+    "incomplete_results": false
+  },
+  {
+    "login": "gabalafou",
+    "query": "is:pr is:public author:gabalafou created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20author%3Agabalafou%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 0,
+    "returned_count": 0,
+    "page": 1,
+    "collected_at": "2026-10-08T02:44:05.311Z",
+    "incomplete_results": false
+  },
+  {
+    "login": "ianthomas23",
+    "query": "is:pr is:public author:ianthomas23 created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20author%3Aianthomas23%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 239,
+    "returned_count": 100,
+    "page": 1,
+    "collected_at": "2026-10-08T02:44:06.496Z",
+    "incomplete_results": false
+  },
+  {
+    "login": "ivanov",
+    "query": "is:pr is:public author:ivanov created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20author%3Aivanov%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 1,
+    "returned_count": 1,
+    "page": 1,
+    "collected_at": "2026-10-08T02:44:05.674Z",
+    "incomplete_results": false
+  },
+  {
+    "login": "jake-stack",
+    "query": "is:pr is:public author:jake-stack created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20author%3Ajake-stack%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 3,
+    "returned_count": 3,
+    "page": 1,
+    "collected_at": "2026-10-08T02:44:05.494Z",
+    "incomplete_results": false
+  },
+  {
+    "login": "jasongrout",
+    "query": "is:pr is:public author:jasongrout created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20author%3Ajasongrout%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 268,
+    "returned_count": 100,
+    "page": 1,
+    "collected_at": "2026-10-08T02:44:06.921Z",
+    "incomplete_results": false
+  },
+  {
+    "login": "johanmabille",
+    "query": "is:pr is:public author:johanmabille created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20author%3Ajohanmabille%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 256,
+    "returned_count": 100,
+    "page": 1,
+    "collected_at": "2026-10-08T02:44:07.207Z",
+    "incomplete_results": false
+  },
+  {
+    "login": "jtpio",
+    "query": "is:pr is:public author:jtpio created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20author%3Ajtpio%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 569,
+    "returned_count": 100,
+    "page": 1,
+    "collected_at": "2026-10-08T02:44:06.769Z",
+    "incomplete_results": false
+  },
+  {
+    "login": "krassowski",
+    "query": "is:pr is:public author:krassowski created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20author%3Akrassowski%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 426,
+    "returned_count": 100,
+    "page": 1,
+    "collected_at": "2026-10-08T02:44:06.870Z",
+    "incomplete_results": false
+  },
+  {
+    "login": "marthacryan",
+    "query": "is:pr is:public author:marthacryan created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20author%3Amarthacryan%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 11,
+    "returned_count": 11,
+    "page": 1,
+    "collected_at": "2026-10-08T02:44:05.695Z",
+    "incomplete_results": false
+  },
+  {
+    "login": "martinrenou",
+    "query": "is:pr is:public author:martinrenou created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20author%3Amartinrenou%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 588,
+    "returned_count": 100,
+    "page": 1,
+    "collected_at": "2026-10-08T02:44:06.971Z",
+    "incomplete_results": false
+  },
+  {
+    "login": "metrizable",
+    "query": "is:pr is:public author:metrizable created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20author%3Ametrizable%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 0,
+    "returned_count": 0,
+    "page": 1,
+    "collected_at": "2026-10-08T02:44:05.420Z",
+    "incomplete_results": false
+  },
+  {
+    "login": "minrk",
+    "query": "is:pr is:public author:minrk created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20author%3Aminrk%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 527,
+    "returned_count": 100,
+    "page": 1,
+    "collected_at": "2026-10-08T02:44:06.951Z",
+    "incomplete_results": false
+  },
+  {
+    "login": "muffanuj",
+    "query": "is:pr is:public author:muffanuj created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20author%3Amuffanuj%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 356,
+    "returned_count": 100,
+    "page": 1,
+    "collected_at": "2026-10-08T02:44:06.681Z",
+    "incomplete_results": false
+  },
+  {
+    "login": "nsingl00",
+    "query": "is:pr is:public author:nsingl00 created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20author%3Ansingl00%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 2,
+    "returned_count": 2,
+    "page": 1,
+    "collected_at": "2026-10-08T02:44:06.127Z",
+    "incomplete_results": false
+  },
+  {
+    "login": "rpwagner",
+    "query": "is:pr is:public author:rpwagner created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20author%3Arpwagner%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 37,
+    "returned_count": 37,
+    "page": 1,
+    "collected_at": "2026-10-08T02:44:06.030Z",
+    "incomplete_results": false
+  },
+  {
+    "login": "sylvaincorlay",
+    "query": "is:pr is:public author:sylvaincorlay created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20author%3Asylvaincorlay%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 58,
+    "returned_count": 58,
+    "page": 1,
+    "collected_at": "2026-10-08T02:44:06.251Z",
+    "incomplete_results": false
+  },
+  {
+    "login": "terminalchai",
+    "query": "is:pr is:public author:terminalchai created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20author%3Aterminalchai%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 251,
+    "returned_count": 100,
+    "page": 1,
+    "collected_at": "2026-10-08T02:44:07.306Z",
+    "incomplete_results": false
+  },
+  {
+    "login": "vidartf",
+    "query": "is:pr is:public author:vidartf created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20author%3Avidartf%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 1,
+    "returned_count": 1,
+    "page": 1,
+    "collected_at": "2026-10-08T02:44:05.544Z",
+    "incomplete_results": false
+  },
+  {
+    "login": "yann-p",
+    "query": "is:pr is:public author:yann-p created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20author%3Ayann-p%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 120,
+    "returned_count": 100,
+    "page": 1,
+    "collected_at": "2026-10-08T02:44:07.004Z",
+    "incomplete_results": false
+  },
+  {
+    "login": "ydawn",
+    "query": "is:pr is:public author:ydawn created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20author%3Aydawn%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 3,
+    "returned_count": 3,
+    "page": 1,
+    "collected_at": "2026-10-08T02:44:05.744Z",
+    "incomplete_results": false
+  },
+  {
+    "login": "zsailer",
+    "query": "is:pr is:public author:zsailer created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20author%3Azsailer%20created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=1",
+    "total_count": 31,
+    "returned_count": 31,
+    "page": 1,
+    "collected_at": "2026-10-08T02:44:06.053Z",
+    "incomplete_results": false
+  },
+  {
+    "login": "agoose77",
+    "query": "is:pr is:public author:agoose77 created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Aagoose77+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=2",
+    "page": 2,
+    "total_count": 460,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:45:55.152938+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "agoose77",
+    "query": "is:pr is:public author:agoose77 created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Aagoose77+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=3",
+    "page": 3,
+    "total_count": 460,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:46:02.603230+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "agoose77",
+    "query": "is:pr is:public author:agoose77 created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Aagoose77+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=4",
+    "page": 4,
+    "total_count": 460,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:46:12.677325+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "agoose77",
+    "query": "is:pr is:public author:agoose77 created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Aagoose77+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=5",
+    "page": 5,
+    "total_count": 460,
+    "returned_count": 60,
+    "collected_at": "2026-10-08T02:46:17.773890+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "aryansk",
+    "query": "is:pr is:public author:aryansk created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Aaryansk+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=2",
+    "page": 2,
+    "total_count": 474,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:46:27.657512+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "aryansk",
+    "query": "is:pr is:public author:aryansk created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Aaryansk+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=3",
+    "page": 3,
+    "total_count": 474,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:46:35.742615+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "aryansk",
+    "query": "is:pr is:public author:aryansk created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Aaryansk+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=4",
+    "page": 4,
+    "total_count": 474,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:46:43.157440+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "aryansk",
+    "query": "is:pr is:public author:aryansk created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Aaryansk+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=5",
+    "page": 5,
+    "total_count": 474,
+    "returned_count": 74,
+    "collected_at": "2026-10-08T02:46:52.164268+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "carreau",
+    "query": "is:pr is:public author:carreau created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Acarreau+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=2",
+    "page": 2,
+    "total_count": 842,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:46:58.662698+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "carreau",
+    "query": "is:pr is:public author:carreau created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Acarreau+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=3",
+    "page": 3,
+    "total_count": 842,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:47:05.883387+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "carreau",
+    "query": "is:pr is:public author:carreau created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Acarreau+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=4",
+    "page": 4,
+    "total_count": 842,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:47:14.961653+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "carreau",
+    "query": "is:pr is:public author:carreau created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Acarreau+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=5",
+    "page": 5,
+    "total_count": 842,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:47:21.439924+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "carreau",
+    "query": "is:pr is:public author:carreau created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Acarreau+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=6",
+    "page": 6,
+    "total_count": 842,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:47:29.958719+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "carreau",
+    "query": "is:pr is:public author:carreau created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Acarreau+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=7",
+    "page": 7,
+    "total_count": 842,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:47:39.649097+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "carreau",
+    "query": "is:pr is:public author:carreau created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Acarreau+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=8",
+    "page": 8,
+    "total_count": 842,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:47:47.436682+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "carreau",
+    "query": "is:pr is:public author:carreau created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Acarreau+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=9",
+    "page": 9,
+    "total_count": 842,
+    "returned_count": 42,
+    "collected_at": "2026-10-08T02:47:54.935923+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "choldgraf",
+    "query": "is:pr is:public author:choldgraf created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Acholdgraf+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=2",
+    "page": 2,
+    "total_count": 269,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:48:02.793677+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "choldgraf",
+    "query": "is:pr is:public author:choldgraf created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Acholdgraf+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=3",
+    "page": 3,
+    "total_count": 269,
+    "returned_count": 69,
+    "collected_at": "2026-10-08T02:48:10.156010+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "darshan808",
+    "query": "is:pr is:public author:darshan808 created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Adarshan808+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=2",
+    "page": 2,
+    "total_count": 161,
+    "returned_count": 61,
+    "collected_at": "2026-10-08T02:48:18.534002+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "ianthomas23",
+    "query": "is:pr is:public author:ianthomas23 created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Aianthomas23+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=2",
+    "page": 2,
+    "total_count": 239,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:48:27.345311+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "ianthomas23",
+    "query": "is:pr is:public author:ianthomas23 created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Aianthomas23+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=3",
+    "page": 3,
+    "total_count": 239,
+    "returned_count": 39,
+    "collected_at": "2026-10-08T02:48:35.273869+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "jasongrout",
+    "query": "is:pr is:public author:jasongrout created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Ajasongrout+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=2",
+    "page": 2,
+    "total_count": 268,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:48:43.295712+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "jasongrout",
+    "query": "is:pr is:public author:jasongrout created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Ajasongrout+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=3",
+    "page": 3,
+    "total_count": 268,
+    "returned_count": 68,
+    "collected_at": "2026-10-08T02:48:51.266719+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "johanmabille",
+    "query": "is:pr is:public author:johanmabille created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Ajohanmabille+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=2",
+    "page": 2,
+    "total_count": 256,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:48:58.976886+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "johanmabille",
+    "query": "is:pr is:public author:johanmabille created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Ajohanmabille+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=3",
+    "page": 3,
+    "total_count": 256,
+    "returned_count": 56,
+    "collected_at": "2026-10-08T02:49:06.453402+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "jtpio",
+    "query": "is:pr is:public author:jtpio created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Ajtpio+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=2",
+    "page": 2,
+    "total_count": 569,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:49:15.767763+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "jtpio",
+    "query": "is:pr is:public author:jtpio created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Ajtpio+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=3",
+    "page": 3,
+    "total_count": 569,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:49:22.596811+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "jtpio",
+    "query": "is:pr is:public author:jtpio created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Ajtpio+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=4",
+    "page": 4,
+    "total_count": 569,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:49:31.061479+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "jtpio",
+    "query": "is:pr is:public author:jtpio created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Ajtpio+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=5",
+    "page": 5,
+    "total_count": 569,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:49:38.567957+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "jtpio",
+    "query": "is:pr is:public author:jtpio created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Ajtpio+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=6",
+    "page": 6,
+    "total_count": 569,
+    "returned_count": 69,
+    "collected_at": "2026-10-08T02:49:48.245790+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "krassowski",
+    "query": "is:pr is:public author:krassowski created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Akrassowski+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=2",
+    "page": 2,
+    "total_count": 426,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:49:54.382472+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "krassowski",
+    "query": "is:pr is:public author:krassowski created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Akrassowski+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=3",
+    "page": 3,
+    "total_count": 426,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:50:02.587209+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "krassowski",
+    "query": "is:pr is:public author:krassowski created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Akrassowski+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=4",
+    "page": 4,
+    "total_count": 426,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:50:11.004576+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "krassowski",
+    "query": "is:pr is:public author:krassowski created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Akrassowski+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=5",
+    "page": 5,
+    "total_count": 426,
+    "returned_count": 26,
+    "collected_at": "2026-10-08T02:50:19.215734+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "martinrenou",
+    "query": "is:pr is:public author:martinrenou created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Amartinrenou+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=2",
+    "page": 2,
+    "total_count": 588,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:50:26.638516+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "martinrenou",
+    "query": "is:pr is:public author:martinrenou created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Amartinrenou+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=3",
+    "page": 3,
+    "total_count": 588,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:50:35.906836+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "martinrenou",
+    "query": "is:pr is:public author:martinrenou created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Amartinrenou+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=4",
+    "page": 4,
+    "total_count": 588,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:50:41.898854+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "martinrenou",
+    "query": "is:pr is:public author:martinrenou created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Amartinrenou+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=5",
+    "page": 5,
+    "total_count": 588,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:50:50.086038+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "martinrenou",
+    "query": "is:pr is:public author:martinrenou created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Amartinrenou+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=6",
+    "page": 6,
+    "total_count": 588,
+    "returned_count": 88,
+    "collected_at": "2026-10-08T02:50:58.370248+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "minrk",
+    "query": "is:pr is:public author:minrk created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Aminrk+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=2",
+    "page": 2,
+    "total_count": 527,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:51:05.858686+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "minrk",
+    "query": "is:pr is:public author:minrk created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Aminrk+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=3",
+    "page": 3,
+    "total_count": 527,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:51:15.761308+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "minrk",
+    "query": "is:pr is:public author:minrk created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Aminrk+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=4",
+    "page": 4,
+    "total_count": 527,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:51:24.401122+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "minrk",
+    "query": "is:pr is:public author:minrk created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Aminrk+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=5",
+    "page": 5,
+    "total_count": 527,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:51:31.530752+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "minrk",
+    "query": "is:pr is:public author:minrk created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Aminrk+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=6",
+    "page": 6,
+    "total_count": 527,
+    "returned_count": 27,
+    "collected_at": "2026-10-08T02:51:38.675158+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "muffanuj",
+    "query": "is:pr is:public author:muffanuj created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Amuffanuj+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=2",
+    "page": 2,
+    "total_count": 356,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:51:47.231347+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "muffanuj",
+    "query": "is:pr is:public author:muffanuj created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Amuffanuj+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=3",
+    "page": 3,
+    "total_count": 356,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:51:54.429004+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "muffanuj",
+    "query": "is:pr is:public author:muffanuj created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Amuffanuj+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=4",
+    "page": 4,
+    "total_count": 356,
+    "returned_count": 56,
+    "collected_at": "2026-10-08T02:52:01.987242+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "terminalchai",
+    "query": "is:pr is:public author:terminalchai created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Aterminalchai+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=2",
+    "page": 2,
+    "total_count": 251,
+    "returned_count": 100,
+    "collected_at": "2026-10-08T02:52:12.001248+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "terminalchai",
+    "query": "is:pr is:public author:terminalchai created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Aterminalchai+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=3",
+    "page": 3,
+    "total_count": 251,
+    "returned_count": 51,
+    "collected_at": "2026-10-08T02:52:18.321656+00:00",
+    "incomplete_results": false
+  },
+  {
+    "login": "yann-p",
+    "query": "is:pr is:public author:yann-p created:2026-01-01..2026-10-07",
+    "url": "https://api.github.com/search/issues?q=is%3Apr+is%3Apublic+author%3Ayann-p+created%3A2026-01-01..2026-10-07&sort=created&order=asc&per_page=100&page=2",
+    "page": 2,
+    "total_count": 120,
+    "returned_count": 20,
+    "collected_at": "2026-10-08T02:52:26.182886+00:00",
+    "incomplete_results": false
+  }
+]

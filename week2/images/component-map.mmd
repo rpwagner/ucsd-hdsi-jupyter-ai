@@ -1,0 +1,24 @@
+flowchart TD
+    subgraph host["Laptop: native demonstration"]
+        subgraph browser["Browser process"]
+            lab["JupyterLab / notebook UI"]
+        end
+        subgraph env["conda environment: jupyter-pytorch-week2"]
+            subgraph server["Server process"]
+                js["Jupyter Server"]
+            end
+            subgraph kernel["Separate kernel / Python process"]
+                ipk["ipykernel: execution requests"]
+                ipy["IPython: Python cells and live state"]
+                bert["Transformers: BERT model / loaded weights"]
+                torch["PyTorch: tensor operations on CPU"]
+                ipk --> ipy
+                ipy --> bert
+                bert <--> torch
+            end
+        end
+        lab -->|"Run: code request"| js
+        js -->|"Execute request"| ipk
+        ipk -->|"Replies / output messages"| js
+        js -->|"Results for display"| lab
+    end
