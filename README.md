@@ -27,20 +27,18 @@ Stay for optional small-group and individual discussion and help. What are you t
 
 ## Deployment examples and session schedule
 
-| Week | Date | First-half deployment and what we will do with it | Planning status | Agenda |
-| --- | --- | --- | --- | --- |
-| 1 | October 1 | Introduction and setting the stage | Session held; original agenda preserved | [Week 1](week1/agenda.md) |
-| 2 | October 8 | **What happens when you press Run?** Run a small BERT text-classification model backed by [PyTorch](https://pytorch.org/) on a laptop, inspect notebook/kernel state and model execution, and map the Jupyter components to their repositories. | Technical demonstration tested; supporting Eye analysis prepared | [Week 2](week2/agenda.md) |
-| 3 | October 15 | **Give a notebook an AI collaborator.** Add [Jupyter AI](https://jupyter-ai.readthedocs.io/en/stable/), a persona, the MCP server and [Jupyter Server Documents](https://github.com/jupyter-ai-contrib/jupyter-server-documents); inspect a notebook tool call, then add Goose or another agent and compare the deployment. | Planned sequence; integration and possible container setup to test | [Week 3](week3/agenda.md) |
-| 4 | October 22 | **Trace a notebook through a teaching service.** Use [UC San Diego DataHub](https://datahub.ucsd.edu/) to investigate JupyterHub, user environments and deployment configuration, then find the upstream code and contribution paths. [Data 8](https://data8.org/) is a possible educational example. | Planned outline | [Week 4](week4/agenda.md) |
-| 5 | October 29 | **Put a research notebook to work.** Use an [ALCF](https://www.alcf.anl.gov/) workflow to trace Jupyter's connection to research computing and upstream software; investigate a domain tool such as [GeoJupyter](https://geojupyter.org/) as a possible further example. | Planned outline | [Week 5](week5/agenda.md) |
-| 6 | November 5 | **Run Jupyter in a browser; inspect a hosted product.** Use [JupyterLite](https://jupyterlite.readthedocs.io/en/stable/) to compare execution locations and source code, then examine documented company/cloud deployments and their relationship to upstream Jupyter. | Planned outline | [Week 6](week6/agenda.md) |
-| 7 | November 12 | Deployment/component and topic TBD | Open | To follow |
-| 8 | November 19 | Deployment/component and topic TBD | Open | To follow |
+| Week / date | Agenda | First-half deployment and what we will do with it | Planning status |
+| --- | --- | --- | --- |
+| **1 — October 1** | [Week 1](week1/agenda.md) | Introduction and setting the stage | Session held; original agenda preserved |
+| **2 — October 8** | [Week 2](week2/agenda.md) | **What happens when you press Run?** Use a local notebook example to inspect Jupyter's components, execution path and source repositories. | Materials ready |
+| **3 — October 15** | [Week 3](week3/agenda.md) | **Give a notebook an AI collaborator.** Add [Jupyter AI](https://jupyter-ai.readthedocs.io/en/stable/), a persona, the MCP server and [Jupyter Server Documents](https://github.com/jupyter-ai-contrib/jupyter-server-documents); inspect a notebook tool call, then add Goose or another agent and compare the deployment. | Planned sequence; integration and possible container setup to test |
+| **4 — October 22** | [Week 4](week4/agenda.md) | **Trace a notebook through a teaching service.** Use [UC San Diego DataHub](https://datahub.ucsd.edu/) to investigate JupyterHub, user environments and deployment configuration, then find the upstream code and contribution paths. [Data 8](https://data8.org/) is a possible educational example. | Planned outline |
+| **5 — October 29** | [Week 5](week5/agenda.md) | **Put a research notebook to work.** Use an [ALCF](https://www.alcf.anl.gov/) workflow to trace Jupyter's connection to research computing and upstream software; investigate a domain tool such as [GeoJupyter](https://geojupyter.org/) as a possible further example. | Planned outline |
+| **6 — November 5** | [Week 6](week6/agenda.md) | **Run Jupyter in a browser; inspect a hosted product.** Use [JupyterLite](https://jupyterlite.readthedocs.io/en/stable/) to compare execution locations and source code, then examine documented company/cloud deployments and their relationship to upstream Jupyter. | Planned outline |
+| **7 — November 12** | To follow | Deployment/component and topic TBD | Open |
+| **8 — November 19** | To follow | Deployment/component and topic TBD | Open |
 
 For Weeks 2-8, the second half is student-directed, with no separate weekly lesson or assigned task. Later outlines may evolve with the group's questions.
-
-The Week 2 prepared example uses native Jupyter in a tested conda environment and runs on CPU, without a container or external model API. Installation is optional because students can follow the demonstration by watching. The tested notebooks, setup and validation materials are linked from the Week 2 agenda; the supporting [Eye article](week2/the-eye.md) and [research](week2/research.md) are also available. Week 3 may use a container for its AI/agent example after the setup and access boundaries have been tested. Containerization is not a promise that an agent cannot affect files or services it can reach.
 
 Session notes, research and additional reading will be linked here when available.
 
