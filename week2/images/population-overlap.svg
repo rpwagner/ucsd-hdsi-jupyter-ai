@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="510" viewBox="0 0 1100 510" role="img" aria-labelledby="title desc">
+<title id="title">Documented non-Jupyter PR connections</title><desc id="desc">Accounts with at least three 2026 PR submissions to a qualifying non-Jupyter repository; measured in overlapping, nonrepresentative populations.</desc>
+<rect width="1100" height="510" fill="#FFFFFF"/>
+<text x="45" y="58" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#17243C">Documented non-Jupyter PR connections</text>
+<text x="45" y="98" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#17243C">2026-01-01 through 2026-10-07 UTC | distinct accounts in each population</text>
+<text x="45" y="180" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#17243C">Current leadership</text>
+<rect x="365" y="148" width="455" height="44" rx="8" fill="#EBEEF4"/>
+<rect x="365" y="148" width="208.54" height="44" rx="8" fill="#2667DA"/>
+<text x="850" y="180" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#17243C">11 / 24</text>
+<text x="850" y="210" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#17243C">45.8%</text>
+<text x="45" y="295" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#17243C">Component contributors</text>
+<rect x="365" y="263" width="455" height="44" rx="8" fill="#EBEEF4"/>
+<rect x="365" y="263" width="379.17" height="44" rx="8" fill="#6953BD"/>
+<text x="850" y="295" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#17243C">10 / 12</text>
+<text x="850" y="325" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#17243C">83.3%</text>
+<text x="45" y="382" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#17243C">At least 3 opened PRs per repository; licenses and project boundaries checked.</text>
+<text x="45" y="416" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#17243C">The groups overlap: 4 accounts are in both. Unclassified is not “no overlap”.</text>
+<text x="45" y="450" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#17243C">Submitted activity ≠ effort, influence or accepted work. Roles are separate evidence.</text>
+<text x="45" y="484" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400" fill="#17243C">Sources: retained public GitHub PR records; governance roster. See research.md.</text>
+</svg>

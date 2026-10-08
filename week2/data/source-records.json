@@ -1,0 +1,14 @@
+[
+  {"source_url":"https://jupyter.org/governance/overview/","checked_date_utc":"2026-10-08","purpose":"Current Foundation and SSC rosters: 13 listed Foundation members, 11 SSC representatives, 24 unique people."},
+  {"source_url":"https://jupyter.org/governance/jupyter-foundation/","checked_date_utc":"2026-10-08","purpose":"Confirm board roster and membership rule. All EC members belong by rule, although Martha Cryan is missing from the rendered board table; she is included via the SSC roster."},
+  {"source_url":"https://jupyter.org/governance/software-subprojects/","checked_date_utc":"2026-10-08","purpose":"Confirm all 11 current SSC representatives, including the DEI representative."},
+  {"source_url":"https://jupyter.org/governance/people/","checked_date_utc":"2026-10-08","purpose":"Confirm Brian Granger's former EC (2023–2024) and Foundation listings; do not infer current status from a term ending in 2026."},
+  {"source_url":"https://github.com/jupyter/governance/blob/main/docs/_data/contributors.yml","source_blob_sha":"aa8f16469ba1eb33a55c1c643df36d926aee826f","checked_date_utc":"2026-10-08","purpose":"Retained CC0 governance data used to generate and cross-check roster; no identity reconstruction."},
+  {"source_url":"https://jupyter.org/governance/list-of-subprojects/","checked_date_utc":"2026-10-08","purpose":"Official subproject boundaries, including Jupyter Book and JupyterHealth. Registry does not treat every notebook-related repository as official."},
+  {"source_url":"https://github.com/meeseeksmachine","checked_date_utc":"2026-10-08","purpose":"Account explicitly identifies itself as a backport machine account; exclude despite GitHub user type User."},
+  {"source_url":"https://pytorch.org/governing-board/","checked_date_utc":"2026-10-08","purpose":"Brian Granger appears on the current board; a role, not evidence of recent PyTorch PR activity."},
+  {"source_url":"https://github.com/conda-forge/governance/blob/main/teams/core.csv","source_blob_sha":"abfeedf9ba9507e4c97cdb56993061b30a1bc599","checked_date_utc":"2026-10-08","purpose":"Direct core-membership evidence for minrk and SylvainCorlay; retain names/logins only, not contact details."},
+  {"source_url":"https://pypi.org/project/pyzmq/","checked_date_utc":"2026-10-08","purpose":"Package-maintainer listing for minrk; BSD-3-Clause license."},
+  {"source_url":"https://pypi.org/project/pydata-sphinx-theme/","checked_date_utc":"2026-10-08","purpose":"Package-maintainer listing for choldgraf; BSD license."},
+  {"source_url":"https://pypi.org/project/contourpy/","checked_date_utc":"2026-10-08","purpose":"Current package metadata credits Ian Thomas as author, distinct from the current PyPI maintainer listing."}
+]
