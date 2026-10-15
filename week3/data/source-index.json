@@ -1,0 +1,1409 @@
+[
+  {
+    "id": "jupyterlab/jupyter-ai:metadata",
+    "request_url": "https://api.github.com/repos/jupyterlab/jupyter-ai",
+    "collected_at": "2026-10-15T17:28:44.638Z",
+    "record_type": "repository_metadata",
+    "record": {}
+  },
+  {
+    "id": "jupyterlab/jupyter-ai:early",
+    "request_url": "https://api.github.com/repos/jupyterlab/jupyter-ai/commits?until=2023-02-16T21:37:47.000Z&per_page=100",
+    "collected_at": "2026-10-15T17:28:53.796Z",
+    "record_type": "commit_page",
+    "record": [
+      {
+        "html_url": "https://github.com/jupyterlab/jupyter-ai/commit/c9c2430983e6b2c1f9e3eb4a5a4d161cffdcb02c"
+      },
+      {
+        "html_url": "https://github.com/jupyterlab/jupyter-ai/commit/b31e553d767fb6c51a12dfcd6c5a25f881f3847b"
+      },
+      {
+        "html_url": "https://github.com/jupyterlab/jupyter-ai/commit/5b57f1b2f17c3ab74e1c1fe0dbf4e0a6e088d713"
+      },
+      {
+        "html_url": "https://github.com/jupyterlab/jupyter-ai/commit/907dfaceedf185d52908ab3826162d3be80e09d1"
+      },
+      {
+        "html_url": "https://github.com/jupyterlab/jupyter-ai/commit/c3dfdf7680c94c47e4db9594a28cb3d037ebe634"
+      },
+      {
+        "html_url": "https://github.com/jupyterlab/jupyter-ai/commit/1584ec6e3c53e61bc6cba0aafd33ecec95ebc2a3"
+      },
+      {
+        "html_url": "https://github.com/jupyterlab/jupyter-ai/commit/edf74f8acc169740572d9bc06089333c010a3050"
+      },
+      {
+        "html_url": "https://github.com/jupyterlab/jupyter-ai/commit/e75c214c53e650761d9aae9495b9a6d80853f74d"
+      },
+      {
+        "html_url": "https://github.com/jupyterlab/jupyter-ai/commit/0d4009ab7cb344f9e7c86b0d77e9f84ccde22382"
+      }
+    ]
+  },
+  {
+    "id": "jupyterlab/jupyter-ai:head",
+    "request_url": "https://api.github.com/repos/jupyterlab/jupyter-ai/commits?until=2026-10-15T00:00:00Z&per_page=1",
+    "collected_at": "2026-10-15T17:29:39.943Z",
+    "record_type": "commit_page",
+    "record": [
+      {
+        "html_url": "https://github.com/jupyterlab/jupyter-ai/commit/5b23f55d15ba245347013ffe0a238f26b1f4f1e8"
+      }
+    ]
+  },
+  {
+    "id": "jupyterlab/jupyter-ai:readme",
+    "request_url": "https://github.com/jupyterlab/jupyter-ai/blob/5b23f55d15ba245347013ffe0a238f26b1f4f1e8/README.md",
+    "collected_at": "2026-10-15T17:29:53.463Z",
+    "record_type": "file_snapshot",
+    "record": {}
+  },
+  {
+    "id": "jupyterlite/ai:metadata",
+    "request_url": "https://api.github.com/repos/jupyterlite/ai",
+    "collected_at": "2026-10-15T17:28:44.554Z",
+    "record_type": "repository_metadata",
+    "record": {}
+  },
+  {
+    "id": "jupyterlite/ai:early",
+    "request_url": "https://api.github.com/repos/jupyterlite/ai/commits?until=2024-06-17T10:50:12.000Z&per_page=100",
+    "collected_at": "2026-10-15T17:28:54.061Z",
+    "record_type": "commit_page",
+    "record": [
+      {
+        "html_url": "https://github.com/jupyterlite/ai/commit/f8a649b6c3d2455bf1011120cd952da3e4d039a9"
+      },
+      {
+        "html_url": "https://github.com/jupyterlite/ai/commit/9c8d350b8876ad3a9ffe8dbe723ca093bb680681"
+      }
+    ]
+  },
+  {
+    "id": "jupyterlite/ai:head",
+    "request_url": "https://api.github.com/repos/jupyterlite/ai/commits?until=2026-10-15T00:00:00Z&per_page=1",
+    "collected_at": "2026-10-15T17:29:40.061Z",
+    "record_type": "commit_page",
+    "record": [
+      {
+        "html_url": "https://github.com/jupyterlite/ai/commit/370853782a482903102d3c066950a0bf3dbee711"
+      }
+    ]
+  },
+  {
+    "id": "jupyterlite/ai:readme",
+    "request_url": "https://github.com/jupyterlite/ai/blob/370853782a482903102d3c066950a0bf3dbee711/README.md",
+    "collected_at": "2026-10-15T17:29:53.750Z",
+    "record_type": "file_snapshot",
+    "record": {}
+  },
+  {
+    "id": "jupyter-ai-contrib/jupyter-ai-acp-client:metadata",
+    "request_url": "https://api.github.com/repos/jupyter-ai-contrib/jupyter-ai-acp-client",
+    "collected_at": "2026-10-15T17:28:44.612Z",
+    "record_type": "repository_metadata",
+    "record": {}
+  },
+  {
+    "id": "jupyter-ai-contrib/jupyter-ai-acp-client:early",
+    "request_url": "https://api.github.com/repos/jupyter-ai-contrib/jupyter-ai-acp-client/commits?until=2026-02-03T01:53:45.000Z&per_page=100",
+    "collected_at": "2026-10-15T17:28:53.841Z",
+    "record_type": "commit_page",
+    "record": [
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyter-ai-acp-client/commit/41829e5c7dd763e12ee38bfddb813676b81593bc"
+      },
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyter-ai-acp-client/commit/5e4a754444a77b30dd6bac0ff3a6e37465bbb216"
+      },
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyter-ai-acp-client/commit/b8a32a8ec80a421611d6469ccb870384aa46a460"
+      },
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyter-ai-acp-client/commit/d7d2a50c631e2836321396eba3067edc468b7ea8"
+      },
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyter-ai-acp-client/commit/36d19990ad4f1f2d254cc58cd8f7b224518f454c"
+      },
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyter-ai-acp-client/commit/31cc37dc13c0297b686cbb992356dfa516d4fe4a"
+      },
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyter-ai-acp-client/commit/b2dc3248d4b3664357820370bd4b882e69e48b95"
+      },
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyter-ai-acp-client/commit/a6ff408fefca35b1ba95086e140859f4a2e75ec7"
+      },
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyter-ai-acp-client/commit/17638c43082ca468f858920c81b4ca65764ee1bf"
+      },
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyter-ai-acp-client/commit/3c9fdd2b19943bfa6c94738faec387a6c8b5cac9"
+      },
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyter-ai-acp-client/commit/a33ece911918fe25561233e502e8abbdf6f166cf"
+      },
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyter-ai-acp-client/commit/8c8d6481cf8f29382d524f579d3b414efc0d41dc"
+      },
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyter-ai-acp-client/commit/2d127ef5d41058ec97d8ecc2c87a83a0b9e28e6b"
+      },
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyter-ai-acp-client/commit/3e03b57e67b7dd60510f05de64526c0d0cbf7a77"
+      }
+    ]
+  },
+  {
+    "id": "jupyter-ai-contrib/jupyter-ai-acp-client:head",
+    "request_url": "https://api.github.com/repos/jupyter-ai-contrib/jupyter-ai-acp-client/commits?until=2026-10-15T00:00:00Z&per_page=1",
+    "collected_at": "2026-10-15T17:29:40.174Z",
+    "record_type": "commit_page",
+    "record": [
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyter-ai-acp-client/commit/77016f63530f5279ad4c9bae8a8aa5a6a27a5c37"
+      }
+    ]
+  },
+  {
+    "id": "jupyter-ai-contrib/jupyter-ai-acp-client:readme",
+    "request_url": "https://github.com/jupyter-ai-contrib/jupyter-ai-acp-client/blob/77016f63530f5279ad4c9bae8a8aa5a6a27a5c37/README.md",
+    "collected_at": "2026-10-15T17:29:53.552Z",
+    "record_type": "file_snapshot",
+    "record": {}
+  },
+  {
+    "id": "jupyter-ai-contrib/jupyter-server-documents:metadata",
+    "request_url": "https://api.github.com/repos/jupyter-ai-contrib/jupyter-server-documents",
+    "collected_at": "2026-10-15T17:28:44.708Z",
+    "record_type": "repository_metadata",
+    "record": {}
+  },
+  {
+    "id": "jupyter-ai-contrib/jupyter-server-documents:early",
+    "request_url": "https://api.github.com/repos/jupyter-ai-contrib/jupyter-server-documents/commits?until=2025-04-03T22:44:08.000Z&per_page=100",
+    "collected_at": "2026-10-15T17:28:53.801Z",
+    "record_type": "commit_page",
+    "record": [
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyter-server-documents/commit/6c69f728e753cac84ced6b896be83b651f3dbeb2"
+      },
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyter-server-documents/commit/1b1c0eb6345b4e86be2e0617e0e5d191b0b32cbf"
+      },
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyter-server-documents/commit/793d5a11840e0f2c23e421e93b54c641d5d93be2"
+      },
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyter-server-documents/commit/a9800ae54fbc604f52debe8d4b4315dd40cc34d5"
+      },
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyter-server-documents/commit/151996617ebfba30078f59af239737937b3eb487"
+      },
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyter-server-documents/commit/683ea10e217b169fbc4ddaa08f6229c5695cd221"
+      },
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyter-server-documents/commit/62431a2830ccc4f68986a988a4331c5e546d7683"
+      }
+    ]
+  },
+  {
+    "id": "jupyter-ai-contrib/jupyter-server-documents:head",
+    "request_url": "https://api.github.com/repos/jupyter-ai-contrib/jupyter-server-documents/commits?until=2026-10-15T00:00:00Z&per_page=1",
+    "collected_at": "2026-10-15T17:29:40.095Z",
+    "record_type": "commit_page",
+    "record": [
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyter-server-documents/commit/307876082a3fa07b4ff66b2e5edaa9c1a8530ee5"
+      }
+    ]
+  },
+  {
+    "id": "jupyter-ai-contrib/jupyter-server-documents:readme",
+    "request_url": "https://github.com/jupyter-ai-contrib/jupyter-server-documents/blob/307876082a3fa07b4ff66b2e5edaa9c1a8530ee5/README.md",
+    "collected_at": "2026-10-15T17:29:53.953Z",
+    "record_type": "file_snapshot",
+    "record": {}
+  },
+  {
+    "id": "jupyter-ai-contrib/jupyter-server-mcp:metadata",
+    "request_url": "https://api.github.com/repos/jupyter-ai-contrib/jupyter-server-mcp",
+    "collected_at": "2026-10-15T17:28:44.512Z",
+    "record_type": "repository_metadata",
+    "record": {}
+  },
+  {
+    "id": "jupyter-ai-contrib/jupyter-server-mcp:early",
+    "request_url": "https://api.github.com/repos/jupyter-ai-contrib/jupyter-server-mcp/commits?until=2025-08-21T20:42:21.000Z&per_page=100",
+    "collected_at": "2026-10-15T17:28:53.858Z",
+    "record_type": "commit_page",
+    "record": [
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyter-server-mcp/commit/cdcb11108b647311e14f85359ae64635207cbfff"
+      },
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyter-server-mcp/commit/22821ef9158f881b42b195fae6725a15b7b1a62e"
+      },
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyter-server-mcp/commit/2a6afc1da31fa34ad1d187b220defe499f4b28b3"
+      },
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyter-server-mcp/commit/fb0b9a59e08150ce6c285a9af41dac2342e7d181"
+      }
+    ]
+  },
+  {
+    "id": "jupyter-ai-contrib/jupyter-server-mcp:head",
+    "request_url": "https://api.github.com/repos/jupyter-ai-contrib/jupyter-server-mcp/commits?until=2026-10-15T00:00:00Z&per_page=1",
+    "collected_at": "2026-10-15T17:29:40.412Z",
+    "record_type": "commit_page",
+    "record": [
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyter-server-mcp/commit/d1823a5cdd1be8d9a32caa4fadf12b392d11b3c1"
+      }
+    ]
+  },
+  {
+    "id": "jupyter-ai-contrib/jupyter-server-mcp:readme",
+    "request_url": "https://github.com/jupyter-ai-contrib/jupyter-server-mcp/blob/d1823a5cdd1be8d9a32caa4fadf12b392d11b3c1/README.md",
+    "collected_at": "2026-10-15T17:29:53.545Z",
+    "record_type": "file_snapshot",
+    "record": {}
+  },
+  {
+    "id": "jupyter-ai-contrib/jupyterlab-ai-commands:metadata",
+    "request_url": "https://api.github.com/repos/jupyter-ai-contrib/jupyterlab-ai-commands",
+    "collected_at": "2026-10-15T17:28:44.552Z",
+    "record_type": "repository_metadata",
+    "record": {}
+  },
+  {
+    "id": "jupyter-ai-contrib/jupyterlab-ai-commands:early",
+    "request_url": "https://api.github.com/repos/jupyter-ai-contrib/jupyterlab-ai-commands/commits?until=2025-11-06T17:02:15.000Z&per_page=100",
+    "collected_at": "2026-10-15T17:28:53.886Z",
+    "record_type": "commit_page",
+    "record": [
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyterlab-ai-commands/commit/3a7fd03bfa76ed56908767e1056da9d4f09112aa"
+      },
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyterlab-ai-commands/commit/22a6a404c6bd1e2efff3e377108c77c4935fde9f"
+      },
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyterlab-ai-commands/commit/6b3c6ade4190ffbcdc440e8f17ac6b467e6e904d"
+      },
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyterlab-ai-commands/commit/0090514ce1a424a531212fc120692ffc352145e7"
+      },
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyterlab-ai-commands/commit/67f83e0055fbc6fb4f77bfb41a6ccfd47ad20a27"
+      },
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyterlab-ai-commands/commit/481b34d44ddeb9b2288b91969869dc63853cca9c"
+      },
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyterlab-ai-commands/commit/d2a97c6a4fb39d47a610f3a9b40b460957f81428"
+      }
+    ]
+  },
+  {
+    "id": "jupyter-ai-contrib/jupyterlab-ai-commands:head",
+    "request_url": "https://api.github.com/repos/jupyter-ai-contrib/jupyterlab-ai-commands/commits?until=2026-10-15T00:00:00Z&per_page=1",
+    "collected_at": "2026-10-15T17:29:40.023Z",
+    "record_type": "commit_page",
+    "record": [
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyterlab-ai-commands/commit/2743d32b62518d89caec7f802d6ae6c211580c33"
+      }
+    ]
+  },
+  {
+    "id": "jupyter-ai-contrib/jupyterlab-ai-commands:readme",
+    "request_url": "https://github.com/jupyter-ai-contrib/jupyterlab-ai-commands/blob/2743d32b62518d89caec7f802d6ae6c211580c33/README.md",
+    "collected_at": "2026-10-15T17:29:53.652Z",
+    "record_type": "file_snapshot",
+    "record": {}
+  },
+  {
+    "id": "jupyter-ai-contrib/jupyter-ai-persona-manager:metadata",
+    "request_url": "https://api.github.com/repos/jupyter-ai-contrib/jupyter-ai-persona-manager",
+    "collected_at": "2026-10-15T17:28:44.467Z",
+    "record_type": "repository_metadata",
+    "record": {}
+  },
+  {
+    "id": "jupyter-ai-contrib/jupyter-ai-persona-manager:early",
+    "request_url": "https://api.github.com/repos/jupyter-ai-contrib/jupyter-ai-persona-manager/commits?until=2025-10-07T21:48:50.000Z&per_page=100",
+    "collected_at": "2026-10-15T17:28:53.894Z",
+    "record_type": "commit_page",
+    "record": [
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyter-ai-persona-manager/commit/cc06288f2cb34f4596a19b17671e8d0ecfebc999"
+      },
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyter-ai-persona-manager/commit/2421593f7f44070e5a7e5a26a5923e0ceda1316b"
+      },
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyter-ai-persona-manager/commit/8dd063c05c8a3e50037d3f81f0bbe189cd7e7a01"
+      },
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyter-ai-persona-manager/commit/eeb585c41855fa5d660483b7829676e0fb900cdc"
+      }
+    ]
+  },
+  {
+    "id": "jupyter-ai-contrib/jupyter-ai-persona-manager:head",
+    "request_url": "https://api.github.com/repos/jupyter-ai-contrib/jupyter-ai-persona-manager/commits?until=2026-10-15T00:00:00Z&per_page=1",
+    "collected_at": "2026-10-15T17:29:40.017Z",
+    "record_type": "commit_page",
+    "record": [
+      {
+        "html_url": "https://github.com/jupyter-ai-contrib/jupyter-ai-persona-manager/commit/986033ba4c2aa463d744a27cbb6432fdba51cf0f"
+      }
+    ]
+  },
+  {
+    "id": "jupyter-ai-contrib/jupyter-ai-persona-manager:readme",
+    "request_url": "https://github.com/jupyter-ai-contrib/jupyter-ai-persona-manager/blob/986033ba4c2aa463d744a27cbb6432fdba51cf0f/README.md",
+    "collected_at": "2026-10-15T17:29:53.540Z",
+    "record_type": "file_snapshot",
+    "record": {}
+  },
+  {
+    "id": "datalayer/jupyter-mcp-server:metadata",
+    "request_url": "https://api.github.com/repos/datalayer/jupyter-mcp-server",
+    "collected_at": "2026-10-15T17:28:44.388Z",
+    "record_type": "repository_metadata",
+    "record": {}
+  },
+  {
+    "id": "datalayer/jupyter-mcp-server:early",
+    "request_url": "https://api.github.com/repos/datalayer/jupyter-mcp-server/commits?until=2025-02-19T06:41:35.000Z&per_page=100",
+    "collected_at": "2026-10-15T17:28:53.755Z",
+    "record_type": "commit_page",
+    "record": [
+      {
+        "html_url": "https://github.com/datalayer/jupyter-mcp-server/commit/d19c4780e542fcd9c8ace705227ce8cbbb02a07d"
+      },
+      {
+        "html_url": "https://github.com/datalayer/jupyter-mcp-server/commit/6c2a6d1a8614d9cd5c688e40512d3bb8159b8cec"
+      },
+      {
+        "html_url": "https://github.com/datalayer/jupyter-mcp-server/commit/5e30a029a7e9e7f1359cbd2d1c4247ad0b7c7ad5"
+      },
+      {
+        "html_url": "https://github.com/datalayer/jupyter-mcp-server/commit/131184ce1a2082c64bc1f2b7437d3ba0f9380370"
+      },
+      {
+        "html_url": "https://github.com/datalayer/jupyter-mcp-server/commit/b6b99a50461ce2d858718722b272642ed66b6771"
+      },
+      {
+        "html_url": "https://github.com/datalayer/jupyter-mcp-server/commit/6e7d64a43b6ce74c80425fe0fdd0621c182222e2"
+      },
+      {
+        "html_url": "https://github.com/datalayer/jupyter-mcp-server/commit/40ea9c687b1ad11e7ce8fb1894a5d235f24bfc27"
+      },
+      {
+        "html_url": "https://github.com/datalayer/jupyter-mcp-server/commit/320e895f4719088703d214d511fa62e5db2ef5e7"
+      },
+      {
+        "html_url": "https://github.com/datalayer/jupyter-mcp-server/commit/cda15edb0f301fea0fe2decee1528773652334b7"
+      },
+      {
+        "html_url": "https://github.com/datalayer/jupyter-mcp-server/commit/fe387ff2d23b0c2c3a6f7863cad22ffa9f001d86"
+      },
+      {
+        "html_url": "https://github.com/datalayer/jupyter-mcp-server/commit/9b639d9bb1def84df7691c1a18f2600723166d5b"
+      }
+    ]
+  },
+  {
+    "id": "datalayer/jupyter-mcp-server:head",
+    "request_url": "https://api.github.com/repos/datalayer/jupyter-mcp-server/commits?until=2026-10-15T00:00:00Z&per_page=1",
+    "collected_at": "2026-10-15T17:29:39.932Z",
+    "record_type": "commit_page",
+    "record": [
+      {
+        "html_url": "https://github.com/datalayer/jupyter-mcp-server/commit/6184a1ef31400651223c576f6f6adb5f99b62bbd"
+      }
+    ]
+  },
+  {
+    "id": "datalayer/jupyter-mcp-server:readme",
+    "request_url": "https://github.com/datalayer/jupyter-mcp-server/blob/6184a1ef31400651223c576f6f6adb5f99b62bbd/README.md",
+    "collected_at": "2026-10-15T17:29:53.475Z",
+    "record_type": "file_snapshot",
+    "record": {}
+  },
+  {
+    "id": "fperez/jupytee:metadata",
+    "request_url": "https://api.github.com/repos/fperez/jupytee",
+    "collected_at": "2026-10-15T17:29:07.913Z",
+    "record_type": "repository_metadata",
+    "record": {}
+  },
+  {
+    "id": "fperez/jupytee:early",
+    "request_url": "https://api.github.com/repos/fperez/jupytee/commits?until=2022-12-27T03:40:04.000Z&per_page=100",
+    "collected_at": "2026-10-15T17:29:20.551Z",
+    "record_type": "commit_page",
+    "record": [
+      {
+        "html_url": "https://github.com/fperez/jupytee/commit/3e19b0e847cff12a519b05c568d29a275cd37d52"
+      },
+      {
+        "html_url": "https://github.com/fperez/jupytee/commit/8d7474e341963c64220e5921f7ff8199a691abae"
+      },
+      {
+        "html_url": "https://github.com/fperez/jupytee/commit/a04c3caebd17f984a813e0831a04b0e2e0929cc4"
+      },
+      {
+        "html_url": "https://github.com/fperez/jupytee/commit/80cde96b1b6d4f4fbd5b4cac3b80fd821e376788"
+      },
+      {
+        "html_url": "https://github.com/fperez/jupytee/commit/25b1e9c50b59a50cda65e376578e4aed4d97f500"
+      },
+      {
+        "html_url": "https://github.com/fperez/jupytee/commit/3f6c51111e2ab82379c2632cd15b71f529ea934a"
+      },
+      {
+        "html_url": "https://github.com/fperez/jupytee/commit/7c2bc6b174319262dca607579cdcbc235aaf9075"
+      },
+      {
+        "html_url": "https://github.com/fperez/jupytee/commit/6c109f9f3416fdc16d8199f1885d7025fb9a14e2"
+      },
+      {
+        "html_url": "https://github.com/fperez/jupytee/commit/82e770b4418f9fc6bbe3cb3661af68122d41099d"
+      },
+      {
+        "html_url": "https://github.com/fperez/jupytee/commit/ef80e401777ae07952f9075b25e823a5de2f7ab5"
+      },
+      {
+        "html_url": "https://github.com/fperez/jupytee/commit/4bddb296986d725c71a339881709d0c9df722443"
+      },
+      {
+        "html_url": "https://github.com/fperez/jupytee/commit/94915d4e705c5ddf4e0e264cedcbf3c95f1ad8f3"
+      },
+      {
+        "html_url": "https://github.com/fperez/jupytee/commit/c621d7643278b191c2a1c6fdcfe9059d6c00b175"
+      },
+      {
+        "html_url": "https://github.com/fperez/jupytee/commit/d017a1898ec2b8fc80efc9e957fc8a266a901c19"
+      },
+      {
+        "html_url": "https://github.com/fperez/jupytee/commit/edc43b546b66f17070decf4a176a5cf42fe19943"
+      },
+      {
+        "html_url": "https://github.com/fperez/jupytee/commit/13765f68c9e0ac68f2599f8ccacaaa45cc55f2de"
+      },
+      {
+        "html_url": "https://github.com/fperez/jupytee/commit/be1527827bb8c0a2f1f9a427730dae5fcc9d54f5"
+      },
+      {
+        "html_url": "https://github.com/fperez/jupytee/commit/65ee2b97e10015c46e175e11e45e0b3aea48727b"
+      },
+      {
+        "html_url": "https://github.com/fperez/jupytee/commit/c685304f8a10b96cb9a68b1a07c54deac1909fe1"
+      },
+      {
+        "html_url": "https://github.com/fperez/jupytee/commit/83cbe72271f2dfa8d5b4f674153cc498ad7375cd"
+      },
+      {
+        "html_url": "https://github.com/fperez/jupytee/commit/7b6b2f65fde86d91930be6ff29f62c22f8ceaf23"
+      },
+      {
+        "html_url": "https://github.com/fperez/jupytee/commit/859d52c3f2d86377b5f44b3925729877a27c1977"
+      },
+      {
+        "html_url": "https://github.com/fperez/jupytee/commit/837c04797ac5b210223ac4f8e86efd19f53608dc"
+      },
+      {
+        "html_url": "https://github.com/fperez/jupytee/commit/bfc969cb6dafa8570d2b22cfbdc649e41c29e5a6"
+      },
+      {
+        "html_url": "https://github.com/fperez/jupytee/commit/47b8c75bc7b654b8c084471489381bd60dd1cf7a"
+      },
+      {
+        "html_url": "https://github.com/fperez/jupytee/commit/b3ad9cbc081d432d48b94c8763b6015837d1c89a"
+      }
+    ]
+  },
+  {
+    "id": "fperez/jupytee:head",
+    "request_url": "https://api.github.com/repos/fperez/jupytee/commits?until=2026-10-15T00:00:00Z&per_page=1",
+    "collected_at": "2026-10-15T17:29:40.003Z",
+    "record_type": "commit_page",
+    "record": [
+      {
+        "html_url": "https://github.com/fperez/jupytee/commit/3e19b0e847cff12a519b05c568d29a275cd37d52"
+      }
+    ]
+  },
+  {
+    "id": "fperez/jupytee:readme",
+    "request_url": "https://github.com/fperez/jupytee/blob/3e19b0e847cff12a519b05c568d29a275cd37d52/README.md",
+    "collected_at": "2026-10-15T17:29:53.441Z",
+    "record_type": "file_snapshot",
+    "record": {}
+  },
+  {
+    "id": "jflam/chat-gpt-jupyter-extension:metadata",
+    "request_url": "https://api.github.com/repos/jflam/chat-gpt-jupyter-extension",
+    "collected_at": "2026-10-15T17:29:07.989Z",
+    "record_type": "repository_metadata",
+    "record": {}
+  },
+  {
+    "id": "jflam/chat-gpt-jupyter-extension:early",
+    "request_url": "https://api.github.com/repos/jflam/chat-gpt-jupyter-extension/commits?until=2022-12-13T02:58:47.000Z&per_page=100",
+    "collected_at": "2026-10-15T17:29:20.537Z",
+    "record_type": "commit_page",
+    "record": [
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/9a0490a7ae0c7311195ed246517911e36255b96e"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/7f7844b0b552f408cf128ec97be565b7903c9144"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/49f8d93efb36378097db98f5598f49f0a580e4f9"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/23fc711b6478fa968c8925497935c984700d84eb"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/13d8324527d82f3f4ac7dcbb98542975aa785058"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/fe30409b4be3f5ff9009f31b789f7a72eb9b8be4"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/0ef4d199b23621b2c30c89b3e70aeeaa83fb8de2"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/6c399f6ffffcb18f44e20b4777bb2bdbc3843bd6"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/d05a5c28df696067ce7359d9694e0b64a824f53d"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/d21a08c3c92ddfdaa68960223dfeee54da585be2"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/476c8ac501c8b4a4fc975215375194b287b5a63b"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/5365b61b0a8a10dc8a37699c5135b6ee2a2f9295"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/9d23ef98e845033cb70943d45acd8319ab14caf8"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/493b4356e5bb5922ada5ccd2758ab94cba774197"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/d9e3fe0e9454e0587be75061b65ca722e12fadac"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/09f94c12e270d1cbefb4279b3aeb3b6a4a46cca8"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/81332f82927252c2ab29e615668d9d7308ad7a3b"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/6eaff2d50182ca968ac7c9a8801013214e4de3e5"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/1bcafd825727136a792c79c5fd9ef0edbb2ccb24"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/7300fe39a97476b4b97434f8ba5ac26bd4b23313"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/8adb383017be26730a3bf96621cee3f5c145be9e"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/b149cca739dfd62b56db162cb89af9abbc38c3a4"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/fd85454cbf18208e6d3f6ba422121fa05dbffb5d"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/0d3c9ed270ae348d7f0be90150c0cc0e0e48098f"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/6c98c91157922aedf90085f1cc63f82ec94028a9"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/f3e3fa2cbeddb5e3ce07f0585aee7c525ff86552"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/290c3506aa1c1e5897e0e907d37ddfcabcfebe65"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/2142c12deabafd4be00cb3510c1bf6f203f0da6e"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/c4d6168931d3a025951757e9473b0287b6b7a9b8"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/dfed9b4aa6ef15ee3014972e1fe38c1693880b82"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/74d05e9549b0d5a4498ca571033df2a78a3f2a04"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/d6b775535c7e8e31c26af4cd1758981f13ccb4e9"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/c8eeab26adcb51a19340b52122337fffad9f36e7"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/cdca1bca9065164cc44a0e20480f03ec8f580383"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/a88e0c783a0f5b538375c2c4bf91a1d94a3ec5bc"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/4ffce8f510fa9be085577f6e65d6c18abb0831ab"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/9b71b3db2ab5c04f0c3f9e245e502e5d42bed386"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/49d69c040d169ac387067d0001bd445e934e092f"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/a7333f3d648479698a81adbf3a663c1d0e5d5cb3"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/a9cad2d3e94ec18426723fd553b07ca244ed6dc2"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/e32a4ed01a9a2ae8836e782cd6eda40ae2dff651"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/73fae881059a39f11ea31367e96ab3a7a003f2ea"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/dd02ce503ade790c1b3e2453f3211e39735aa76e"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/82abdd62aa1271235d21dcbcb5cac89760f147df"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/2d2b291ac0ac87cd5d817f1c273e0a3313ae518e"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/617eb2641e3f7edabbd89c5ce3dc36c8b1eb1468"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/a966d230f7b772f6d144cf2db87ddc115ee43a8c"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/a75585431df6d87abe326087f94badace72c8b16"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/d5d3d2d3c3e8172caa25cb111002cd6759f92ece"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/262cde6938d5a921eaff3840905c2e24e16b8211"
+      },
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/56242abb817e793ab1f79be0482f00116fb8ffe5"
+      }
+    ]
+  },
+  {
+    "id": "jflam/chat-gpt-jupyter-extension:head",
+    "request_url": "https://api.github.com/repos/jflam/chat-gpt-jupyter-extension/commits?until=2026-10-15T00:00:00Z&per_page=1",
+    "collected_at": "2026-10-15T17:29:39.983Z",
+    "record_type": "commit_page",
+    "record": [
+      {
+        "html_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/6da0d3c5fe0273950d3167cba7d3c4a69ff3778a"
+      }
+    ]
+  },
+  {
+    "id": "jflam/chat-gpt-jupyter-extension:readme",
+    "request_url": "https://github.com/jflam/chat-gpt-jupyter-extension/blob/6da0d3c5fe0273950d3167cba7d3c4a69ff3778a/README.md",
+    "collected_at": "2026-10-15T17:29:53.879Z",
+    "record_type": "file_snapshot",
+    "record": {}
+  },
+  {
+    "id": "henshinger/gpt-jupyterlab:metadata",
+    "request_url": "https://api.github.com/repos/henshinger/gpt-jupyterlab",
+    "collected_at": "2026-10-15T17:29:07.913Z",
+    "record_type": "repository_metadata",
+    "record": {}
+  },
+  {
+    "id": "henshinger/gpt-jupyterlab:early",
+    "request_url": "https://api.github.com/repos/henshinger/gpt-jupyterlab/commits?until=2023-01-24T16:48:18.000Z&per_page=100",
+    "collected_at": "2026-10-15T17:29:20.526Z",
+    "record_type": "commit_page",
+    "record": [
+      {
+        "html_url": "https://github.com/henshinger/gpt-jupyterlab/commit/cd8b05fd62522e79e1938d84cc39dece5bd6314b"
+      },
+      {
+        "html_url": "https://github.com/henshinger/gpt-jupyterlab/commit/a0b9454bf8b509107f90f8ab1d349cbdd856c367"
+      },
+      {
+        "html_url": "https://github.com/henshinger/gpt-jupyterlab/commit/c72a74824803450e410c214aa5387a0c768234d0"
+      },
+      {
+        "html_url": "https://github.com/henshinger/gpt-jupyterlab/commit/1a46f72b851134b9ef6c1ad362618aa4709f1108"
+      },
+      {
+        "html_url": "https://github.com/henshinger/gpt-jupyterlab/commit/b54f69c105ea29003d69032a2ecc166b2e6152c6"
+      },
+      {
+        "html_url": "https://github.com/henshinger/gpt-jupyterlab/commit/d81971c5d83346f361a63288e373781ce206364c"
+      },
+      {
+        "html_url": "https://github.com/henshinger/gpt-jupyterlab/commit/257c14e8dca7a83a22dc22557b62f77977449ec3"
+      },
+      {
+        "html_url": "https://github.com/henshinger/gpt-jupyterlab/commit/8fdf2dec7d939a294148112f06c84d9b69f7df5e"
+      },
+      {
+        "html_url": "https://github.com/henshinger/gpt-jupyterlab/commit/d60eb82615f9dbbca8fe8680afa164ca1d1ef79e"
+      },
+      {
+        "html_url": "https://github.com/henshinger/gpt-jupyterlab/commit/68d71cc0d8fb7cb93aa386d6d70f824f7e7ba8d6"
+      },
+      {
+        "html_url": "https://github.com/henshinger/gpt-jupyterlab/commit/4b6e1d0bcb7cf6f0290dcf5de8c2634b6f757797"
+      },
+      {
+        "html_url": "https://github.com/henshinger/gpt-jupyterlab/commit/8323ea7d31a4f8cb0f0d0ddbec5c6f57c7b6dce1"
+      },
+      {
+        "html_url": "https://github.com/henshinger/gpt-jupyterlab/commit/624bf3fd1523b67c51f1a5e8772186b6276124ac"
+      },
+      {
+        "html_url": "https://github.com/henshinger/gpt-jupyterlab/commit/6bd3882243fe261a0b76fac6abee7b583018e2d0"
+      },
+      {
+        "html_url": "https://github.com/henshinger/gpt-jupyterlab/commit/f37dde2df05581f808874918a4e3f3896d5d4a28"
+      },
+      {
+        "html_url": "https://github.com/henshinger/gpt-jupyterlab/commit/828ded354f90462836087907c8b3b72e265b84d4"
+      },
+      {
+        "html_url": "https://github.com/henshinger/gpt-jupyterlab/commit/a23aa3b5b62d2bdb5e49d00559df9bb060c63372"
+      },
+      {
+        "html_url": "https://github.com/henshinger/gpt-jupyterlab/commit/aa46ea7fbfd580635d881c8494e538dbd55b7cea"
+      },
+      {
+        "html_url": "https://github.com/henshinger/gpt-jupyterlab/commit/6f7de9c58bca21eecc59d24be347521bc4b51e29"
+      },
+      {
+        "html_url": "https://github.com/henshinger/gpt-jupyterlab/commit/057d9ecdae33b174c06550ecb8990235cab902d9"
+      },
+      {
+        "html_url": "https://github.com/henshinger/gpt-jupyterlab/commit/8e7f23cf9ae3db6b9bfc022ba2c40951abb57a4a"
+      },
+      {
+        "html_url": "https://github.com/henshinger/gpt-jupyterlab/commit/ca3b4d4c96b7ed2666c509e114a8a610a60d89d3"
+      },
+      {
+        "html_url": "https://github.com/henshinger/gpt-jupyterlab/commit/494edde02f1cf638ec70b374f71f7c65dbd63dd5"
+      },
+      {
+        "html_url": "https://github.com/henshinger/gpt-jupyterlab/commit/783f2ca2e9fb4260eecff9da828fba7a55792e3b"
+      },
+      {
+        "html_url": "https://github.com/henshinger/gpt-jupyterlab/commit/4a31312031153c2ff269dce9b9088feae6ba097e"
+      },
+      {
+        "html_url": "https://github.com/henshinger/gpt-jupyterlab/commit/294c26cb971d1491c9223c82f38c22310a7af946"
+      },
+      {
+        "html_url": "https://github.com/henshinger/gpt-jupyterlab/commit/2889da3d76beb368f4d4630536818acaf3bfba7e"
+      },
+      {
+        "html_url": "https://github.com/henshinger/gpt-jupyterlab/commit/9b9672c9f2c5e4b8c2280b187b0c2de5820cc28b"
+      },
+      {
+        "html_url": "https://github.com/henshinger/gpt-jupyterlab/commit/bd81534fbfeb2a8a4e036a011d4163d43919fd83"
+      },
+      {
+        "html_url": "https://github.com/henshinger/gpt-jupyterlab/commit/42bf73a1a22e6b6251b2f3175b5c3dcdd4ff5c99"
+      }
+    ]
+  },
+  {
+    "id": "henshinger/gpt-jupyterlab:head",
+    "request_url": "https://api.github.com/repos/henshinger/gpt-jupyterlab/commits?until=2026-10-15T00:00:00Z&per_page=1",
+    "collected_at": "2026-10-15T17:29:40.017Z",
+    "record_type": "commit_page",
+    "record": [
+      {
+        "html_url": "https://github.com/henshinger/gpt-jupyterlab/commit/f66374385bbd8174a05a508584db15941e7a83c2"
+      }
+    ]
+  },
+  {
+    "id": "henshinger/gpt-jupyterlab:readme",
+    "request_url": "https://github.com/henshinger/gpt-jupyterlab/blob/f66374385bbd8174a05a508584db15941e7a83c2/README.md",
+    "collected_at": "2026-10-15T17:29:53.417Z",
+    "record_type": "file_snapshot",
+    "record": {}
+  },
+  {
+    "id": "jtpio/jupyterlab-codeium:metadata",
+    "request_url": "https://api.github.com/repos/jtpio/jupyterlab-codeium",
+    "collected_at": "2026-10-15T17:29:08.057Z",
+    "record_type": "repository_metadata",
+    "record": {}
+  },
+  {
+    "id": "jtpio/jupyterlab-codeium:early",
+    "request_url": "https://api.github.com/repos/jtpio/jupyterlab-codeium/commits?until=2024-06-10T16:43:28.000Z&per_page=100",
+    "collected_at": "2026-10-15T17:29:20.311Z",
+    "record_type": "commit_page",
+    "record": [
+      {
+        "html_url": "https://github.com/jtpio/jupyterlab-codeium/commit/c73aab41def15f10759f6c0abf14f7e6dc858c94"
+      },
+      {
+        "html_url": "https://github.com/jtpio/jupyterlab-codeium/commit/6c748933be3fd695d807e5d43bb1580e80ddd841"
+      },
+      {
+        "html_url": "https://github.com/jtpio/jupyterlab-codeium/commit/a6bf19995f4e06e8659208d89f9b595e6aab3335"
+      },
+      {
+        "html_url": "https://github.com/jtpio/jupyterlab-codeium/commit/90de4cf694a8be588da490ca106e09d0e4c3a317"
+      },
+      {
+        "html_url": "https://github.com/jtpio/jupyterlab-codeium/commit/40aa5d4975ded4020913a714525eb298c2a4ecdf"
+      },
+      {
+        "html_url": "https://github.com/jtpio/jupyterlab-codeium/commit/08538e2765eb91f4938f4be75b4e47fd18e86f10"
+      },
+      {
+        "html_url": "https://github.com/jtpio/jupyterlab-codeium/commit/fe82bf49d34696d3b5ee1066b446eef7e952179b"
+      },
+      {
+        "html_url": "https://github.com/jtpio/jupyterlab-codeium/commit/5e6049da035a16249e8784e0037c3c4802974d90"
+      }
+    ]
+  },
+  {
+    "id": "jtpio/jupyterlab-codeium:head",
+    "request_url": "https://api.github.com/repos/jtpio/jupyterlab-codeium/commits?until=2026-10-15T00:00:00Z&per_page=1",
+    "collected_at": "2026-10-15T17:29:40.280Z",
+    "record_type": "commit_page",
+    "record": [
+      {
+        "html_url": "https://github.com/jtpio/jupyterlab-codeium/commit/70c9bc2390f004f8cbe34a2d67a5e82886f646c4"
+      }
+    ]
+  },
+  {
+    "id": "jtpio/jupyterlab-codeium:readme",
+    "request_url": "https://github.com/jtpio/jupyterlab-codeium/blob/70c9bc2390f004f8cbe34a2d67a5e82886f646c4/README.md",
+    "collected_at": "2026-10-15T17:29:53.521Z",
+    "record_type": "file_snapshot",
+    "record": {}
+  },
+  {
+    "id": "kiteco/jupyterlab-kite:metadata",
+    "request_url": "https://api.github.com/repos/kiteco/jupyterlab-kite",
+    "collected_at": "2026-10-15T17:29:21.259Z",
+    "record_type": "repository_metadata",
+    "record": {}
+  },
+  {
+    "id": "kiteco/jupyterlab-kite:head",
+    "request_url": "https://api.github.com/repos/kiteco/jupyterlab-kite/commits?until=2026-10-15T00:00:00Z&per_page=1",
+    "collected_at": "2026-10-15T17:29:40.166Z",
+    "record_type": "commit_page",
+    "record": [
+      {
+        "html_url": "https://github.com/kiteco/jupyterlab-kite/commit/6963b3c5bc96a6fe76d95390cfbc28fcfb8b8b40"
+      }
+    ]
+  },
+  {
+    "id": "kiteco/jupyterlab-kite:readme",
+    "request_url": "https://github.com/kiteco/jupyterlab-kite/blob/6963b3c5bc96a6fe76d95390cfbc28fcfb8b8b40/README.md",
+    "collected_at": "2026-10-15T17:29:53.441Z",
+    "record_type": "file_snapshot",
+    "record": {}
+  },
+  {
+    "id": "jupyterlite/ai:initial-readme",
+    "request_url": "https://github.com/jupyterlite/ai/blob/9c8d350b8876ad3a9ffe8dbe723ca093bb680681/README.md",
+    "collected_at": "2026-10-15T17:30:26.620Z",
+    "record_type": "file_snapshot",
+    "record": {}
+  },
+  {
+    "id": "jupyter-ai-contrib/jupyter-ai-acp-client:initial-readme",
+    "request_url": "https://github.com/jupyter-ai-contrib/jupyter-ai-acp-client/blob/36d19990ad4f1f2d254cc58cd8f7b224518f454c/README.md",
+    "collected_at": "2026-10-15T17:30:26.981Z",
+    "record_type": "file_snapshot",
+    "record": {}
+  },
+  {
+    "id": "jupyter-ai-contrib/jupyter-server-documents:initial-readme",
+    "request_url": "https://github.com/jupyter-ai-contrib/jupyter-server-documents/blob/1b1c0eb6345b4e86be2e0617e0e5d191b0b32cbf/README.md",
+    "collected_at": "2026-10-15T17:30:26.519Z",
+    "record_type": "file_snapshot",
+    "record": {}
+  },
+  {
+    "id": "jupyter-ai-contrib/jupyter-server-mcp:initial-readme",
+    "request_url": "https://github.com/jupyter-ai-contrib/jupyter-server-mcp/blob/22821ef9158f881b42b195fae6725a15b7b1a62e/README.md",
+    "collected_at": "2026-10-15T17:30:26.661Z",
+    "record_type": "file_snapshot",
+    "record": {}
+  },
+  {
+    "id": "jupyter-ai-contrib/jupyterlab-ai-commands:initial-readme",
+    "request_url": "https://github.com/jupyter-ai-contrib/jupyterlab-ai-commands/blob/d2a97c6a4fb39d47a610f3a9b40b460957f81428/README.md",
+    "collected_at": "2026-10-15T17:30:26.545Z",
+    "record_type": "file_snapshot",
+    "record": {}
+  },
+  {
+    "id": "jupyter-ai-contrib/jupyter-ai-persona-manager:initial-readme",
+    "request_url": "https://github.com/jupyter-ai-contrib/jupyter-ai-persona-manager/blob/8dd063c05c8a3e50037d3f81f0bbe189cd7e7a01/README.md",
+    "collected_at": "2026-10-15T17:30:26.506Z",
+    "record_type": "file_snapshot",
+    "record": {}
+  },
+  {
+    "id": "jflam/chat-gpt-jupyter-extension:initial-readme",
+    "request_url": "https://github.com/jflam/chat-gpt-jupyter-extension/blob/4ffce8f510fa9be085577f6e65d6c18abb0831ab/README.md",
+    "collected_at": "2026-10-15T17:30:26.529Z",
+    "record_type": "file_snapshot",
+    "record": {}
+  },
+  {
+    "id": "jupyterlab/jupyter-ai:pyproject.toml",
+    "request_url": "https://github.com/jupyterlab/jupyter-ai/blob/5b23f55d15ba245347013ffe0a238f26b1f4f1e8/pyproject.toml",
+    "collected_at": "2026-10-15T17:31:02.292Z",
+    "record_type": "file_snapshot",
+    "record": {}
+  },
+  {
+    "id": "jupyterlab/jupyter-ai:docs/source/releases/v3.2.0.md",
+    "request_url": "https://github.com/jupyterlab/jupyter-ai/blob/5b23f55d15ba245347013ffe0a238f26b1f4f1e8/docs/source/releases/v3.2.0.md",
+    "collected_at": "2026-10-15T17:31:02.292Z",
+    "record_type": "file_snapshot",
+    "record": {}
+  },
+  {
+    "id": "jupyterlite/ai:python/jupyternaut-persona/pyproject.toml",
+    "request_url": "https://github.com/jupyterlite/ai/blob/370853782a482903102d3c066950a0bf3dbee711/python/jupyternaut-persona/pyproject.toml",
+    "collected_at": "2026-10-15T17:31:02.234Z",
+    "record_type": "file_snapshot",
+    "record": {}
+  },
+  {
+    "id": "jupyterlite/ai:packages/persona/package.json",
+    "request_url": "https://github.com/jupyterlite/ai/blob/370853782a482903102d3c066950a0bf3dbee711/packages/persona/package.json",
+    "collected_at": "2026-10-15T17:31:02.276Z",
+    "record_type": "file_snapshot",
+    "record": {}
+  },
+  {
+    "id": "jupyter-ai-contrib/jupyter-server-mcp:pyproject.toml",
+    "request_url": "https://github.com/jupyter-ai-contrib/jupyter-server-mcp/blob/d1823a5cdd1be8d9a32caa4fadf12b392d11b3c1/pyproject.toml",
+    "collected_at": "2026-10-15T17:31:02.427Z",
+    "record_type": "file_snapshot",
+    "record": {}
+  },
+  {
+    "id": "jupyter-ai-contrib/jupyterlab-ai-commands:package.json",
+    "request_url": "https://github.com/jupyter-ai-contrib/jupyterlab-ai-commands/blob/2743d32b62518d89caec7f802d6ae6c211580c33/package.json",
+    "collected_at": "2026-10-15T17:31:02.353Z",
+    "record_type": "file_snapshot",
+    "record": {}
+  },
+  {
+    "id": "datalayer/jupyter-mcp-server:pyproject.toml",
+    "request_url": "https://github.com/datalayer/jupyter-mcp-server/blob/6184a1ef31400651223c576f6f6adb5f99b62bbd/pyproject.toml",
+    "collected_at": "2026-10-15T17:31:02.558Z",
+    "record_type": "file_snapshot",
+    "record": {}
+  },
+  {
+    "id": "search:is:pr is:public repo:jupyterlab/jupyterlab author:3coins created:<2023-01-18",
+    "request_url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20repo%3Ajupyterlab%2Fjupyterlab%20author%3A3coins%20created%3A%3C2023-01-18&sort=created&order=asc&per_page=3&page=1",
+    "collected_at": "2026-10-15T17:29:41.549Z",
+    "record_type": "search_witness_page",
+    "record": {}
+  },
+  {
+    "id": "search:is:pr is:public repo:jupyterlab/jupyterlab author:dlqqq created:<2023-01-18",
+    "request_url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20repo%3Ajupyterlab%2Fjupyterlab%20author%3Adlqqq%20created%3A%3C2023-01-18&sort=created&order=asc&per_page=3&page=1",
+    "collected_at": "2026-10-15T17:29:41.224Z",
+    "record_type": "search_witness_page",
+    "record": {}
+  },
+  {
+    "id": "search:is:pr is:public repo:jupyterlab/jupyterlab author:jtpio created:<2024-06-03",
+    "request_url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20repo%3Ajupyterlab%2Fjupyterlab%20author%3Ajtpio%20created%3A%3C2024-06-03&sort=created&order=asc&per_page=3&page=1",
+    "collected_at": "2026-10-15T17:29:41.312Z",
+    "record_type": "search_witness_page",
+    "record": {}
+  },
+  {
+    "id": "search:is:pr is:public repo:jupyter-server/jupyter_server author:Zsailer created:<2025-03-27",
+    "request_url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20repo%3Ajupyter-server%2Fjupyter_server%20author%3AZsailer%20created%3A%3C2025-03-27&sort=created&order=asc&per_page=3&page=1",
+    "collected_at": "2026-10-15T17:29:41.084Z",
+    "record_type": "search_witness_page",
+    "record": {}
+  },
+  {
+    "id": "search:is:pr is:public repo:ipython/ipython author:fperez created:<2022-12-20",
+    "request_url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20repo%3Aipython%2Fipython%20author%3Afperez%20created%3A%3C2022-12-20&sort=created&order=asc&per_page=3&page=1",
+    "collected_at": "2026-10-15T17:29:41.054Z",
+    "record_type": "search_witness_page",
+    "record": {}
+  },
+  {
+    "id": "search:is:pr is:public repo:jupyterlab/jupyterlab author:echarles created:<2025-02-12",
+    "request_url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20repo%3Ajupyterlab%2Fjupyterlab%20author%3Aecharles%20created%3A%3C2025-02-12&sort=created&order=asc&per_page=3&page=1",
+    "collected_at": "2026-10-15T17:29:41.249Z",
+    "record_type": "search_witness_page",
+    "record": {}
+  },
+  {
+    "id": "search:is:pr is:public org:jupyterlab author:henshinger created:<2023-01-19",
+    "request_url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20org%3Ajupyterlab%20author%3Ahenshinger%20created%3A%3C2023-01-19&sort=created&order=asc&per_page=3&page=1",
+    "collected_at": "2026-10-15T17:29:41.060Z",
+    "record_type": "search_witness_page",
+    "record": {}
+  },
+  {
+    "id": "search:is:pr is:public org:jupyterlab author:jflam created:<2022-12-06",
+    "request_url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20org%3Ajupyterlab%20author%3Ajflam%20created%3A%3C2022-12-06&sort=created&order=asc&per_page=3&page=1",
+    "collected_at": "2026-10-15T17:29:41.132Z",
+    "record_type": "search_witness_page",
+    "record": {}
+  },
+  {
+    "id": "search:is:pr is:public repo:jupyterlab/jupyterlab author:ellisonbg created:<2025-03-27 is:merged",
+    "request_url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20repo%3Ajupyterlab%2Fjupyterlab%20author%3Aellisonbg%20created%3A%3C2025-03-27%20is%3Amerged&sort=created&order=asc&per_page=3&page=1",
+    "collected_at": "2026-10-15T17:30:44.197Z",
+    "record_type": "search_witness_page",
+    "record": {}
+  },
+  {
+    "id": "search:is:pr is:public repo:jupyterlab/jupyterlab author:brichet created:<2024-06-10 is:merged",
+    "request_url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20repo%3Ajupyterlab%2Fjupyterlab%20author%3Abrichet%20created%3A%3C2024-06-10%20is%3Amerged&sort=created&order=asc&per_page=3&page=1",
+    "collected_at": "2026-10-15T17:30:44.166Z",
+    "record_type": "search_witness_page",
+    "record": {}
+  },
+  {
+    "id": "search:is:pr is:public repo:jupyter-server/jupyter_server author:Zsailer created:<2025-03-27 is:merged",
+    "request_url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20repo%3Ajupyter-server%2Fjupyter_server%20author%3AZsailer%20created%3A%3C2025-03-27%20is%3Amerged&sort=created&order=asc&per_page=3&page=1",
+    "collected_at": "2026-10-15T17:31:03.210Z",
+    "record_type": "search_witness_page",
+    "record": {}
+  },
+  {
+    "id": "https://api.github.com/repos/jupyterlab/jupyterlab/pulls/13804",
+    "request_url": "https://api.github.com/repos/jupyterlab/jupyterlab/pulls/13804",
+    "collected_at": "2026-10-15T17:29:09.567Z",
+    "record_type": "release_or_discussion",
+    "record": {
+      "url": "https://github.com/jupyterlab/jupyterlab/pull/13804"
+    }
+  },
+  {
+    "id": "https://api.github.com/repos/jupyterlab/jupyter-ai/issues/1495",
+    "request_url": "https://api.github.com/repos/jupyterlab/jupyter-ai/issues/1495",
+    "collected_at": "2026-10-15T17:29:09.138Z",
+    "record_type": "release_or_discussion",
+    "record": {
+      "url": "https://github.com/jupyterlab/jupyter-ai/issues/1495"
+    }
+  },
+  {
+    "id": "https://api.github.com/repos/jupyter-ai-contrib/jupyter-server-documents/issues/239",
+    "request_url": "https://api.github.com/repos/jupyter-ai-contrib/jupyter-server-documents/issues/239",
+    "collected_at": "2026-10-15T17:29:08.607Z",
+    "record_type": "release_or_discussion",
+    "record": {
+      "url": "https://github.com/jupyter-ai-contrib/jupyter-server-documents/issues/239"
+    }
+  },
+  {
+    "id": "https://api.github.com/repos/jupyterlite/ai/pulls/21",
+    "request_url": "https://api.github.com/repos/jupyterlite/ai/pulls/21",
+    "collected_at": "2026-10-15T17:29:08.894Z",
+    "record_type": "release_or_discussion",
+    "record": {
+      "url": "https://github.com/jupyterlite/ai/pull/21"
+    }
+  },
+  {
+    "id": "https://api.github.com/repos/jupyterlite/ai/pulls/356",
+    "request_url": "https://api.github.com/repos/jupyterlite/ai/pulls/356",
+    "collected_at": "2026-10-15T17:29:09.196Z",
+    "record_type": "release_or_discussion",
+    "record": {
+      "url": "https://github.com/jupyterlite/ai/pull/356"
+    }
+  },
+  {
+    "id": "https://api.github.com/repos/jupyterlite/ai/pulls/353",
+    "request_url": "https://api.github.com/repos/jupyterlite/ai/pulls/353",
+    "collected_at": "2026-10-15T17:29:09.201Z",
+    "record_type": "release_or_discussion",
+    "record": {
+      "url": "https://github.com/jupyterlite/ai/pull/353"
+    }
+  },
+  {
+    "id": "https://api.github.com/repos/jupyterlab/jupyter-ai/releases/tags/v3.2.0",
+    "request_url": "https://api.github.com/repos/jupyterlab/jupyter-ai/releases/tags/v3.2.0",
+    "collected_at": "2026-10-15T17:29:08.560Z",
+    "record_type": "release_or_discussion",
+    "record": {
+      "url": "https://github.com/jupyterlab/jupyter-ai/releases/tag/v3.2.0"
+    }
+  },
+  {
+    "id": "https://api.github.com/repos/jupyterlab/jupyter-ai/releases/tags/v3.0.0",
+    "request_url": "https://api.github.com/repos/jupyterlab/jupyter-ai/releases/tags/v3.0.0",
+    "collected_at": "2026-10-15T17:29:21.221Z",
+    "record_type": "release_or_discussion",
+    "record": {
+      "url": "https://github.com/jupyterlab/jupyter-ai/releases/tag/v3.0.0"
+    }
+  },
+  {
+    "id": "https://api.github.com/repos/jupyterlite/ai/issues/20",
+    "request_url": "https://api.github.com/repos/jupyterlite/ai/issues/20",
+    "collected_at": "2026-10-15T17:29:21.061Z",
+    "record_type": "release_or_discussion",
+    "record": {
+      "url": "https://github.com/jupyterlite/ai/pull/20"
+    }
+  },
+  {
+    "id": "https://api.github.com/repos/jupyterlab/jupyterlab/pulls/10669",
+    "request_url": "https://api.github.com/repos/jupyterlab/jupyterlab/pulls/10669",
+    "collected_at": "2026-10-15T17:30:28.027Z",
+    "record_type": "release_or_discussion",
+    "record": {
+      "url": "https://github.com/jupyterlab/jupyterlab/pull/10669"
+    }
+  },
+  {
+    "id": "https://api.github.com/repos/jupyterlab/jupyterlab/pulls/12673",
+    "request_url": "https://api.github.com/repos/jupyterlab/jupyterlab/pulls/12673",
+    "collected_at": "2026-10-15T17:30:27.964Z",
+    "record_type": "release_or_discussion",
+    "record": {
+      "url": "https://github.com/jupyterlab/jupyterlab/pull/12673"
+    }
+  },
+  {
+    "id": "https://api.github.com/repos/jupyterlab/jupyterlab/pulls/3910",
+    "request_url": "https://api.github.com/repos/jupyterlab/jupyterlab/pulls/3910",
+    "collected_at": "2026-10-15T17:30:27.943Z",
+    "record_type": "release_or_discussion",
+    "record": {
+      "url": "https://github.com/jupyterlab/jupyterlab/pull/3910"
+    }
+  },
+  {
+    "id": "https://api.github.com/repos/jupyter-server/jupyter_server/pulls/28",
+    "request_url": "https://api.github.com/repos/jupyter-server/jupyter_server/pulls/28",
+    "collected_at": "2026-10-15T17:30:27.896Z",
+    "record_type": "release_or_discussion",
+    "record": {
+      "url": "https://github.com/jupyter-server/jupyter_server/pull/28"
+    }
+  },
+  {
+    "id": "https://api.github.com/repos/jupyterlab/jupyterlab/pulls/7416",
+    "request_url": "https://api.github.com/repos/jupyterlab/jupyterlab/pulls/7416",
+    "collected_at": "2026-10-15T17:30:28.211Z",
+    "record_type": "release_or_discussion",
+    "record": {
+      "url": "https://github.com/jupyterlab/jupyterlab/pull/7416"
+    }
+  },
+  {
+    "id": "https://api.github.com/repos/ipython/ipython/pulls/163",
+    "request_url": "https://api.github.com/repos/ipython/ipython/pulls/163",
+    "collected_at": "2026-10-15T17:30:27.782Z",
+    "record_type": "release_or_discussion",
+    "record": {
+      "url": "https://github.com/ipython/ipython/pull/163"
+    }
+  },
+  {
+    "id": "https://api.github.com/repos/jupyterlab/jupyterlab/pulls/10720",
+    "request_url": "https://api.github.com/repos/jupyterlab/jupyterlab/pulls/10720",
+    "collected_at": "2026-10-15T17:30:43.002Z",
+    "record_type": "release_or_discussion",
+    "record": {
+      "url": "https://github.com/jupyterlab/jupyterlab/pull/10720"
+    }
+  },
+  {
+    "id": "https://api.github.com/repos/jupyterlab/jupyterlab/pulls/12679",
+    "request_url": "https://api.github.com/repos/jupyterlab/jupyterlab/pulls/12679",
+    "collected_at": "2026-10-15T17:30:43.417Z",
+    "record_type": "release_or_discussion",
+    "record": {
+      "url": "https://github.com/jupyterlab/jupyterlab/pull/12679"
+    }
+  },
+  {
+    "id": "https://api.github.com/repos/jupyter-server/jupyter_server/pulls/33",
+    "request_url": "https://api.github.com/repos/jupyter-server/jupyter_server/pulls/33",
+    "collected_at": "2026-10-15T17:30:43.001Z",
+    "record_type": "release_or_discussion",
+    "record": {
+      "url": "https://github.com/jupyter-server/jupyter_server/pull/33"
+    }
+  },
+  {
+    "id": "https://github.com/jupyterlab/jupyter-ai/issues/1531",
+    "request_url": "https://github.com/jupyterlab/jupyter-ai/issues/1531",
+    "collected_at": "2026-10-15T17:31:43.273Z",
+    "record_type": "issue",
+    "record": {
+      "url": "https://github.com/jupyterlab/jupyter-ai/issues/1531"
+    }
+  },
+  {
+    "id": "datalayer/jupyter-mcp-server:functional-readme",
+    "request_url": "https://github.com/datalayer/jupyter-mcp-server/blob/9b639d9bb1def84df7691c1a18f2600723166d5b/README.md",
+    "collected_at": "2026-10-15T17:32:46.927Z",
+    "record_type": "file_snapshot",
+    "record": {}
+  },
+  {
+    "id": "fperez/jupytee:functional-readme",
+    "request_url": "https://github.com/fperez/jupytee/blob/47b8c75bc7b654b8c084471489381bd60dd1cf7a/README.md",
+    "collected_at": "2026-10-15T17:32:47.373Z",
+    "record_type": "file_snapshot",
+    "record": {}
+  },
+  {
+    "id": "henshinger/gpt-jupyterlab:functional-readme",
+    "request_url": "https://github.com/henshinger/gpt-jupyterlab/blob/294c26cb971d1491c9223c82f38c22310a7af946/README.md",
+    "collected_at": "2026-10-15T17:32:46.535Z",
+    "record_type": "file_snapshot",
+    "record": {}
+  },
+  {
+    "id": "jtpio/jupyterlab-codeium:functional-readme",
+    "request_url": "https://github.com/jtpio/jupyterlab-codeium/blob/5e6049da035a16249e8784e0037c3c4802974d90/README.md",
+    "collected_at": "2026-10-15T17:32:47.709Z",
+    "record_type": "file_snapshot",
+    "record": {}
+  },
+  {
+    "id": "https://api.github.com/repos/jupyter-server/jupyter_server/pulls/36",
+    "request_url": "https://api.github.com/repos/jupyter-server/jupyter_server/pulls/36",
+    "collected_at": "2026-10-15T17:32:25.470Z",
+    "record_type": "release_or_discussion",
+    "record": {
+      "url": "https://github.com/jupyter-server/jupyter_server/pull/36"
+    }
+  },
+  {
+    "id": "https://api.github.com/repos/jupyterlab/jupyterlab/pulls/26",
+    "request_url": "https://api.github.com/repos/jupyterlab/jupyterlab/pulls/26",
+    "collected_at": "2026-10-15T17:32:26.550Z",
+    "record_type": "release_or_discussion",
+    "record": {
+      "url": "https://github.com/jupyterlab/jupyterlab/pull/26"
+    }
+  },
+  {
+    "id": "https://api.github.com/repos/jupyterlab/jupyterlab/pulls/13037",
+    "request_url": "https://api.github.com/repos/jupyterlab/jupyterlab/pulls/13037",
+    "collected_at": "2026-10-15T17:32:27.592Z",
+    "record_type": "release_or_discussion",
+    "record": {
+      "url": "https://github.com/jupyterlab/jupyterlab/pull/13037"
+    }
+  },
+  {
+    "id": "https://api.github.com/repos/jupyter-ai-contrib/jupyter-ai-persona-manager/pulls/1",
+    "request_url": "https://api.github.com/repos/jupyter-ai-contrib/jupyter-ai-persona-manager/pulls/1",
+    "collected_at": "2026-10-15T17:32:48.598Z",
+    "record_type": "release_or_discussion",
+    "record": {
+      "url": "https://github.com/jupyter-ai-contrib/jupyter-ai-persona-manager/pull/1"
+    }
+  },
+  {
+    "id": "https://api.github.com/repos/jflam/chat-gpt-jupyter-extension/commits/4ffce8f510fa9be085577f6e65d6c18abb0831ab",
+    "request_url": "https://api.github.com/repos/jflam/chat-gpt-jupyter-extension/commits/4ffce8f510fa9be085577f6e65d6c18abb0831ab",
+    "collected_at": "2026-10-15T17:32:28.547Z",
+    "record_type": "commit_detail",
+    "record": {
+      "url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/4ffce8f510fa9be085577f6e65d6c18abb0831ab"
+    }
+  },
+  {
+    "id": "context:web-primary",
+    "request_url": "https://jupyter.org/ai",
+    "collected_at": "2026-10-15T17:35:19.718Z",
+    "record_type": "web_observations",
+    "record": {
+      "sources": [
+        {
+          "url": "https://blog.jupyter.org/posts/2023/generative-ai-in-jupyter/"
+        },
+        {
+          "url": "https://aws.amazon.com/blogs/machine-learning/announcing-new-jupyter-contributions-by-aws-to-democratize-generative-ai-and-scale-ml-workloads/"
+        },
+        {
+          "url": "https://jupyter.org/ai"
+        }
+      ]
+    }
+  },
+  {
+    "id": "https://api.github.com/repos/jupyterlab/jupyterlab/pulls/13804/commits?per_page=100&page=1",
+    "request_url": "https://api.github.com/repos/jupyterlab/jupyterlab/pulls/13804/commits?per_page=100&page=1",
+    "collected_at": "2026-10-15T17:36:02.294Z",
+    "record_type": "commit_page",
+    "record": [
+      {
+        "html_url": "https://github.com/jupyterlab/jupyterlab/commit/6b27dc5e3c373dafe34981ffa5643ffba1a79afc"
+      }
+    ]
+  },
+  {
+    "id": "https://api.github.com/repos/datalayer/jupyter-mcp-server/commits/9b639d9bb1def84df7691c1a18f2600723166d5b",
+    "request_url": "https://api.github.com/repos/datalayer/jupyter-mcp-server/commits/9b639d9bb1def84df7691c1a18f2600723166d5b",
+    "collected_at": "2026-10-15T17:36:02.999Z",
+    "record_type": "commit_detail",
+    "record": {
+      "url": "https://github.com/datalayer/jupyter-mcp-server/commit/9b639d9bb1def84df7691c1a18f2600723166d5b"
+    }
+  },
+  {
+    "id": "https://api.github.com/repos/datalayer/jupyter-mcp-server/commits/fe387ff2d23b0c2c3a6f7863cad22ffa9f001d86",
+    "request_url": "https://api.github.com/repos/datalayer/jupyter-mcp-server/commits/fe387ff2d23b0c2c3a6f7863cad22ffa9f001d86",
+    "collected_at": "2026-10-15T17:36:46.781Z",
+    "record_type": "commit_detail",
+    "record": {
+      "url": "https://github.com/datalayer/jupyter-mcp-server/commit/fe387ff2d23b0c2c3a6f7863cad22ffa9f001d86"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+project,date,event_kind,finding,url
+ChatGPT Jupyter browser extension,2022-12-07,implementation,ChatGPT interaction in classic Notebook; later README says JupyterLab support needs help.,https://github.com/jflam/chat-gpt-jupyter-extension/commit/4ffce8f510fa9be085577f6e65d6c18abb0831ab
+Jupytee,2022-12-20,implementation,"IPython/Jupyter-specific %chat, %pic and %code.",https://github.com/fperez/jupytee/commit/47b8c75bc7b654b8c084471489381bd60dd1cf7a
+Jupyter AI,2023-01-18,public_proposal,"Magics/model abstraction/chat, later multi-persona and ACP integration; current README says incubating under JupyterLab.",https://github.com/jupyterlab/jupyterlab/pull/13804
+GPT JupyterLab,2023-01-19,implementation,Cell text/code completion; retained later README warns deprecated Codex endpoint makes it nonfunctional.,https://github.com/henshinger/gpt-jupyterlab/commit/294c26cb971d1491c9223c82f38c22310a7af946
+Jupyter AI,2023-02-10,code_move,Separate repository begins with move from GAI; not the idea's beginning.,https://github.com/jupyterlab/jupyter-ai/commit/0d4009ab7cb344f9e7c86b0d77e9f84ccde22382
+Jupyter AI,2023-05-10,announcement,AWS announces Jupyter AI and a separate CodeWhisperer extension.,https://aws.amazon.com/blogs/machine-learning/announcing-new-jupyter-contributions-by-aws-to-democratize-generative-ai-and-scale-ml-workloads/
+Jupyter AI,2023-08-02,release_announcement,"Jupyter blog announces v1/v2, magics and chat; credits multiple developers.",https://blog.jupyter.org/posts/2023/generative-ai-in-jupyter/
+JupyterLab Codeium,2024-06-03,implementation,AI inline completion in JupyterLab and JupyterLite; later README directs development to Exafunction/codeium.jupyter.,https://github.com/jtpio/jupyterlab-codeium/commit/5e6049da035a16249e8784e0037c3c4802974d90
+JupyterLite AI,2024-06-10,implementation,"Browser-side completions/chat and later agent/persona; JupyterLab, Notebook 7 and JupyterLite.",https://github.com/jupyterlite/ai/commit/9c8d350b8876ad3a9ffe8dbe723ca093bb680681
+JupyterLite AI,2024-12-02,rename_proposal,Rename jupyterlab-codestral to jupyterlite-ai.,https://github.com/jupyterlite/ai/pull/20
+JupyterLite AI,2024-12-03,merged_change,Update repository references after rename.,https://github.com/jupyterlite/ai/pull/21
+Datalayer Jupyter MCP Server,2025-02-12,project_declaration,"External MCP server for Jupyter notebook operations; distinct implementation, not evidenced here as a Jupyter AI dependency.",https://github.com/datalayer/jupyter-mcp-server/commit/9b639d9bb1def84df7691c1a18f2600723166d5b
+Datalayer Jupyter MCP Server,2025-02-13,implementation,Initial substantive code follows the prior day's branded package scaffold.,https://github.com/datalayer/jupyter-mcp-server/commit/fe387ff2d23b0c2c3a6f7863cad22ffa9f001d86
+Jupyter Server Documents,2025-03-31,enabling_component_implementation,"Enabling document/kernel infrastructure, not itself a model/chat service. Optional in Jupyter AI v3.2.",https://github.com/jupyter-ai-contrib/jupyter-server-documents/commit/683ea10e217b169fbc4ddaa08f6229c5695cd221
+Jupyter Server MCP,2025-08-19,implementation,Configurable MCP interface exposing Jupyter tools; later bundled as Jupyter AI dependency.,https://github.com/jupyter-ai-contrib/jupyter-server-mcp/commit/22821ef9158f881b42b195fae6725a15b7b1a62e
+Jupyter AI Persona Manager,2025-10-03,implementation,Persona registration/lifecycle/entry points; consumed by ACP client and later Lite persona.,https://github.com/jupyter-ai-contrib/jupyter-ai-persona-manager/commit/8dd063c05c8a3e50037d3f81f0bbe189cd7e7a01
+Jupyter AI,2025-10-28,announcement,Codebase split announcement names ten subpackages and five coauthors.,https://github.com/jupyterlab/jupyter-ai/issues/1495
+JupyterLab AI Commands,2025-10-30,implementation,Notebook/file commands; used by browser-side Lite persona and server-side Jupyter AI tool path.,https://github.com/jupyter-ai-contrib/jupyterlab-ai-commands/commit/d2a97c6a4fb39d47a610f3a9b40b460957f81428
+Jupyter AI ACP Client,2026-01-22,implementation,"ACP chat/agent bridge, file and terminal capabilities; Jupyter AI v3 ships integration.",https://github.com/jupyter-ai-contrib/jupyter-ai-acp-client/commit/3c9fdd2b19943bfa6c94738faec387a6c8b5cac9
+Jupyter AI,2026-02-24,plan,Prioritize external-agent ACP integration over central Jupyternaut agent.,https://github.com/jupyterlab/jupyter-ai/issues/1531
+Jupyter AI,2026-04-01,published_release,"v3.0.0 publication in UTC (March 31 Pacific): ACP agents, MCP notebook tools, permissions.",https://github.com/jupyterlab/jupyter-ai/releases/tag/v3.0.0
+Jupyter Server Documents,2026-06-09,proposal,Compatibility feedback leads to proposed removal of overrides; acknowledges Jupyverse cell-execution design.,https://github.com/jupyter-ai-contrib/jupyter-server-documents/issues/239
+JupyterLite AI,2026-06-15,merged_change,Separate frontend agent and extension in monorepo.,https://github.com/jupyterlite/ai/pull/353
+JupyterLite AI,2026-07-29,merged_change,Merge frontend Jupyternaut persona; discussion records temporary chat compatibility blocker.,https://github.com/jupyterlite/ai/pull/356
+Jupyter AI,2026-09-03,published_release,v3.2 makes RTC/JSD optional; shares frontend tools with JupyterLite AI.,https://github.com/jupyterlab/jupyter-ai/releases/tag/v3.2.0

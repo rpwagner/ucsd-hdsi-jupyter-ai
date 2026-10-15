@@ -1,0 +1,100 @@
+[
+  {
+    "login": "fperez",
+    "evidence_kind": "merged_pr",
+    "url": "https://github.com/ipython/ipython/pull/163",
+    "created_at": "2010-10-08T06:42:43Z",
+    "merged_at": "2010-10-10T22:08:54Z",
+    "title": "Execution refactor",
+    "repository": "ipython/ipython",
+    "interpretation": "Evidence of prior attributable contribution, not organizational membership or a governance appointment."
+  },
+  {
+    "login": "3coins",
+    "evidence_kind": "merged_pr",
+    "url": "https://github.com/jupyterlab/jupyterlab/pull/10720",
+    "created_at": "2021-07-28T16:57:01Z",
+    "merged_at": "2021-07-30T14:30:05Z",
+    "title": "Responsive document toolbar",
+    "repository": "jupyterlab/jupyterlab",
+    "interpretation": "Evidence of prior attributable contribution, not organizational membership or a governance appointment."
+  },
+  {
+    "login": "dlqqq",
+    "evidence_kind": "merged_pr",
+    "url": "https://github.com/jupyterlab/jupyterlab/pull/12679",
+    "created_at": "2022-06-09T22:22:07Z",
+    "merged_at": "2022-06-13T14:32:16Z",
+    "title": "default to system node version in precommit",
+    "repository": "jupyterlab/jupyterlab",
+    "interpretation": "Evidence of prior attributable contribution, not organizational membership or a governance appointment."
+  },
+  {
+    "login": "jtpio",
+    "evidence_kind": "merged_pr",
+    "url": "https://github.com/jupyterlab/jupyterlab/pull/3910",
+    "created_at": "2018-02-20T21:25:07Z",
+    "merged_at": "2018-02-21T00:23:38Z",
+    "title": "Render RenderedJavascript in white when using the Dark Theme",
+    "repository": "jupyterlab/jupyterlab",
+    "interpretation": "Evidence of prior attributable contribution, not organizational membership or a governance appointment."
+  },
+  {
+    "login": "Zsailer",
+    "evidence_kind": "merged_pr",
+    "url": "https://github.com/jupyter-server/jupyter_server/pull/36",
+    "created_at": "2018-11-30T17:48:57Z",
+    "merged_at": "2019-12-14T00:21:05Z",
+    "title": "add notebook_dir as trait to be deprecated",
+    "repository": "jupyter-server/jupyter_server",
+    "interpretation": "Evidence of prior attributable contribution, not organizational membership or a governance appointment."
+  },
+  {
+    "login": "ellisonbg",
+    "evidence_kind": "merged_pr",
+    "url": "https://github.com/jupyterlab/jupyterlab/pull/26",
+    "created_at": "2016-06-09T23:42:18Z",
+    "merged_at": "2016-06-10T01:02:57Z",
+    "title": "Design updates to terminal",
+    "repository": "jupyterlab/jupyterlab",
+    "interpretation": "Evidence of prior attributable contribution, not organizational membership or a governance appointment."
+  },
+  {
+    "login": "echarles",
+    "evidence_kind": "merged_pr",
+    "url": "https://github.com/jupyterlab/jupyterlab/pull/7416",
+    "created_at": "2019-10-26T05:37:59Z",
+    "merged_at": "2020-08-04T21:08:19Z",
+    "title": "JupyterLab as Server Extension",
+    "repository": "jupyterlab/jupyterlab",
+    "interpretation": "Evidence of prior attributable contribution, not organizational membership or a governance appointment."
+  },
+  {
+    "login": "brichet",
+    "evidence_kind": "merged_pr",
+    "url": "https://github.com/jupyterlab/jupyterlab/pull/13037",
+    "created_at": "2022-09-01T15:06:56Z",
+    "merged_at": "2022-10-24T13:10:40Z",
+    "title": "Avoids restoring widget in dock panel when first loading in 'single-document' mode",
+    "repository": "jupyterlab/jupyterlab",
+    "interpretation": "Evidence of prior attributable contribution, not organizational membership or a governance appointment."
+  },
+  {
+    "login": "jflam",
+    "evidence_kind": "bounded_negative_search",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20org%3Ajupyterlab%20author%3Ajflam%20created%3A%3C2022-12-06&sort=created&order=asc&per_page=3&page=1",
+    "interpretation": "No PR found in org:jupyterlab before 2022-12-06. This excludes neither other Jupyter namespaces nor non-PR work; prior community history remains unknown."
+  },
+  {
+    "login": "henshinger",
+    "evidence_kind": "bounded_negative_search",
+    "url": "https://api.github.com/search/issues?q=is%3Apr%20is%3Apublic%20org%3Ajupyterlab%20author%3Ahenshinger%20created%3A%3C2023-01-19&sort=created&order=asc&per_page=3&page=1",
+    "interpretation": "No PR found in org:jupyterlab before 2023-01-19. This excludes neither other Jupyter namespaces nor non-PR work; prior community history remains unknown."
+  },
+  {
+    "login": "eleonorecharles",
+    "evidence_kind": "unresolved",
+    "url": "https://github.com/datalayer/jupyter-mcp-server/commit/fe387ff2d23b0c2c3a6f7863cad22ffa9f001d86",
+    "interpretation": "Early implementation contribution; no prior Jupyter contribution established in this pass. Do not conflate with echarles."
+  }
+]

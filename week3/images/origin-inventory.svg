@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="730" viewBox="0 0 1100 730" role="img" aria-labelledby="title desc">
+<title id="title">Code setting and people's prior Jupyter involvement</title>
+<desc id="desc">Twelve cases, shown by initial repository setting and separately by prior contributor evidence: official Jupyter 1 documented, 0 unknown; personal 5 documented, 2 unknown; company 1 documented, 0 unknown; jupyter-ai-contrib 2 documented, 0 unknown; unresolved setting 1 documented, 0 unknown.</desc>
+<rect width="1100" height="730" fill="#FFFFFF"/>
+<text x="45" y="55" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#17243C">Code setting and people&#x27;s prior involvement</text>
+<text x="45" y="94" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#17243C">12 case histories | evidence through October 14, 2026 UTC</text>
+<text x="45" y="161" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#17243C">Initial code setting</text>
+<text x="540" y="144" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#17243C">Prior contribution</text>
+<text x="540" y="173" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#17243C">documented</text>
+<text x="815" y="144" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#17243C">Prior history</text>
+<text x="815" y="173" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#17243C">unknown</text>
+<text x="45" y="230" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#17243C">Official Jupyter repository</text>
+<rect x="540" y="199" width="220" height="45" rx="7" fill="#EBEEF4"/>
+<text x="650" y="230" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#2667DA">1</text>
+<rect x="815" y="199" width="220" height="45" rx="7" fill="#EBEEF4"/>
+<text x="925" y="230" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#6953BD">0</text>
+<text x="45" y="295" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#17243C">Personal repository</text>
+<rect x="540" y="264" width="220" height="45" rx="7" fill="#EBEEF4"/>
+<text x="650" y="295" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#2667DA">5</text>
+<rect x="815" y="264" width="220" height="45" rx="7" fill="#EBEEF4"/>
+<text x="925" y="295" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#6953BD">2</text>
+<text x="45" y="360" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#17243C">Company repository</text>
+<rect x="540" y="329" width="220" height="45" rx="7" fill="#EBEEF4"/>
+<text x="650" y="360" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#2667DA">1</text>
+<rect x="815" y="329" width="220" height="45" rx="7" fill="#EBEEF4"/>
+<text x="925" y="360" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#6953BD">0</text>
+<text x="45" y="425" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#17243C">jupyter-ai-contrib repository</text>
+<rect x="540" y="394" width="220" height="45" rx="7" fill="#EBEEF4"/>
+<text x="650" y="425" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#2667DA">2</text>
+<rect x="815" y="394" width="220" height="45" rx="7" fill="#EBEEF4"/>
+<text x="925" y="425" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#6953BD">0</text>
+<text x="45" y="490" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#17243C">Initial setting unresolved</text>
+<rect x="540" y="459" width="220" height="45" rx="7" fill="#EBEEF4"/>
+<text x="650" y="490" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#2667DA">1</text>
+<rect x="815" y="459" width="220" height="45" rx="7" fill="#EBEEF4"/>
+<text x="925" y="490" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#6953BD">0</text>
+<text x="45" y="569" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#17243C">Documented = at least one early account with a Jupyter/IPython PR merged</text>
+<text x="45" y="600" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#17243C">before the effort. Repository setting says nothing about a person&#x27;s membership.</text>
+<text x="45" y="639" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400" fill="#17243C">Counts total 12; unknown history is not newcomer status. Software lineage is separate.</text>
+<text x="45" y="670" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400" fill="#17243C">Purposive inventory; related components count separately. No adoption measure.</text>
+<text x="45" y="701" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400" fill="#17243C">Sources: dated PRs and pinned code. See week3/research.md and data/.</text>
+</svg>

@@ -1,0 +1,93 @@
+[
+  {
+    "date": "2023-02-10",
+    "project": "jupyter-ai",
+    "event_kind": "code_move",
+    "finding": "Separate repository begins with move from GAI; not the idea's beginning.",
+    "url": "https://github.com/jupyterlab/jupyter-ai/commit/0d4009ab7cb344f9e7c86b0d77e9f84ccde22382"
+  },
+  {
+    "date": "2023-05-10",
+    "project": "jupyter-ai",
+    "event_kind": "announcement",
+    "finding": "AWS announces Jupyter AI and a separate CodeWhisperer extension.",
+    "url": "https://aws.amazon.com/blogs/machine-learning/announcing-new-jupyter-contributions-by-aws-to-democratize-generative-ai-and-scale-ml-workloads/"
+  },
+  {
+    "date": "2023-08-02",
+    "project": "jupyter-ai",
+    "event_kind": "release_announcement",
+    "finding": "Jupyter blog announces v1/v2, magics and chat; credits multiple developers.",
+    "url": "https://blog.jupyter.org/posts/2023/generative-ai-in-jupyter/"
+  },
+  {
+    "date": "2024-12-02",
+    "project": "lite-ai",
+    "event_kind": "rename_proposal",
+    "finding": "Rename jupyterlab-codestral to jupyterlite-ai.",
+    "url": "https://github.com/jupyterlite/ai/pull/20"
+  },
+  {
+    "date": "2024-12-03",
+    "project": "lite-ai",
+    "event_kind": "merged_change",
+    "finding": "Update repository references after rename.",
+    "url": "https://github.com/jupyterlite/ai/pull/21"
+  },
+  {
+    "date": "2025-10-28",
+    "project": "jupyter-ai",
+    "event_kind": "announcement",
+    "finding": "Codebase split announcement names ten subpackages and five coauthors.",
+    "url": "https://github.com/jupyterlab/jupyter-ai/issues/1495"
+  },
+  {
+    "date": "2026-02-24",
+    "project": "jupyter-ai",
+    "event_kind": "plan",
+    "finding": "Prioritize external-agent ACP integration over central Jupyternaut agent.",
+    "url": "https://github.com/jupyterlab/jupyter-ai/issues/1531"
+  },
+  {
+    "date": "2026-04-01",
+    "project": "jupyter-ai",
+    "event_kind": "published_release",
+    "finding": "v3.0.0 publication in UTC (March 31 Pacific): ACP agents, MCP notebook tools, permissions.",
+    "url": "https://github.com/jupyterlab/jupyter-ai/releases/tag/v3.0.0"
+  },
+  {
+    "date": "2026-06-09",
+    "project": "jsd",
+    "event_kind": "proposal",
+    "finding": "Compatibility feedback leads to proposed removal of overrides; acknowledges Jupyverse cell-execution design.",
+    "url": "https://github.com/jupyter-ai-contrib/jupyter-server-documents/issues/239"
+  },
+  {
+    "date": "2026-06-15",
+    "project": "lite-ai",
+    "event_kind": "merged_change",
+    "finding": "Separate frontend agent and extension in monorepo.",
+    "url": "https://github.com/jupyterlite/ai/pull/353"
+  },
+  {
+    "date": "2026-07-29",
+    "project": "lite-ai",
+    "event_kind": "merged_change",
+    "finding": "Merge frontend Jupyternaut persona; discussion records temporary chat compatibility blocker.",
+    "url": "https://github.com/jupyterlite/ai/pull/356"
+  },
+  {
+    "date": "2026-09-03",
+    "project": "jupyter-ai",
+    "event_kind": "published_release",
+    "finding": "v3.2 makes RTC/JSD optional; shares frontend tools with JupyterLite AI.",
+    "url": "https://github.com/jupyterlab/jupyter-ai/releases/tag/v3.2.0"
+  },
+  {
+    "date": "2025-02-13",
+    "project": "datalayer-mcp",
+    "event_kind": "implementation",
+    "finding": "Initial substantive code follows the prior day's branded package scaffold.",
+    "url": "https://github.com/datalayer/jupyter-mcp-server/commit/fe387ff2d23b0c2c3a6f7863cad22ffa9f001d86"
+  }
+]

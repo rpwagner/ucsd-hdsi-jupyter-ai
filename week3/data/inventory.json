@@ -1,0 +1,318 @@
+[
+  {
+    "id": "jflam-chat",
+    "project": "ChatGPT Jupyter browser extension",
+    "repository": "jflam/chat-gpt-jupyter-extension",
+    "distributions": "browser extension; manifest 0.0.1",
+    "first_evidence_date": "2022-12-07",
+    "first_evidence_kind": "implementation",
+    "first_evidence_url": "https://github.com/jflam/chat-gpt-jupyter-extension/commit/4ffce8f510fa9be085577f6e65d6c18abb0831ab",
+    "setting_evidence_note": "Personal namespace; first Jupyter-specific commit changes manifest and injects notebook-page code. Current README explicitly credits the removed fork.",
+    "current_home": "jflam/chat-gpt-jupyter-extension",
+    "current_status_note": "Current repository home is not proof of independent official subproject status.",
+    "origin_accounts": [
+      "jflam"
+    ],
+    "capability": "ChatGPT interaction in classic Notebook; later README says JupyterLab support needs help.",
+    "evidence_urls": [
+      "https://github.com/jflam/chat-gpt-jupyter-extension/commit/4ffce8f510fa9be085577f6e65d6c18abb0831ab",
+      "https://github.com/jflam/chat-gpt-jupyter-extension/blob/6da0d3c5fe0273950d3167cba7d3c4a69ff3778a/README.md",
+      "https://github.com/jflam/chat-gpt-jupyter-extension/blob/4ffce8f510fa9be085577f6e65d6c18abb0831ab/README.md"
+    ],
+    "snapshot_commit": "6da0d3c5fe0273950d3167cba7d3c4a69ff3778a",
+    "snapshot_commit_author_date": "2023-01-08T01:59:41Z",
+    "initial_code_setting": "personal_repository",
+    "prior_jupyter_involvement": "history_unknown",
+    "software_lineage": "Jupyter-specific adaptation of wong2/chat-gpt-google-extension; inherited December 4 commits are not Jupyter work."
+  },
+  {
+    "id": "jupytee",
+    "project": "Jupytee",
+    "repository": "fperez/jupytee",
+    "distributions": "jupytee",
+    "first_evidence_date": "2022-12-20",
+    "first_evidence_kind": "implementation",
+    "first_evidence_url": "https://github.com/fperez/jupytee/commit/47b8c75bc7b654b8c084471489381bd60dd1cf7a",
+    "setting_evidence_note": "Personal namespace in retained README; proof-of-concept magics commit.",
+    "current_home": "fperez/jupytee",
+    "current_status_note": "Current repository home is not proof of independent official subproject status.",
+    "origin_accounts": [
+      "fperez"
+    ],
+    "capability": "IPython/Jupyter-specific %chat, %pic and %code.",
+    "evidence_urls": [
+      "https://github.com/fperez/jupytee/commit/47b8c75bc7b654b8c084471489381bd60dd1cf7a",
+      "https://github.com/fperez/jupytee/blob/3e19b0e847cff12a519b05c568d29a275cd37d52/README.md",
+      "https://github.com/fperez/jupytee/blob/47b8c75bc7b654b8c084471489381bd60dd1cf7a/README.md"
+    ],
+    "snapshot_commit": "3e19b0e847cff12a519b05c568d29a275cd37d52",
+    "snapshot_commit_author_date": "2022-12-25T18:57:39Z",
+    "initial_code_setting": "personal_repository",
+    "prior_jupyter_involvement": "prior_contribution_documented",
+    "software_lineage": "Experimental IPython magic adapter to OpenAI GPT-3; no demonstrated code lineage to Jupyter AI."
+  },
+  {
+    "id": "gpt-jupyterlab",
+    "project": "GPT JupyterLab",
+    "repository": "henshinger/gpt-jupyterlab",
+    "distributions": "gpt_jupyterlab",
+    "first_evidence_date": "2023-01-19",
+    "first_evidence_kind": "implementation",
+    "first_evidence_url": "https://github.com/henshinger/gpt-jupyterlab/commit/294c26cb971d1491c9223c82f38c22310a7af946",
+    "setting_evidence_note": "Personal repository links in dated initial README.",
+    "current_home": "henshinger/gpt-jupyterlab",
+    "current_status_note": "Current repository home is not proof of independent official subproject status.",
+    "origin_accounts": [
+      "henshinger"
+    ],
+    "capability": "Cell text/code completion; retained later README warns deprecated Codex endpoint makes it nonfunctional.",
+    "evidence_urls": [
+      "https://github.com/henshinger/gpt-jupyterlab/commit/294c26cb971d1491c9223c82f38c22310a7af946",
+      "https://github.com/henshinger/gpt-jupyterlab/blob/f66374385bbd8174a05a508584db15941e7a83c2/README.md",
+      "https://github.com/henshinger/gpt-jupyterlab/blob/294c26cb971d1491c9223c82f38c22310a7af946/README.md"
+    ],
+    "snapshot_commit": "f66374385bbd8174a05a508584db15941e7a83c2",
+    "snapshot_commit_author_date": "2023-03-27T05:03:54Z",
+    "initial_code_setting": "personal_repository",
+    "prior_jupyter_involvement": "history_unknown",
+    "software_lineage": "Dedicated JupyterLab server/frontend integration of external GPT APIs."
+  },
+  {
+    "id": "jupyter-ai",
+    "project": "Jupyter AI",
+    "repository": "jupyterlab/jupyter-ai",
+    "distributions": "jupyter-ai; jupyter-ai-magics (historical); split packages",
+    "first_evidence_date": "2023-01-18",
+    "first_evidence_kind": "public_proposal",
+    "first_evidence_url": "https://github.com/jupyterlab/jupyterlab/pull/13804",
+    "setting_evidence_note": "Public JupyterLab PR #13804 before separate repository; early February README links jupyterlab/jupyter_ai.",
+    "current_home": "jupyterlab/jupyter-ai",
+    "current_status_note": "README: incubation under JupyterLab; historical 2023 official-project description is dated separately.",
+    "origin_accounts": [
+      "3coins"
+    ],
+    "capability": "Magics/model abstraction/chat, later multi-persona and ACP integration; current README says incubating under JupyterLab.",
+    "evidence_urls": [
+      "https://github.com/jupyterlab/jupyterlab/pull/13804",
+      "https://github.com/jupyterlab/jupyter-ai/blob/5b23f55d15ba245347013ffe0a238f26b1f4f1e8/README.md"
+    ],
+    "snapshot_commit": "5b23f55d15ba245347013ffe0a238f26b1f4f1e8",
+    "snapshot_commit_author_date": "2026-10-14T06:03:48Z",
+    "initial_code_setting": "official_jupyter_repository",
+    "prior_jupyter_involvement": "prior_contribution_documented",
+    "software_lineage": "GAI JupyterLab proposal became separate extension; February commit explicitly moves code from GAI project."
+  },
+  {
+    "id": "codeium",
+    "project": "JupyterLab Codeium",
+    "repository": "jtpio/jupyterlab-codeium",
+    "distributions": "jupyterlab-codeium",
+    "first_evidence_date": "2024-06-03",
+    "first_evidence_kind": "implementation",
+    "first_evidence_url": "https://github.com/jtpio/jupyterlab-codeium/commit/5e6049da035a16249e8784e0037c3c4802974d90",
+    "setting_evidence_note": "Personal repository in first README; explicitly not official Codeium extension then.",
+    "current_home": "jtpio/jupyterlab-codeium",
+    "current_status_note": "Current repository home is not proof of independent official subproject status.",
+    "origin_accounts": [
+      "jtpio"
+    ],
+    "capability": "AI inline completion in JupyterLab and JupyterLite; later README directs development to Exafunction/codeium.jupyter.",
+    "evidence_urls": [
+      "https://github.com/jtpio/jupyterlab-codeium/commit/5e6049da035a16249e8784e0037c3c4802974d90",
+      "https://github.com/jtpio/jupyterlab-codeium/blob/70c9bc2390f004f8cbe34a2d67a5e82886f646c4/README.md",
+      "https://github.com/jtpio/jupyterlab-codeium/blob/5e6049da035a16249e8784e0037c3c4802974d90/README.md"
+    ],
+    "snapshot_commit": "70c9bc2390f004f8cbe34a2d67a5e82886f646c4",
+    "snapshot_commit_author_date": "2025-10-23T13:16:52Z",
+    "initial_code_setting": "personal_repository",
+    "prior_jupyter_involvement": "prior_contribution_documented",
+    "software_lineage": "New Jupyter integration reusing codemirror-codeium protobuf files, explicitly credited by README."
+  },
+  {
+    "id": "lite-ai",
+    "project": "JupyterLite AI",
+    "repository": "jupyterlite/ai",
+    "distributions": "initial jupyterlab-codestral; now jupyterlite-ai and jupyternaut-persona",
+    "first_evidence_date": "2024-06-10",
+    "first_evidence_kind": "implementation",
+    "first_evidence_url": "https://github.com/jupyterlite/ai/commit/9c8d350b8876ad3a9ffe8dbe723ca093bb680681",
+    "setting_evidence_note": "First README points to jtpio/jupyterlab-codestral; rename PR #20 and follow-up #21 in December 2024.",
+    "current_home": "jupyterlite/ai",
+    "current_status_note": "Current repository home is not proof of independent official subproject status.",
+    "origin_accounts": [
+      "jtpio"
+    ],
+    "capability": "Browser-side completions/chat and later agent/persona; JupyterLab, Notebook 7 and JupyterLite.",
+    "evidence_urls": [
+      "https://github.com/jupyterlite/ai/commit/9c8d350b8876ad3a9ffe8dbe723ca093bb680681",
+      "https://github.com/jupyterlite/ai/blob/370853782a482903102d3c066950a0bf3dbee711/README.md",
+      "https://github.com/jupyterlite/ai/blob/9c8d350b8876ad3a9ffe8dbe723ca093bb680681/README.md"
+    ],
+    "snapshot_commit": "370853782a482903102d3c066950a0bf3dbee711",
+    "snapshot_commit_author_date": "2026-10-13T12:46:14Z",
+    "initial_code_setting": "personal_repository",
+    "prior_jupyter_involvement": "prior_contribution_documented",
+    "software_lineage": "Browser-side model integration initially focused on Codestral; later broadens and shares Jupyter chat/persona/tool components."
+  },
+  {
+    "id": "datalayer-mcp",
+    "project": "Datalayer Jupyter MCP Server",
+    "repository": "datalayer/jupyter-mcp-server",
+    "distributions": "jupyter-mcp-server",
+    "first_evidence_date": "2025-02-12",
+    "first_evidence_kind": "project_declaration",
+    "first_evidence_url": "https://github.com/datalayer/jupyter-mcp-server/commit/9b639d9bb1def84df7691c1a18f2600723166d5b",
+    "setting_evidence_note": "February 12 MCP-branded README and package scaffold by echarles; February 13 implementation by eleonorecharles. Retain those roles separately; the scaffold is evidence of an effort, not a functioning server.",
+    "current_home": "datalayer/jupyter-mcp-server",
+    "current_status_note": "Current repository home is not proof of independent official subproject status.",
+    "origin_accounts": [
+      "echarles",
+      "eleonorecharles"
+    ],
+    "capability": "External MCP server for Jupyter notebook operations; distinct implementation, not evidenced here as a Jupyter AI dependency.",
+    "evidence_urls": [
+      "https://github.com/datalayer/jupyter-mcp-server/commit/9b639d9bb1def84df7691c1a18f2600723166d5b",
+      "https://github.com/datalayer/jupyter-mcp-server/blob/6184a1ef31400651223c576f6f6adb5f99b62bbd/README.md",
+      "https://github.com/datalayer/jupyter-mcp-server/blob/9b639d9bb1def84df7691c1a18f2600723166d5b/README.md"
+    ],
+    "snapshot_commit": "6184a1ef31400651223c576f6f6adb5f99b62bbd",
+    "snapshot_commit_author_date": "2026-10-11T15:50:45Z",
+    "initial_code_setting": "company_repository",
+    "prior_jupyter_involvement": "prior_contribution_documented",
+    "software_lineage": "Separate Jupyter-specific adapter of MCP, with Datalayer notebook/server clients; not the jupyter-server-mcp distribution."
+  },
+  {
+    "id": "jsd",
+    "project": "Jupyter Server Documents",
+    "repository": "jupyter-ai-contrib/jupyter-server-documents",
+    "distributions": "initial jupyter_rtc_core; now jupyter-server-documents",
+    "first_evidence_date": "2025-03-31",
+    "first_evidence_kind": "enabling_component_implementation",
+    "first_evidence_url": "https://github.com/jupyter-ai-contrib/jupyter-server-documents/commit/683ea10e217b169fbc4ddaa08f6229c5695cd221",
+    "setting_evidence_note": "March 31 README names ellisonbg/jupyter-rtc-core; bootstrap March 27 by ellisonbg, implementation March 31 by dlqqq, merge April 1 by Zsailer.",
+    "current_home": "jupyter-ai-contrib/jupyter-server-documents",
+    "current_status_note": "Current repository home is not proof of independent official subproject status.",
+    "origin_accounts": [
+      "dlqqq",
+      "ellisonbg",
+      "Zsailer"
+    ],
+    "capability": "Enabling document/kernel infrastructure, not itself a model/chat service. Optional in Jupyter AI v3.2.",
+    "evidence_urls": [
+      "https://github.com/jupyter-ai-contrib/jupyter-server-documents/commit/683ea10e217b169fbc4ddaa08f6229c5695cd221",
+      "https://github.com/jupyter-ai-contrib/jupyter-server-documents/blob/307876082a3fa07b4ff66b2e5edaa9c1a8530ee5/README.md",
+      "https://github.com/jupyter-ai-contrib/jupyter-server-documents/blob/1b1c0eb6345b4e86be2e0617e0e5d191b0b32cbf/README.md"
+    ],
+    "snapshot_commit": "307876082a3fa07b4ff66b2e5edaa9c1a8530ee5",
+    "snapshot_commit_author_date": "2026-10-07T22:16:19Z",
+    "initial_code_setting": "personal_repository",
+    "prior_jupyter_involvement": "prior_contribution_documented",
+    "software_lineage": "Server-side RTC/document component, later explicitly described as enabling Jupyter AI v3; predecessor work acknowledged, no claim of wholly new invention."
+  },
+  {
+    "id": "server-mcp",
+    "project": "Jupyter Server MCP",
+    "repository": "jupyter-ai-contrib/jupyter-server-mcp",
+    "distributions": "jupyter-server-mcp",
+    "first_evidence_date": "2025-08-19",
+    "first_evidence_kind": "implementation",
+    "first_evidence_url": "https://github.com/jupyter-ai-contrib/jupyter-server-mcp/commit/22821ef9158f881b42b195fae6725a15b7b1a62e",
+    "setting_evidence_note": "Initial README has no hosting namespace. October split announcement places it in contrib; do not infer its August owner from present location.",
+    "current_home": "jupyter-ai-contrib/jupyter-server-mcp",
+    "current_status_note": "Current repository home is not proof of independent official subproject status.",
+    "origin_accounts": [
+      "Zsailer",
+      "ellisonbg"
+    ],
+    "capability": "Configurable MCP interface exposing Jupyter tools; later bundled as Jupyter AI dependency.",
+    "evidence_urls": [
+      "https://github.com/jupyter-ai-contrib/jupyter-server-mcp/commit/22821ef9158f881b42b195fae6725a15b7b1a62e",
+      "https://github.com/jupyter-ai-contrib/jupyter-server-mcp/blob/d1823a5cdd1be8d9a32caa4fadf12b392d11b3c1/README.md",
+      "https://github.com/jupyter-ai-contrib/jupyter-server-mcp/blob/22821ef9158f881b42b195fae6725a15b7b1a62e/README.md"
+    ],
+    "snapshot_commit": "d1823a5cdd1be8d9a32caa4fadf12b392d11b3c1",
+    "snapshot_commit_author_date": "2026-10-12T19:31:26Z",
+    "initial_code_setting": "unresolved",
+    "prior_jupyter_involvement": "prior_contribution_documented",
+    "software_lineage": "Jupyter Server MCP extension; first working README calls it an MCP server for Jupyter Server Documents."
+  },
+  {
+    "id": "persona",
+    "project": "Jupyter AI Persona Manager",
+    "repository": "jupyter-ai-contrib/jupyter-ai-persona-manager",
+    "distributions": "jupyter-ai-persona-manager",
+    "first_evidence_date": "2025-10-03",
+    "first_evidence_kind": "implementation",
+    "first_evidence_url": "https://github.com/jupyter-ai-contrib/jupyter-ai-persona-manager/commit/8dd063c05c8a3e50037d3f81f0bbe189cd7e7a01",
+    "setting_evidence_note": "October implementation README names contrib; #1495 explicitly describes the codebase split. September 30 initial commit is not used as the implementation date.",
+    "current_home": "jupyter-ai-contrib/jupyter-ai-persona-manager",
+    "current_status_note": "Current repository home is not proof of independent official subproject status.",
+    "origin_accounts": [
+      "3coins",
+      "dlqqq"
+    ],
+    "capability": "Persona registration/lifecycle/entry points; consumed by ACP client and later Lite persona.",
+    "evidence_urls": [
+      "https://github.com/jupyter-ai-contrib/jupyter-ai-persona-manager/commit/8dd063c05c8a3e50037d3f81f0bbe189cd7e7a01",
+      "https://github.com/jupyter-ai-contrib/jupyter-ai-persona-manager/blob/986033ba4c2aa463d744a27cbb6432fdba51cf0f/README.md",
+      "https://github.com/jupyter-ai-contrib/jupyter-ai-persona-manager/blob/8dd063c05c8a3e50037d3f81f0bbe189cd7e7a01/README.md"
+    ],
+    "snapshot_commit": "986033ba4c2aa463d744a27cbb6432fdba51cf0f",
+    "snapshot_commit_author_date": "2026-09-30T13:22:56Z",
+    "initial_code_setting": "jupyter_ai_contrib_repository",
+    "prior_jupyter_involvement": "prior_contribution_documented",
+    "software_lineage": "Extraction/reorganization of existing Jupyter AI v3 persona architecture, not a new independent agent invention."
+  },
+  {
+    "id": "commands",
+    "project": "JupyterLab AI Commands",
+    "repository": "jupyter-ai-contrib/jupyterlab-ai-commands",
+    "distributions": "jupyterlab-ai-commands",
+    "first_evidence_date": "2025-10-30",
+    "first_evidence_kind": "implementation",
+    "first_evidence_url": "https://github.com/jupyter-ai-contrib/jupyterlab-ai-commands/commit/d2a97c6a4fb39d47a610f3a9b40b460957f81428",
+    "setting_evidence_note": "First README badge names jtpio/jupyterlab-ai-commands; current home is contrib.",
+    "current_home": "jupyter-ai-contrib/jupyterlab-ai-commands",
+    "current_status_note": "Current repository home is not proof of independent official subproject status.",
+    "origin_accounts": [
+      "jtpio"
+    ],
+    "capability": "Notebook/file commands; used by browser-side Lite persona and server-side Jupyter AI tool path.",
+    "evidence_urls": [
+      "https://github.com/jupyter-ai-contrib/jupyterlab-ai-commands/commit/d2a97c6a4fb39d47a610f3a9b40b460957f81428",
+      "https://github.com/jupyter-ai-contrib/jupyterlab-ai-commands/blob/2743d32b62518d89caec7f802d6ae6c211580c33/README.md",
+      "https://github.com/jupyter-ai-contrib/jupyterlab-ai-commands/blob/d2a97c6a4fb39d47a610f3a9b40b460957f81428/README.md"
+    ],
+    "snapshot_commit": "2743d32b62518d89caec7f802d6ae6c211580c33",
+    "snapshot_commit_author_date": "2026-10-08T12:01:28Z",
+    "initial_code_setting": "personal_repository",
+    "prior_jupyter_involvement": "prior_contribution_documented",
+    "software_lineage": "Dedicated frontend command layer for AI notebook/file operations."
+  },
+  {
+    "id": "acp",
+    "project": "Jupyter AI ACP Client",
+    "repository": "jupyter-ai-contrib/jupyter-ai-acp-client",
+    "distributions": "jupyter-ai-acp-client",
+    "first_evidence_date": "2026-01-22",
+    "first_evidence_kind": "implementation",
+    "first_evidence_url": "https://github.com/jupyter-ai-contrib/jupyter-ai-acp-client/commit/3c9fdd2b19943bfa6c94738faec387a6c8b5cac9",
+    "setting_evidence_note": "January implementation README names contrib; January 20 commit is a template, not an integration milestone.",
+    "current_home": "jupyter-ai-contrib/jupyter-ai-acp-client",
+    "current_status_note": "Current repository home is not proof of independent official subproject status.",
+    "origin_accounts": [
+      "dlqqq"
+    ],
+    "capability": "ACP chat/agent bridge, file and terminal capabilities; Jupyter AI v3 ships integration.",
+    "evidence_urls": [
+      "https://github.com/jupyter-ai-contrib/jupyter-ai-acp-client/commit/3c9fdd2b19943bfa6c94738faec387a6c8b5cac9",
+      "https://github.com/jupyter-ai-contrib/jupyter-ai-acp-client/blob/77016f63530f5279ad4c9bae8a8aa5a6a27a5c37/README.md",
+      "https://github.com/jupyter-ai-contrib/jupyter-ai-acp-client/blob/36d19990ad4f1f2d254cc58cd8f7b224518f454c/README.md"
+    ],
+    "snapshot_commit": "77016f63530f5279ad4c9bae8a8aa5a6a27a5c37",
+    "snapshot_commit_author_date": "2026-10-12T14:15:16Z",
+    "initial_code_setting": "jupyter_ai_contrib_repository",
+    "prior_jupyter_involvement": "prior_contribution_documented",
+    "software_lineage": "Jupyter-side implementation of external ACP standard; wraps compatible external agents as personas."
+  }
+]

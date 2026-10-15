@@ -1,0 +1,154 @@
+{
+  "cutoff_exclusive_utc": "2026-10-15T00:00:00Z",
+  "projects": 12,
+  "initial_code_setting_counts": {
+    "personal_repository": 7,
+    "official_jupyter_repository": 1,
+    "company_repository": 1,
+    "unresolved": 1,
+    "jupyter_ai_contrib_repository": 2
+  },
+  "prior_jupyter_involvement_counts": {
+    "history_unknown": 2,
+    "prior_contribution_documented": 10
+  },
+  "classification_cross_tab": [
+    {
+      "initial_code_setting": "official_jupyter_repository",
+      "prior_jupyter_involvement": "prior_contribution_documented",
+      "count": 1
+    },
+    {
+      "initial_code_setting": "official_jupyter_repository",
+      "prior_jupyter_involvement": "history_unknown",
+      "count": 0
+    },
+    {
+      "initial_code_setting": "official_jupyter_repository",
+      "prior_jupyter_involvement": "documented_newcomer",
+      "count": 0
+    },
+    {
+      "initial_code_setting": "official_jupyter_repository",
+      "prior_jupyter_involvement": "mixed_backgrounds",
+      "count": 0
+    },
+    {
+      "initial_code_setting": "personal_repository",
+      "prior_jupyter_involvement": "prior_contribution_documented",
+      "count": 5
+    },
+    {
+      "initial_code_setting": "personal_repository",
+      "prior_jupyter_involvement": "history_unknown",
+      "count": 2
+    },
+    {
+      "initial_code_setting": "personal_repository",
+      "prior_jupyter_involvement": "documented_newcomer",
+      "count": 0
+    },
+    {
+      "initial_code_setting": "personal_repository",
+      "prior_jupyter_involvement": "mixed_backgrounds",
+      "count": 0
+    },
+    {
+      "initial_code_setting": "company_repository",
+      "prior_jupyter_involvement": "prior_contribution_documented",
+      "count": 1
+    },
+    {
+      "initial_code_setting": "company_repository",
+      "prior_jupyter_involvement": "history_unknown",
+      "count": 0
+    },
+    {
+      "initial_code_setting": "company_repository",
+      "prior_jupyter_involvement": "documented_newcomer",
+      "count": 0
+    },
+    {
+      "initial_code_setting": "company_repository",
+      "prior_jupyter_involvement": "mixed_backgrounds",
+      "count": 0
+    },
+    {
+      "initial_code_setting": "jupyter_ai_contrib_repository",
+      "prior_jupyter_involvement": "prior_contribution_documented",
+      "count": 2
+    },
+    {
+      "initial_code_setting": "jupyter_ai_contrib_repository",
+      "prior_jupyter_involvement": "history_unknown",
+      "count": 0
+    },
+    {
+      "initial_code_setting": "jupyter_ai_contrib_repository",
+      "prior_jupyter_involvement": "documented_newcomer",
+      "count": 0
+    },
+    {
+      "initial_code_setting": "jupyter_ai_contrib_repository",
+      "prior_jupyter_involvement": "mixed_backgrounds",
+      "count": 0
+    },
+    {
+      "initial_code_setting": "unresolved",
+      "prior_jupyter_involvement": "prior_contribution_documented",
+      "count": 1
+    },
+    {
+      "initial_code_setting": "unresolved",
+      "prior_jupyter_involvement": "history_unknown",
+      "count": 0
+    },
+    {
+      "initial_code_setting": "unresolved",
+      "prior_jupyter_involvement": "documented_newcomer",
+      "count": 0
+    },
+    {
+      "initial_code_setting": "unresolved",
+      "prior_jupyter_involvement": "mixed_backgrounds",
+      "count": 0
+    }
+  ],
+  "evidence_year_counts": {
+    "2022": 2,
+    "2023": 2,
+    "2024": 2,
+    "2025": 5,
+    "2026": 1
+  },
+  "projects_with_prior_contributor": 10,
+  "projects_with_unknown_prior_involvement": 2,
+  "retained_relationships": 7,
+  "shared_origin_accounts": [
+    {
+      "login": "dlqqq",
+      "case_count": 3,
+      "cases": "acp;jsd;persona"
+    },
+    {
+      "login": "jtpio",
+      "case_count": 3,
+      "cases": "codeium;commands;lite-ai"
+    },
+    {
+      "login": "3coins",
+      "case_count": 2,
+      "cases": "jupyter-ai;persona"
+    },
+    {
+      "login": "ellisonbg",
+      "case_count": 2,
+      "cases": "jsd;server-mcp"
+    },
+    {
+      "login": "zsailer",
+      "case_count": 2,
+      "cases": "jsd;server-mcp"
+    }
+  ]
+}

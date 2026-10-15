@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+<title id="title">Stage 1: talk to a model, without notebook tools</title>
+<desc id="desc">Browser outside a teaching container. Jupyter Server hosts chat and a simple persona. A separate kernel executes Python and notebook files store saved state. The persona calls Ollama directly on the host through the OpenAI-compatible API. No MCP or ACP connection is active.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="#46576c"/></marker></defs>
+<rect width="1280" height="720" fill="#f8fafc"/>
+<g font-family="Arial, sans-serif" fill="#15263b">
+<text x="640" y="49" text-anchor="middle" font-size="32" font-weight="bold" fill="#15263b">1. Talk to a model</text>
+<text x="640" y="85" text-anchor="middle" font-size="22" font-weight="normal" fill="#15263b">One connection: the model API • model-only persona</text>
+<rect x="290" y="120" width="620" height="480" rx="12" fill="#eef3f9" stroke="#7c91ad" stroke-width="2" stroke-dasharray="9 6"/>
+<text x="600" y="157" text-anchor="middle" font-size="24" font-weight="bold" fill="#15263b">Teaching container</text>
+<rect x="30" y="225" width="200" height="145" rx="12" fill="#fff" stroke="#b3bfcd" stroke-width="2"/>
+<text x="130" y="269" text-anchor="middle" font-size="25" font-weight="bold" fill="#15263b">Browser</text>
+<text x="130" y="307" text-anchor="middle" font-size="20" font-weight="normal" fill="#15263b">Notebook + chat</text>
+<text x="130" y="342" text-anchor="middle" font-size="18" font-weight="normal" fill="#15263b">outside image</text>
+<rect x="330" y="205" width="350" height="180" rx="12" fill="#fff" stroke="#b3bfcd" stroke-width="2"/>
+<text x="505" y="242" text-anchor="middle" font-size="23" font-weight="bold" fill="#15263b">Jupyter Server process</text>
+<rect x="352" y="263" width="306" height="92" rx="12" fill="#dce9fa" stroke="#315c9b" stroke-width="2"/>
+<text x="505" y="299" text-anchor="middle" font-size="23" font-weight="bold" fill="#15263b">Jupyter AI persona</text>
+<text x="505" y="331" text-anchor="middle" font-size="20" font-weight="normal" fill="#15263b">one request • no tools</text>
+<path d="M230 315H330" fill="none" stroke="#46576c" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="280" y="294" text-anchor="middle" font-size="17" font-weight="normal" fill="#15263b">HTTP / WS</text>
+<rect x="355" y="475" width="285" height="90" rx="12" fill="#fff" stroke="#b3bfcd" stroke-width="2"/>
+<text x="497" y="512" text-anchor="middle" font-size="21" font-weight="bold" fill="#15263b">Python kernel process</text>
+<text x="497" y="546" text-anchor="middle" font-size="19" font-weight="normal" fill="#15263b">live variables + execution</text>
+<path d="M400 385V475" fill="none" stroke="#46576c" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="535" y="425" text-anchor="middle" font-size="18" font-weight="normal" fill="#15263b">Jupyter messaging</text>
+<text x="535" y="450" text-anchor="middle" font-size="17" font-weight="normal" fill="#15263b">ZeroMQ</text>
+<rect x="695" y="475" width="180" height="90" rx="12" fill="#fff" stroke="#b3bfcd" stroke-width="2"/>
+<text x="785" y="512" text-anchor="middle" font-size="21" font-weight="bold" fill="#15263b">Notebook files</text>
+<text x="785" y="546" text-anchor="middle" font-size="18" font-weight="normal" fill="#15263b">source + outputs</text>
+<path d="M680 367H785V475" fill="none" stroke="#46576c" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="840" y="438" text-anchor="middle" font-size="18" font-weight="normal" fill="#15263b">file I/O</text>
+<rect x="960" y="190" width="290" height="270" rx="12" fill="#fff" stroke="#7c91ad" stroke-width="2" stroke-dasharray="9 6"/>
+<text x="1105" y="225" text-anchor="middle" font-size="22" font-weight="bold" fill="#15263b">Existing host service</text>
+<rect x="980" y="260" width="250" height="155" rx="12" fill="#fff" stroke="#b3bfcd" stroke-width="2"/>
+<text x="1105" y="298" text-anchor="middle" font-size="24" font-weight="bold" fill="#15263b">Ollama</text>
+<text x="1105" y="337" text-anchor="middle" font-size="21" font-weight="normal" fill="#15263b">gpt-oss:20b</text>
+<text x="1105" y="378" text-anchor="middle" font-size="18" font-weight="normal" fill="#15263b">port 11434 • no secret</text>
+<path d="M680 292H980" fill="none" stroke="#315c9b" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="825" y="248" text-anchor="middle" font-size="20" font-weight="bold" fill="#315c9b">OpenAI-compatible API</text>
+<text x="825" y="275" text-anchor="middle" font-size="18" font-weight="normal" fill="#315c9b">HTTP · /v1/chat/completions</text>
+<text x="640" y="641" text-anchor="middle" font-size="23" font-weight="bold" fill="#15263b">An answer does not edit a cell. This persona has no tool dispatcher.</text>
+<text x="640" y="679" text-anchor="middle" font-size="19" font-weight="normal" fill="#15263b">No tools for this persona. MCP and JSD backends are prepared at launch.</text>
+</g></svg>
