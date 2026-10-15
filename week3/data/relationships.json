@@ -1,0 +1,58 @@
+[
+  {
+    "source": "jupyter-ai",
+    "target": "persona",
+    "relationship": "required_python_dependency",
+    "detail": "jupyter-ai-persona-manager",
+    "evidence_id": "jupyterlab/jupyter-ai:pyproject.toml",
+    "url": "https://github.com/jupyterlab/jupyter-ai/blob/5b23f55d15ba245347013ffe0a238f26b1f4f1e8/pyproject.toml"
+  },
+  {
+    "source": "jupyter-ai",
+    "target": "acp",
+    "relationship": "required_python_dependency",
+    "detail": "jupyter-ai-acp-client",
+    "evidence_id": "jupyterlab/jupyter-ai:pyproject.toml",
+    "url": "https://github.com/jupyterlab/jupyter-ai/blob/5b23f55d15ba245347013ffe0a238f26b1f4f1e8/pyproject.toml"
+  },
+  {
+    "source": "jupyter-ai",
+    "target": "server-mcp",
+    "relationship": "required_python_dependency",
+    "detail": "jupyter-server-mcp",
+    "evidence_id": "jupyterlab/jupyter-ai:pyproject.toml",
+    "url": "https://github.com/jupyterlab/jupyter-ai/blob/5b23f55d15ba245347013ffe0a238f26b1f4f1e8/pyproject.toml"
+  },
+  {
+    "source": "jupyter-ai",
+    "target": "jsd",
+    "relationship": "optional_python_dependency",
+    "detail": "rtc-jsd extra",
+    "evidence_id": "jupyterlab/jupyter-ai:pyproject.toml",
+    "url": "https://github.com/jupyterlab/jupyter-ai/blob/5b23f55d15ba245347013ffe0a238f26b1f4f1e8/pyproject.toml"
+  },
+  {
+    "source": "lite-ai",
+    "target": "persona",
+    "relationship": "required_python_dependency",
+    "detail": "jupyternaut-persona → persona-manager",
+    "evidence_id": "jupyterlite/ai:python/jupyternaut-persona/pyproject.toml",
+    "url": "https://github.com/jupyterlite/ai/blob/370853782a482903102d3c066950a0bf3dbee711/python/jupyternaut-persona/pyproject.toml"
+  },
+  {
+    "source": "lite-ai",
+    "target": "commands",
+    "relationship": "required_python_dependency",
+    "detail": "jupyternaut-persona → jupyterlab-ai-commands",
+    "evidence_id": "jupyterlite/ai:python/jupyternaut-persona/pyproject.toml",
+    "url": "https://github.com/jupyterlite/ai/blob/370853782a482903102d3c066950a0bf3dbee711/python/jupyternaut-persona/pyproject.toml"
+  },
+  {
+    "source": "jupyter-ai",
+    "target": "commands",
+    "relationship": "documented_tool_reuse",
+    "detail": "v3.2 MCP tools call frontend commands; dependency is not asserted direct",
+    "evidence_id": "jupyterlab/jupyter-ai:docs/source/releases/v3.2.0.md",
+    "url": "https://github.com/jupyterlab/jupyter-ai/blob/5b23f55d15ba245347013ffe0a238f26b1f4f1e8/docs/source/releases/v3.2.0.md"
+  }
+]

@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="585" viewBox="0 0 1100 585" role="img" aria-labelledby="title desc">
+<title id="title">AI around Jupyter: selected milestones</title>
+<desc id="desc">2022-12-20: Jupytee experiment, Model prompts through, notebook commands; 2023-08-02: Jupyter AI launches, Chat and magics;, a choice of models; 2024-06-10: Codestral experiment, Completion and chat;, later JupyterLite AI; 2025-10-28: Split announced, Existing code organized, into focused packages; 2026-04-01: Jupyter AI 3.0, External agents;, notebook tools; 2026-09-03: Jupyter AI 3.2, Shared commands;, JSD optional. Dates are spaced proportionally. These events do not imply that one technique replaced another.</desc>
+<rect width="1100" height="585" fill="#FFFFFF"/>
+<text x="45.00" y="55" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#17243C" text-anchor="start">AI around Jupyter: selected milestones</text>
+<text x="45.00" y="94" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#17243C" text-anchor="start">Experiments, integration and reusable notebook tools</text>
+<line x1="70" x2="1030" y1="300" y2="300" stroke="#CCD3DF" stroke-width="3"/>
+<line x1="91.26" x2="91.26" y1="300" y2="310" stroke="#CCD3DF" stroke-width="2"/>
+<text x="91.26" y="335" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#17243C" text-anchor="middle">2023</text>
+<line x1="341.54" x2="341.54" y1="300" y2="310" stroke="#CCD3DF" stroke-width="2"/>
+<text x="341.54" y="335" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#17243C" text-anchor="middle">2024</text>
+<line x1="592.51" x2="592.51" y1="300" y2="310" stroke="#CCD3DF" stroke-width="2"/>
+<text x="592.51" y="335" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#17243C" text-anchor="middle">2025</text>
+<line x1="842.80" x2="842.80" y1="300" y2="310" stroke="#CCD3DF" stroke-width="2"/>
+<text x="842.80" y="335" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#17243C" text-anchor="middle">2026</text>
+<a href="https://github.com/fperez/jupytee/commit/47b8c75bc7b654b8c084471489381bd60dd1cf7a">
+<title>2022-12-20: Jupytee experiment; implementation</title>
+<line x1="83.03" x2="83.03" y1="300" y2="260" stroke="#CCD3DF" stroke-width="2"/>
+<circle cx="83.03" cy="300" r="7" fill="#2667DA"/>
+<text x="45.00" y="148" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#6953BD" text-anchor="start">20 Dec 2022</text>
+<text x="45.00" y="180" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#17243C" text-anchor="start">Jupytee experiment</text>
+<text x="45.00" y="211" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#17243C" text-anchor="start">Model prompts through</text>
+<text x="45.00" y="239" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#17243C" text-anchor="start">notebook commands</text>
+</a>
+<a href="https://blog.jupyter.org/posts/2023/generative-ai-in-jupyter/">
+<title>2023-08-02: Jupyter AI launches; release_announcement</title>
+<line x1="237.31" x2="237.31" y1="300" y2="365" stroke="#CCD3DF" stroke-width="2"/>
+<circle cx="237.31" cy="300" r="7" fill="#2667DA"/>
+<text x="140.00" y="397" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#6953BD" text-anchor="start">2 Aug 2023</text>
+<text x="140.00" y="430" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#17243C" text-anchor="start">Jupyter AI launches</text>
+<text x="140.00" y="460" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#17243C" text-anchor="start">Chat and magics;</text>
+<text x="140.00" y="488" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#17243C" text-anchor="start">a choice of models</text>
+</a>
+<a href="https://github.com/jupyterlite/ai/commit/9c8d350b8876ad3a9ffe8dbe723ca093bb680681">
+<title>2024-06-10: Codestral experiment; implementation</title>
+<line x1="451.94" x2="451.94" y1="300" y2="260" stroke="#CCD3DF" stroke-width="2"/>
+<circle cx="451.94" cy="300" r="7" fill="#2667DA"/>
+<text x="350.00" y="148" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#6953BD" text-anchor="start">10 Jun 2024</text>
+<text x="350.00" y="180" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#17243C" text-anchor="start">Codestral experiment</text>
+<text x="350.00" y="211" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#17243C" text-anchor="start">Completion and chat;</text>
+<text x="350.00" y="239" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#17243C" text-anchor="start">later JupyterLite AI</text>
+</a>
+<a href="https://github.com/jupyterlab/jupyter-ai/issues/1495">
+<title>2025-10-28: Split announced; announcement</title>
+<line x1="798.23" x2="798.23" y1="300" y2="365" stroke="#CCD3DF" stroke-width="2"/>
+<circle cx="798.23" cy="300" r="7" fill="#2667DA"/>
+<text x="680.00" y="397" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#6953BD" text-anchor="start">28 Oct 2025</text>
+<text x="680.00" y="430" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#17243C" text-anchor="start">Split announced</text>
+<text x="680.00" y="460" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#17243C" text-anchor="start">Existing code organized</text>
+<text x="680.00" y="488" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#17243C" text-anchor="start">into focused packages</text>
+</a>
+<a href="https://github.com/jupyterlab/jupyter-ai/releases/tag/v3.0.0">
+<title>2026-04-01: Jupyter AI 3.0; published_release</title>
+<line x1="904.51" x2="904.51" y1="300" y2="260" stroke="#CCD3DF" stroke-width="2"/>
+<circle cx="904.51" cy="300" r="7" fill="#2667DA"/>
+<text x="810.00" y="148" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#6953BD" text-anchor="start">1 Apr 2026</text>
+<text x="810.00" y="180" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#17243C" text-anchor="start">Jupyter AI 3.0</text>
+<text x="810.00" y="211" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#17243C" text-anchor="start">External agents;</text>
+<text x="810.00" y="239" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#17243C" text-anchor="start">notebook tools</text>
+</a>
+<a href="https://github.com/jupyterlab/jupyter-ai/releases/tag/v3.2.0">
+<title>2026-09-03: Jupyter AI 3.2; published_release</title>
+<line x1="1010.80" x2="1010.80" y1="300" y2="365" stroke="#CCD3DF" stroke-width="2"/>
+<circle cx="1010.80" cy="300" r="7" fill="#2667DA"/>
+<text x="910.00" y="397" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#6953BD" text-anchor="start">3 Sep 2026</text>
+<text x="910.00" y="430" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#17243C" text-anchor="start">Jupyter AI 3.2</text>
+<text x="910.00" y="460" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#17243C" text-anchor="start">Shared commands;</text>
+<text x="910.00" y="488" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#17243C" text-anchor="start">JSD optional</text>
+</a>
+<text x="45.00" y="538" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400" fill="#17243C" text-anchor="start">Selected events, not a replacement sequence. Earlier completion tools predate this view.</text>
+<text x="45.00" y="568" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400" fill="#17243C" text-anchor="start">Dates: UTC. Evidence through October 14, 2026. Sources: week3/data/timeline.csv.</text>
+</svg>

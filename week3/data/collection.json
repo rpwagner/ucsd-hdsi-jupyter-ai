@@ -1,0 +1,18 @@
+{
+  "base_private_main": "2a6e5793cb0c350e3c1ff64d059c9e38be88b24a",
+  "cutoff_exclusive_utc": "2026-10-15T00:00:00Z",
+  "collection_start_utc": "2026-10-15T17:28:44.388Z",
+  "collection_end_utc": "2026-10-15T17:36:46.781Z",
+  "record_count": 108,
+  "purpose": "Bounded public-source origin research, not an atomic snapshot or census",
+  "sha256": {
+    "inventory.json": "e71be977c8703dcaaed535fd93ec4b71c0e402c04b26666d871a9fb92d82faae",
+    "people-evidence.json": "6006e3951c1382b80b9e6df935334a872043e9500c9d5393c4e322e03c70eb29",
+    "milestones.json": "30b29426f4af30310968ba35caf995e994acc8d4c53f9c24b645ce53671151c8",
+    "relationships.json": "b08a595cd0390b1d075e4ca68bfa43e84801c11faabb92166a12d92aed7886d6",
+    "source-records.json": "678d6decd2cea29057e62d6458684c48cf9cf078dbd38ecc79f5864cd34a51bf",
+    "selection.md": "bcd06d246085d2350b1c99cec8d6f5318a5260a9a0ee346814451fab7afbb59d"
+  },
+  "classification_schema_version": 2,
+  "classification_revision": "Code organizational setting, prior Jupyter involvement and software lineage recorded independently; original source collection reused."
+}
