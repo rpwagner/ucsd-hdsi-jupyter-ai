@@ -25,6 +25,8 @@ We will open a disposable notebook, load a small BERT text-classification model 
 
 ### From running components to code and changes
 
+Optional video: [Jupyter & IPython terminology explained — Data School](https://www.youtube.com/watch?v=TDlGKocbHoc), an introduction to Jupyter Notebook, JupyterLab, IPython, and related terminology.
+
 Map the pieces we just used to their source repositories:
 
 | Piece in the demonstration | What we will connect it to | Source repository |

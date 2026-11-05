@@ -15,6 +15,8 @@
 
 Recall the notebook, Jupyter Server and Python kernel from Week 2. This week we add an AI assistant and ask: when it explains code, edits a cell or executes code, which piece is actually doing the work?
 
+Optional course: Jupyter AI: Coding in Notebooks — an introduction to working with Jupyter AI.: https://learn.deeplearning.ai/courses/jupyter-ai-coding-in-notebooks/lesson/5330udp0/introduction?utm_source=home&utm_medium=course-landing-page&utm_campaign=summary-cta-button
+
 ### First, talk to a model
 
 Open a disposable notebook in a prepared [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) teaching container. Add a simple [Jupyter AI](https://jupyter-ai.readthedocs.io/en/stable/users/) persona (the chat connection to a model) and inspect a small code-explanation request. The selected instructor model runs in [Ollama](https://ollama.com/) on the laptop, outside the teaching container, and is reached through an OpenAI-compatible API.

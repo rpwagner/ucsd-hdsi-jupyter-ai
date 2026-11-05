@@ -19,3 +19,6 @@
 - Questions, reactions, careers, and whatever the group wants to explore
 
 **Next week:** What is Jupyter?
+
+
+Optional resource: [Learn GitHub — SCDS Workshops](https://learn.scds.ca/github-pages/lessons/lesson2.html), a beginner-friendly introduction to GitHub's web interface, with a video and step-by-step instructions.
